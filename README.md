@@ -1,4 +1,5 @@
-# Programmering for 2i og 3i år 2022 til 2024
+# Programmering B 
+## Hold 2i og 3i - år 2022 til 2024
 
 Her kan du finde materialer, forløb, opgaver og alt andet vi arbejder og har arbejdet med på holdet.
 
