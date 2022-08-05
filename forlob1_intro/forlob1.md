@@ -1,3 +1,3 @@
 # Forløb 1 : Intro til processing, variabler og tegnefunktioner
 
-[Processing editoren]{processingeditoren.jpg}
+[brug af processing editoren](processing_editoren.jpg)
