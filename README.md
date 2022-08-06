@@ -1,6 +1,6 @@
 # Programmering B - 2i2
 
-Her kan du finde materialer, forløb, opgaver og alt andet vi arbejder og har arbejdet med på holdet.
+Her kan du finde forløb med dertilhørende materiale, opgaver og alt andet vi arbejder og har arbejdet med på holdet.
 
 Mvh underviseren selv Anders J.R. Petersen
 
