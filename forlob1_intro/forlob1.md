@@ -1,10 +1,18 @@
 # Forløb 1 : Intro til processing, variabler, datatyper og tegnefunktioner
 
-Dette er jeres første forløb. Tiderne nedenfor er kun vejledende.     
-Først skal i selvfølgelig downloade "Processing" *(varighed maksimalt 30 minutter )*.  
-Så vil der være et oplæg om selve Processing-editoren, og hvordan man anvender den til at skrive et lille processing program *(varighed cirka 30 minutter)*.    
-Herefter et oplæg om variabler og datatyper som er meget vigtige, faktisk forudsætningen for vi overhovedet kan skrive et computer-program *(varighed cirka 30 minutter)*.    
-Tilsidst får i en lille opgave som i skal aflevere. Nedenfor ses både links til processing, slides og opgaven *(varighed cirka 90 minutter)*.  
+Dette er jeres første forløb. Tiderne nedenfor er kun vejledende.
+
+Først skal i selvfølgelig downloade "Processing"    
+*varighed maks 30 minutter*  
+
+Så vil der være et oplæg om selve Processing-editoren, og hvordan man anvender den til at skrive et lille processing program   
+*varighed ca. 30 minutter*    
+
+Herefter et oplæg om variabler og datatyper som er meget vigtige, faktisk forudsætningen for vi overhovedet kan skrive et computer-program   
+*varighed ca. 30 minutter*    
+
+Tilsidst får i en lille opgave som i skal aflevere. Nedenfor ses både links til processing, slides og opgaven   
+*varighed ca. 90 minutter*  
 
 ## links
 
