@@ -13,21 +13,25 @@ Herefter et oplæg om variabler og datatyper som er meget vigtige, faktisk forud
 [slides_variable_datatyper.pdf](slides_variable_datatyper.pdf)  
 *varighed ca. 30 minutter*    
 
+## Skirv Logbog
+*varighed ca. 30 minutter*
+
+Aflever et lille afsnit i din log-bog om processing-programmers opbygning, variabler og datatyper.
+
+
 ## Opgaven : The creature 
-*varighed ca. 90 minutter*  
+*varighed ca. 60 minutter*  
 
 I skal nu anvende jeres nye viden til at lave et lille program, der tegner et selvvalgt væsen. 
 Selve tegningen skal laves vha. processings tegnefunktioner, kaldet "2D Primitives", se link til processing-manualen nedenfor.  
-***vigtigt: i programmering skal man ofte selv at finde, afprøve om implementere funktioner direkte fra manualen (eller andre steder)*** 
+***vigtigt: i programmering skal man ofte selv at finde, afprøve om kode man ikke er blevet undervist i. En del af opgaven er derfor selv at finde og anvende nødvendige tegne funktioner. Se f.eks. "ellipse", "rect", "line", "fill", "noFill"*** 
   
 [https://processing.org/reference/#shape](https://processing.org/reference/#shape)
 
 1. Tegn et væsen ved at anvende processings inbyggede tegnefunktioner "2D Primitives"
 
-2. Hvis du allerede er færdig med 1. kan du nu forsøge om du kan regne ud hvordan man bevæger "væsnet"
+2. Når du er færdig med 1. kan du nu forsøge om du kan regne ud hvordan man kan bevæge "væsnet"
 
-## Aflevering
+## Aflevering : The creature
 
-1. Aflever en zip-fil af din program-mappe på Lectio
-
-2. Aflever en lille 
+Aflever en zip-fil af din program-mappe på Lectio
