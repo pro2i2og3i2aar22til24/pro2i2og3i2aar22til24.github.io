@@ -1,5 +1,5 @@
 # Forløb 1 
-## Emner: Intro til processing, variabler, datatyper og tegnefunktioner
+## Intro til processing, variabler, datatyper og tegnefunktioner
 
 Først skal i introduceres til vores udviklingsmiljø Processing, se hjemmesiden og downloade programmet  
 [https://processing.org/](https://processing.org/)  
@@ -13,14 +13,15 @@ Herefter et oplæg om variabler og datatyper som er meget vigtige, faktisk forud
 [slides_variable_datatyper.pdf](slides_variable_datatyper.pdf)  
 *varighed ca. 30 minutter*    
 
-## Skirv Logbog
+## Logbog
 *varighed ca. 30 minutter*
 
-Aflever et lille afsnit i din log-bog om processing-programmers opbygning, variabler og datatyper.
+Skriv et lille afsnit i din log-bog om processing-programmers opbygning, variabler og datatyper.
+Anvend vigtige fagudtryk f.eks. *oprettelse, initalisering, værditildeling* eller *assignment*. 
 
 
-## Opgaven : The creature 
-*varighed ca. 60 minutter*  
+## Opgave : The creature 
+*varighed ca. 60 minutter + hjemmearbejde*  
 
 I skal nu anvende jeres nye viden til at lave et lille program, der tegner et selvvalgt væsen. 
 Selve tegningen skal laves vha. processings tegnefunktioner, kaldet "2D Primitives", se link til processing-manualen nedenfor.  
