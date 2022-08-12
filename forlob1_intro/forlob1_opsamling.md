@@ -107,10 +107,41 @@ void setup(){
 x = 0;
 }
 
-//inholdet i funktionen draw bliver som udgangspunkt gentaget med en frekvens på 30 gange pr sekund. Men det kan ændres.
+//inholdet i funktionen draw bliver som udgangspunkt gentaget med en frekvens på 30 gange pr sekund. Men det kan ændres til en anden frekvens.
 //draw må kun skrives en gang i hele programmet
 void draw(){
 x = x + 1;
 }
+```
+
+--------------------------------------------------------------------------------------------------------------
+
+##  Variabel-scope
+
+Der er to forskellige variabel-scopes
+
+- globale scopes : hvis variablen defineres udenfor alle krølle-paranteser er variablen global og kan bruges alle steder i programmet
+- lokale scopes : hvis variablen defineres indenfor en krølle-parantes er variablen lokal og kan kun anvendes her
+
+Her et lille eksempel
+
+```java
+
+int x = 0;        //x er en global variabel, der kan bruges alle steder
+
+void setup(){
+  int y = 10;     //y er en lokal variabel, den er defineret i setup og kan kun bruges i setup  
+}
+
+void draw(){
+  //de to linjer under virker fint!
+  x = x + 1;
+  println("x har værdien : " + x);
+  
+  //nedenstående to linjer fejler da y er en lokal variabel i "setup" og ikke i "draw"
+  y = y + 1;
+  println("y har værdien : " + y);
+}
+
 ```
 
