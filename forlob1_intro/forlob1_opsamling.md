@@ -1,5 +1,14 @@
 # Opsamling fra forløb 1 - Processing intro, variabler og datatyper
 
+Indhold:
+
+- [Husk semikolon](#husk-semikolon)
+- [Kommentarer i koden](#kommentarer-i-koden)
+- [Oprettelse af variabler](#oprettelse-af-variabler)
+- [Datatyper](#datatyper)
+- [Continuous vs. non-continuous kode](#continuous-vs-non-continuous-kode)
+- [Variabel-scope](#variabel-scope)
+
 --------------------------------------------------------------------------------------------------------------
 
 
@@ -74,10 +83,10 @@ Der er mange datatyper i Processing. Dem vi kommer til at arbejde mest med er
 --------------------------------------------------------------------------------------------------------------
 
 
-## continuous vs. non-continuous kode
+## Continuous vs. non-continuous kode
 *Begreberne continuous og non-continuous er min egen opfindelse.*
 
-### non-continuous kode
+### Non-continuous kode
 I denne simple tilstand laver man ikke funktioner som f.eks. "setup".
 Og koden kører kun en gang. 
 
@@ -88,7 +97,7 @@ x = 0;
 x = x + 1;
 ```
 
-### continuous kode
+### Continuous kode
 Her anvendes implementation af funktioner, som "setup" og "draw".  
 ```java
 // continous kode
