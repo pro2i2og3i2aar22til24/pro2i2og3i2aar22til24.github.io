@@ -1,5 +1,4 @@
 # Opsamling fra forløb 1 - Processing intro, variabler og datatyper
-Her en opsamling fra sidst ... og ting jeg har glemt.
 
 --------------------------------------------------------------------------------------------------------------
 
