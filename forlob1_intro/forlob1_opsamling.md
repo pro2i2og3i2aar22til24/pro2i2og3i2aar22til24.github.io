@@ -2,38 +2,63 @@
 Her en opsamling fra sidst med de vigtigste pointer ... og ting jeg har glemt.
 
 --------------------------------------------------------------------------------------------------------------
+
+
 ## Husk semikolon
 
 
-Denne kode virker
+Denne kode virker | Denne kode fejler!!!
+------------------|---------------------
+`int x;`    | `int x`
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+## Kommentarer i koden
+
+Det er vigtigt i skriver kommentarer i jeres kode, så i kan huske hvordan koden virker.  
+
 ```java
+// Her oprettes en heltals-variable med navnet x
 int x;
-x = 0;
 ```
-Denne kode fejler!!!
+Kommentarer kan også bruges til at deaktivere koden... så den ikke virker. Kan være praktisk til at finde fejl
 ```java
-int x
-x = 0;
+// Nu oprettes der ikke en heltalsvariabel, da nedenstående kode bare er en kommentar
+//int x;
 ```
+
+
+
 
 --------------------------------------------------------------------------------------------------------------
 
 ## Oprettelse af variabler
 Når man opretter en varible, også kaldet deklarerer en variable, angiver man datatypen og variablenavnet.  
-Her oprettes heltals-variablen x 
+
 ```java
+// Her oprettes heltals-variablen x 
 int x;
 ```
-Man kan herefter tildele værdier til variablen, med =
+
 ```java
+//Man kan herefter tildele værdier til variablen, med =
 int x;
 x = 0;
 ```
-Både deklaration og værditildeling kan laves på samme linje
+
 ```java
+//Både deklaration og værditildeling kan laves på samme linje
 int x = 0;
 ```
 
+
+```java
+// Vigtigt : Man kan ikke anvende en variabel der ikke er oprettet/deklareret**
+//Denne kode fejler:
+x = 0;
+```
 --------------------------------------------------------------------------------------------------------------
 
 ## Datatyper
@@ -46,25 +71,46 @@ Der er mange datatyper i Processing. Dem vi kommer til at arbejde mest med er
 |boolean| kan indeholde værdierne *true* eller *false*|
 |String | kan tekster f.eks. *"hej verden!"*|
 
+--------------------------------------------------------------------------------------------------------------
 
 
+## continuous vs. non-continuous kode
+I processing er det muligt at skrive kode i to forskellig tilstande.
+(begreberne continuous og non-continuous er min egen opfindelse).
 
+### non-continuous kode
+**Denne tilstand bruger vi ikke når vi afleverer programmer*    
+Her anvender man ikke funktionen "setup", funktionen "draw" eller andre implementation af andre funktioner/metoder i sin kode.
+Og koden kører kun en gang. 
 
+```java
+// non-continous kode
+int x;
+x = 0;
+x = x + 1;
+```
 
+### continuous kode
+**Det er denne tilstand vi anvender når vi skriver programmer der skal afleveres*    
+Her anvendes implementation af funktioner, som "setup" og "draw":
+```java
+// continous kode
 
+//man må gerne oprette variabler udenfor setup og draw
+//men man må ikke skrive såkaldt aktiv kode såsom: x = 0;
+//andet aktiv kode, der selfølgelig heller ikke må skrives her er f.eks.: size(500,500)
+int x = 0;
 
+//indholdet i funktion setup bliver kørt én gang i starten af programmet.  
+//setup må kan skrives en gang i hele programmet
+void setup(){
+x = 0;
+}
 
-## Continous-mode vs. Non-continous-mode (begreberne er opfundet af mig)
-I processing er det muligt at skrive i to forskellig "modes" .
+//inholdet i funktionen draw bliver som udgangspunkt gentaget med en frekvens på 30 gange pr sekund. Men det kan ændres.
+//draw må kun skrives en gang i hele programmet
+void draw(){
+x = x + 1;
+}
+```
 
-### Non-continous mode (uden brug af funktioner/metoder):
-Den mest simple måde du kan skrive programmer på er det man kan kalde "non-continous".
-
-*setup og draw* : Når man skriver setup og draw, er det vigtigt at kende noget til hvor man må skrive sin kode.
-
-*aktiv kode* : Når man har lavet en setup og draw, skal alt akriv kode stå indenfor disse metoder!
-
-
-
-
-*variable scop* : variabler eksisterer inde i scopes
