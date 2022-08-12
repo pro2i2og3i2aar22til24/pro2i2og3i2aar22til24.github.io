@@ -1,5 +1,5 @@
-# Opsamling fra forløb 1 - Introduktion til processing, variabler og datatyper
-Her en opsamling fra sidst med de vigtigste pointer ... og ting jeg har glemt.
+# Opsamling fra forløb 1 - Processing intro, variabler og datatyper
+Her en opsamling fra sidst ... og ting jeg har glemt.
 
 --------------------------------------------------------------------------------------------------------------
 
@@ -7,7 +7,7 @@ Her en opsamling fra sidst med de vigtigste pointer ... og ting jeg har glemt.
 ## Husk semikolon
 
 
-Denne kode virker | Denne kode fejler!!!
+Kode virker | Kode fejler!!!
 ------------------|---------------------
 `int x;`    | `int x`
 
@@ -17,13 +17,13 @@ Denne kode virker | Denne kode fejler!!!
 
 ## Kommentarer i koden
 
-Det er vigtigt i skriver kommentarer i jeres kode, så i kan huske hvordan koden virker.  
+Det er vigtigt at skrive kommentarer, så man husker hvordan koden virker.  
 
 ```java
-// Her oprettes en heltals-variable med navnet x
+// Her oprettes en heltals-variabel kaldet x
 int x;
 ```
-Kommentarer kan også bruges til at deaktivere koden... så den ikke virker. Kan være praktisk til at finde fejl
+Kommentarer kan bruges til at deaktivere kode... Det kan være praktisk til at finde fejl.
 ```java
 // Nu oprettes der ikke en heltalsvariabel, da nedenstående kode bare er en kommentar
 //int x;
@@ -35,7 +35,8 @@ Kommentarer kan også bruges til at deaktivere koden... så den ikke virker. Kan
 --------------------------------------------------------------------------------------------------------------
 
 ## Oprettelse af variabler
-Når man opretter en varible, også kaldet deklarerer en variable, angiver man datatypen og variablenavnet.  
+Når man opretter en varible angiver man altid datatypen og variablenavnet.  
+Det kaldes også "deklarerer en variable".
 
 ```java
 // Her oprettes heltals-variablen x 
@@ -55,8 +56,8 @@ int x = 0;
 
 
 ```java
-// Vigtigt : Man kan ikke anvende en variabel der ikke er oprettet/deklareret**
-//Denne kode fejler:
+//Vigtigt : Man kan ikke anvende en variabel, der ikke er oprettet/deklareret
+//Dette program fejler
 x = 0;
 ```
 --------------------------------------------------------------------------------------------------------------
@@ -64,9 +65,9 @@ x = 0;
 ## Datatyper
 Der er mange datatyper i Processing. Dem vi kommer til at arbejde mest med er
 
-
-|int    | kan indeholde heltal f.eks. *1*|
+|Datatype| forklaring |
 |:---------|:--------------------------------|
+|int    | kan indeholde heltal f.eks. *1*|
 |float  | kan indeholde kommatal f.eks. *1.12*|
 |boolean| kan indeholde værdierne *true* eller *false*|
 |String | kan tekster f.eks. *"hej verden!"*|
@@ -75,12 +76,10 @@ Der er mange datatyper i Processing. Dem vi kommer til at arbejde mest med er
 
 
 ## continuous vs. non-continuous kode
-I processing er det muligt at skrive kode i to forskellig tilstande.
-(begreberne continuous og non-continuous er min egen opfindelse).
+*Begreberne continuous og non-continuous er min egen opfindelse.*
 
 ### non-continuous kode
-**Denne tilstand bruger vi ikke når vi afleverer programmer*    
-Her anvender man ikke funktionen "setup", funktionen "draw" eller andre implementation af andre funktioner/metoder i sin kode.
+I denne simple tilstand laver man ikke funktioner som f.eks. "setup".
 Og koden kører kun en gang. 
 
 ```java
@@ -91,8 +90,7 @@ x = x + 1;
 ```
 
 ### continuous kode
-**Det er denne tilstand vi anvender når vi skriver programmer der skal afleveres*    
-Her anvendes implementation af funktioner, som "setup" og "draw":
+Her anvendes implementation af funktioner, som "setup" og "draw".  
 ```java
 // continous kode
 
@@ -120,10 +118,8 @@ x = x + 1;
 
 Der er to forskellige variabel-scopes
 
-- globale scopes : hvis variablen defineres udenfor alle krølle-paranteser er variablen global og kan bruges alle steder i programmet
-- lokale scopes : hvis variablen defineres indenfor en krølle-parantes er variablen lokal og kan kun anvendes her
-
-Her et lille eksempel
+- globalt: hvis variablen defineres udenfor alle krølle-paranteser er variablen global og kan bruges alle steder i programmet
+- lokalt : hvis variablen defineres indenfor en krølle-parantes er variablen lokal og kan kun anvendes her
 
 ```java
 
@@ -144,4 +140,3 @@ void draw(){
 }
 
 ```
-
