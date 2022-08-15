@@ -1,7 +1,7 @@
 # Forløb 2
 ## Aritmetiske operatorer og billeder
 
-----------------------------------------------------------------------------------
+
 ## 1. del
 *varighed cirka 45 minutter*
 
@@ -9,22 +9,19 @@
 
 [aritmetiske operatorer](aritmetiske_operatorer.md)
 
-----------------------------------------------------------------------------------
 
 ## 2. del - Logbog
 *varighed cirka 15 minutter*
 
 skriv et afsnit i jeres logbog om hvad aritmetiske operatorer er
 
-----------------------------------------------------------------------------------
+
 ## 3. del
 *varighed cirka 30 minutter*
 
 [arbejdsmetoden i programmering & billeder](arbejdsmetode_og_billeder.md)
 
 
-
-----------------------------------------------------------------------------------
 
 ## 4. del - Kodeopgave : Bilerne på vejen ##
 *varighed cirka 30 minutter*
