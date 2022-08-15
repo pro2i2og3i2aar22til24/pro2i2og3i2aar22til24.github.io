@@ -6,16 +6,16 @@ Mvh underviseren selv Anders J.R. Petersen
 
 ---
 
-[Arbejdsformer og opgavetyper](arbejdsformer/arbejdsformer.md)
+[arbejdsformer og opgavetyper](arbejdsformer/arbejdsformer.md)
 
 ---
 
-[Materialer til Forløb 1 : Processing, datatyper, variabler og tegnefunktioner](forlob1_intro/forlob1.md)
+[forløb 1 - materialer : *processing, datatyper, variabler og tegnefunktioner*](forlob1_intro/forlob1.md)
 
-[Opsamling fra forløb 1 : Husk semikolon, kommentarer, opret variabler, datatyper, continous kode og variabel scope](forlob1_intro/forlob1_opsamling.md)
+[forløb 1 - opsamling  : *husk semikolon, kommentarer, opret variabler, datatyper, continous kode og variabel scope*](forlob1_intro/forlob1_opsamling.md)
 
 ---
 
-[Materialer til Forløb 2 : Aritmetiske operatorer, arbejdsmetode og billeder](forlob2_operatorer_og_arbejdsmetode/forlob2_operatorer_og_arbejdsmetode.md)
+[forløb 2 - materialer : *aritmetiske operatorer, arbejdsmetode og billeder*](forlob2_operatorer_og_arbejdsmetode/forlob2_operatorer_og_arbejdsmetode.md)
 
 ---
