@@ -1,8 +1,8 @@
 # Forløb 2
-## Aritmetiske operatorer og billeder
+## Aritmetiske operatorer, arbejdsmetode og billeder
 
 
-## 1. del
+## 1. del - Aritmetiske operatorer
 *varighed cirka 45 minutter*  
 [opsamling fra forløb 1](../forlob1_intro/forlob1_opsamling.md)  
 [aritmetiske operatorer](aritmetiske_operatorer.md)
@@ -13,7 +13,7 @@
 skriv et afsnit i jeres logbog om hvad aritmetiske operatorer er
 
 
-## 3. del
+## 3. del - Arbejdsmetode og billeder
 *varighed cirka 30 minutter*  
 [arbejdsmetoden i programmering & billeder](arbejdsmetode_og_billeder.md)
 
