@@ -60,3 +60,7 @@ Her kan du se hvordan programmet ser ud når koden køres
 
 #### bil_spejlvendt.png - højreklik og download
 [bil_spejlvendt.png](biler_billeder/bil_spejlvendt.png)
+![bil.png](biler_billeder/bil.png)
+
+![bil_spejlvendt.png](biler_billeder/bil_spejlvendt.png)
+
