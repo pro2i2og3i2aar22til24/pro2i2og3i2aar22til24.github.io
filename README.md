@@ -14,6 +14,6 @@ Mvh underviseren selv Anders J.R. Petersen
 
 ---
 
-[Materialer til Forløb 2 : Opsamling og operatorer](forlob2_operatorer_og_arbejdsmetode/forlob2_operatorer_og_arbejdsmetode.md)
+[Materialer til Forløb 2 : Aritmetiske operatorer, arbejdsmetode og billeder](forlob2_operatorer_og_arbejdsmetode/forlob2_operatorer_og_arbejdsmetode.md)
 
 ---
