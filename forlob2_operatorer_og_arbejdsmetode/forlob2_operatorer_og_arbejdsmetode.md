@@ -1,10 +1,11 @@
 # Forløb 2
 ## Aritmetiske operatorer, arbejdsmetode og billeder
 
+[opsamling fra forløb 1](../forlob1_intro/forlob1_opsamling.md) 
+
 
 ## 1. del - Aritmetiske operatorer
 *varighed cirka 45 minutter*  
-[opsamling fra forløb 1](../forlob1_intro/forlob1_opsamling.md)  
 [aritmetiske operatorer](aritmetiske_operatorer.md)
 
 
