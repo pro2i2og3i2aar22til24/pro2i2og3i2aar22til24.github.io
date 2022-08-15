@@ -23,6 +23,7 @@ skriv et afsnit i jeres logbog om hvad aritmetiske operatorer er
 Skrive kode der viser en animation, som svarer til den i videoen nedenfor.  
 Inden du skriver koden skal du dog dele opgaven op i små del-opgaver, og forsøge at skrive koden vha. "stepwise improvement".  
 Delopgaverne kan du skrive som noter øverst i din kode.  
+Opgaven skal afleveres på Lectio, i den dertilhørende opgave
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/klF1Ciz9fv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
