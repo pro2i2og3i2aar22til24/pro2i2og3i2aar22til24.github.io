@@ -11,7 +11,7 @@
 
 ----------------------------------------------------------------------------------
 
-[Arbejdsmetoden i programmering](aritmetiske_operatorer.md)
+[Arbejdsmetoden i programmering & billeder](arbejdsmetode_og_billeder.md)
 
 ----------------------------------------------------------------------------------
 
