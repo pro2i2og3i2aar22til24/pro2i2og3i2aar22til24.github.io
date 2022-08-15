@@ -2,20 +2,32 @@
 ## Aritmetiske operatorer og billeder
 
 ----------------------------------------------------------------------------------
+## 1. del
+*varighed cirka 45 minutter*
 
-[Opsamling fra forløb 1](../forlob1_intro/forlob1_opsamling.md)
+[opsamling fra forløb 1](../forlob1_intro/forlob1_opsamling.md)
 
-----------------------------------------------------------------------------------
-
-[Aritmetiske operatorer](aritmetiske_operatorer.md)
-
-----------------------------------------------------------------------------------
-
-[Arbejdsmetoden i programmering & billeder](arbejdsmetode_og_billeder.md)
+[aritmetiske operatorer](aritmetiske_operatorer.md)
 
 ----------------------------------------------------------------------------------
 
-## Kodeopgave : Bilerne på vejen ##
+## 2. del - Logbog
+*varighed cirka 15 minutter*
+
+skriv et afsnit i jeres logbog om hvad aritmetiske operatorer er
+
+----------------------------------------------------------------------------------
+## 3. del
+*varighed cirka 30 minutter*
+
+[arbejdsmetoden i programmering & billeder](arbejdsmetode_og_billeder.md)
+
+
+
+----------------------------------------------------------------------------------
+
+## 4. del - Kodeopgave : Bilerne på vejen ##
+*varighed cirka 30 minutter*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/klF1Ciz9fv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
