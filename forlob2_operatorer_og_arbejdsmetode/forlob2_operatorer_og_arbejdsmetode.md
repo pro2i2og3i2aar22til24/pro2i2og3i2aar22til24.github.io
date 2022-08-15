@@ -8,3 +8,7 @@
 ## Kodeopgave : Bilerne på vejen ##
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/klF1Ciz9fv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[bil.png](biler_billeder/bil.png)
+
+[bil_spejlvendt.png](biler_billeder/bil_spejlvendt.png)
