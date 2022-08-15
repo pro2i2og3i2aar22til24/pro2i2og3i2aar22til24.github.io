@@ -14,8 +14,6 @@ Mvh underviseren selv Anders J.R. Petersen
 
 ---
 
-[Opsamling fra forløb 1](forlob1_intro/forlob1_opsamling.md)
-
 [Materialer til Forløb 2 : Opsamling og operatorer](forlob2_operatorer_og_arbejdsmetode/forlob2_operatorer_og_arbejdsmetode.md)
 
 ---
