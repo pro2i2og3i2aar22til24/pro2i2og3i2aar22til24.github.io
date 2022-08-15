@@ -3,6 +3,18 @@
 
 ![opertorer](operatorer.png)
 
+## Lille opgave : Afprøvning af operatorer
+
+Skriv følgende lille program, og byt "+" ud med de forskellige andre operatorer.
+Kan i forklare hvordan de forskellige opartorer virker eller ikke virker.
+
+```java
+int x=1,y=2,z=3;
+println(x+y);
+```
+
+## Afprøvning af aritmetiske operatorer
+
 Nedenfor anvendes de forskellige aritmetiske opertorer på variablen x
 
 ```java
