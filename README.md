@@ -12,6 +12,8 @@ Mvh underviseren selv Anders J.R. Petersen
 
 [Materialer til Forløb 1 : Processing, datatyper, variabler og tegnefunktioner](forlob1_intro/forlob1.md)
 
+[Opsamling fra forløb 1 : Husk semikolon, kommentarer, opret variabler, datatyper, continous kode og variabel scope](forlob1_intro/forlob1_opsamling.md)
+
 ---
 
 [Materialer til Forløb 2 : Aritmetiske operatorer, arbejdsmetode og billeder](forlob2_operatorer_og_arbejdsmetode/forlob2_operatorer_og_arbejdsmetode.md)
