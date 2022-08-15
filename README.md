@@ -12,9 +12,10 @@ Mvh underviseren selv Anders J.R. Petersen
 
 [Materialer til Forløb 1 : Processing, datatyper, variabler og tegnefunktioner](forlob1_intro/forlob1.md)
 
-[Opsamling fra forløb 1](forlob1_intro/forlob1_opsamling.md)
-
 ---
 
-[Materialer til Forløb 2 : Opsamling og operatorer](forlob2/forlob2.md)
+[Opsamling fra forløb 1](forlob1_intro/forlob1_opsamling.md)
 
+[Materialer til Forløb 2 : Opsamling og operatorer](forlob2_operatorer_og_arbejdsmetode/forlob2_operatorer_og_arbejdsmetode.md)
+
+---
