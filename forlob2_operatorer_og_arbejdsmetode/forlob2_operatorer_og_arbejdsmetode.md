@@ -7,11 +7,11 @@
 
 ----------------------------------------------------------------------------------
 
-[Lektion 1 : Aritmetiske operatorer](aritmetiske_operatorer.md)
+[Aritmetiske operatorer](aritmetiske_operatorer.md)
 
 ----------------------------------------------------------------------------------
 
-[Lektion 2 : Aritmetiske operatorer](aritmetiske_operatorer.md)
+[Arbejdsmetoden i programmering](aritmetiske_operatorer.md)
 
 ----------------------------------------------------------------------------------
 
