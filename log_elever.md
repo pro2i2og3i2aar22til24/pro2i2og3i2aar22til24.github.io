@@ -1,10 +1,10 @@
 | navn | link til logbog |
 | ---- | ----------------|
-| Anas Al-Hummadi, L 2i2 01 | ... |
-| Anas Sami Al-Atrash, L 2i2 02| ... |
-| August Emil Eklund, L 2i2 03| ... |
-| Boaz de Jager, L 2i2 04| ... |
-| Emil Laveikina Gotlieb, L 2i2 05| ... |
+| Anas Al-Hummadi, L 2i2 01 | https://docs.google.com/document/d/1ldHgEfE_dMowSb-B8eF7Pv-dhEGJNLb4ah7q-Wq4GfI/edit |
+| Anas Sami Al-Atrash, L 2i2 02|https://docs.google.com/document/d/1Ws3ln8YeAFtRcXNDdce3m1i3bsK3SKV_YqmrnXubldQ/edit?usp=sharing	 |
+| August Emil Eklund, L 2i2 03| https://docs.google.com/document/d/1qiC-9tcWy6SxP0u3V6mtKkiNURUPp9Qh6o32v1McEIE/edit	 |
+| Boaz de Jager, L 2i2 04| https://docs.google.com/document/d/1isYvsdNxXI0uyB7xRIqT5DNRR4NdJIuj4L3xdjaXtds/edit?usp=sharing |
+| Emil Laveikina Gotlieb, L 2i2 05| https://teccph-my.sharepoint.com/:o:/g/personal/emil792t_elev_tec_dk/EgLLK62F5qdPo-gbS3ai6cEB7pmIxJQbjmec_492AbJUlg?e=SCtTe2 |
 | Ersan Ökmen, L 2i2 06| ... |
 | Gustav Wilbert Quaade Brøndsted, L 2i2 07| ... |
 | Jonathan Lyhne Borgholm, L 2i2 08| ... |
