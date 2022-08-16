@@ -10,7 +10,7 @@ Når man laver computer programmer arbejder man ofte efter en metode man kan kal
 
 1. Start med at bryde problemmet ned i små dele
 2. Herefter starte man på *første del*
-3. Test løbende kode ved at køre programmet og udskrive eventuelt variabel-værdier
+3. Man tester løbende kode ved at køre programmet og udskrive eventuelt variabel-værdier
 4. Det kan være nødvendigt at bryde en del ned i flere dele
 5. Man går videre til næste del, når koden fungerer
 
