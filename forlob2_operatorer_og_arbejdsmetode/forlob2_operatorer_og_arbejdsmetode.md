@@ -6,6 +6,7 @@
 
 ## 1. del - Aritmetiske operatorer
 *varighed cirka 45 minutter*  
+[https://processing.org/reference/#math](https://processing.org/reference/#math)  
 [aritmetiske operatorer](aritmetiske_operatorer.md)
 
 
@@ -16,6 +17,7 @@ skriv et afsnit i jeres logbog om hvad aritmetiske operatorer er
 
 ## 3. del - Arbejdsmetode og billeder
 *varighed cirka 30 minutter*  
+[https://processing.org/reference/#image](https://processing.org/reference/#image)  
 [arbejdsmetoden i programmering & billeder](arbejdsmetode_og_billeder.md)
 
 
