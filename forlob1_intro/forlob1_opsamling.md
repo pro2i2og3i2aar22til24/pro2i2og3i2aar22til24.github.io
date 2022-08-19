@@ -102,7 +102,7 @@ Her anvendes implementation af funktioner, som "setup" og "draw".
 ```java
 // continous kode
 
-//man må gerne oprette variabler udenfor setup og draw
+//man må gerne oprette variabler udenfor setup, draw eller andre funktioner ... 
 //men man må ikke skrive såkaldt aktiv kode såsom: x = 0;
 //andet aktiv kode, der selfølgelig heller ikke må skrives her er f.eks.: size(500,500)
 int x = 0;
