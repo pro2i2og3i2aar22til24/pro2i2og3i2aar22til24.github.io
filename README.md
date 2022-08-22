@@ -19,3 +19,5 @@ Mvh underviseren selv Anders J.R. Petersen
 [forløb 2 - materialer : *aritmetiske operatorer, arbejdsmetode og billeder*](forlob2_operatorer_og_arbejdsmetode/forlob2_operatorer_og_arbejdsmetode.md)
 
 ---
+
+[forløb 3 - materialer : *if-else, relations-operatorer og logiske-operatorer*](forlob3)
