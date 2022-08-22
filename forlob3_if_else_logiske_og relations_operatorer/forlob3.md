@@ -4,13 +4,29 @@
 Koden afvikles sekventielt, dvs. linje for linje, men kodens afvikling kan kontrolleres...
 
 ## 1. del - Oplæg
-*varighed cirka 30 minutter*  
+*varighed cirka 20 minutter*  
 [slides : if-else, relations-operatorer og logiske-operatorer](if_else_og_operatorer.pdf)
 
-## 2. del - Kompas-opgave
-*varighed cirka 30 minutter*
-Lav lille program, der tegner et kompas og skriver musen position ift. kompasset.
-Er musens position i enten Syd, Nord, Øst eller Vest??
+## 2. del - Kvadrant-opgaven
+*varighed cirka 20 minutter*
+Lav et lille program, der tegner skriver hvilken kvadrant musen er i.
+Husk lav en liste over de krav / steps i skal tage for at lave programmet.  
 
-## 2. del - Lav opgaven og logbog
-*varighed cirka 30 minutter*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-WkLxDzIOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 3. del - Kompas-opgaven
+*varighed cirka 20 minutter*
+Lav et lille program, der tegner et kompas og skriver musen position ift. kompasset i midten af vinduet.   
+Er musens position i enten Syd, Nord, Øst eller Vest??   
+Husk lav en liste over de krav / steps i skal tage for at lave programmet.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FOtPUsnr2-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 4. del - lille fællesopgave
+*varighed cirka 5 minutter*
+
+
+## 5. del - Afleveringsopgaven
+*varighed cirka 55 minutter*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VjsKlSEuVcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
