@@ -22,6 +22,6 @@ Mvh underviseren selv Anders J.R. Petersen
 
 [forløb 3 - materialer : *if-else, relations-operatorer og logiske-operatorer*](forlob3_if_else_logiske_og_relations_operatorer/forlob3.md)
 
-[forløb 3 - opsamling  : *hvad er flow-control, aktiv kode og fejl med semikolon*](forlob3_if_else_logiske_og_relations_operatorer/forlob3_opsamling.md)
+[forløb 3 - opsamling  : *flow-control, aktivkode fejl og semikolons fejln*](forlob3_if_else_logiske_og_relations_operatorer/forlob3_opsamling.md)
 
 ---
