@@ -1,4 +1,6 @@
-# Opsamling fra forløb 3 - hvad er flow-control, aktiv kode og fejl med semikolon
+# Opsamling fra forløb 3 - hvad er flow-control, aktivkode fejl og semikolons fejl
+
+## Flow control
 
 I processing´s egen reference arbejder vi nu med emnet "control" - nogle steder ville man kalde det "flow-control":
 
@@ -8,7 +10,7 @@ Control eller flow-control omhandler styring af rækkefølgen vi afvikler koden.
 
 ---
 
-## Lav ikke følgende fejl !
+##  Aktivkode fejl og semikolons fejl
 
 Flere laver stadig følgende fejl. For at undgå fejlene er det vigtigt at forstå hvorfor og hvad der er forkert.
 
