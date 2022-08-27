@@ -2,7 +2,7 @@
 
 I processing´s egen reference er arbejder vi nu med emnet "control" - nogle steder ville man kalde de "flow-control":
 
-https://processing.org/reference/#control
+[https://processing.org/reference/#control](https://processing.org/reference/#control)
 
 Control eller flow-control omhandler på styring af i hvilken rækkefølge vi gerne vil have afviklet koden.
 
