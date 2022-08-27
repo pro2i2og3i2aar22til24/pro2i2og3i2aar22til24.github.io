@@ -25,3 +25,5 @@ Mvh underviseren selv Anders J.R. Petersen
 [forløb 3 - opsamling  : *flow-control, aktivkode fejl og semikolons fejl*](forlob3_if_else_logiske_og_relations_operatorer/forlob3_opsamling.md)
 
 ---
+
+[forløb 4 - materialer : *switch, while og for-loop´s*](forlob4_switch_while_for_loop/forlob4.md)
