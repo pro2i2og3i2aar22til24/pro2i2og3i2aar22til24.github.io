@@ -76,6 +76,8 @@ void draw(){
 
 ----------------------------------------------------------------------------------------------------------------------
 
+# Olivers regel
+
 > ***Oliver's regel : skriv altid første krølleparantes på samme linje som "if"***.    
 >>if(condition){    
 >>     kode     
