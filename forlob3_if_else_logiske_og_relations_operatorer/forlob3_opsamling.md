@@ -1,12 +1,14 @@
-# Opsamling fra forløb 3 - if/else, relations operatorer og logiske forlob2_operatorer_og_arbejdsmetode
+# Opsamling fra forløb 3 - if/else, relations operatorer og logiske
 
-I processing´s egen reference er arbejder vi nu med emnet "control" - nogle steder ville man kalde de "flow-control":
+I processing´s egen reference arbejder vi nu med emnet "control" - nogle steder ville man kalde det "flow-control":
 
 https://processing.org/reference/#control
 
-Control eller flow-control omhandler på styring af i hvilken rækkefølge vi gerne vil have afviklet koden.
+Control eller flow-control omhandler styring af rækkefølgen vi afvikler koden.
 
 ---
+
+## Lav ikke følgende fejl !
 
 Flere laver stadig følgende fejl. For at undgå fejlene er det vigtigt at forstå hvorfor og hvad der er forkert.
 
