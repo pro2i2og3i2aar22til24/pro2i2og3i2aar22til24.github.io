@@ -79,13 +79,14 @@ void draw(){
 # Olivers regel
 
 > ***Oliver's regel : når du skriver en "if-statement", skriv da altid første krølleparantes på samme linje som "if"***.      
->>***Rigtig måde at skrive if-statements:***
+> 
+> ***Rigtig måde at skrive if-statements:***
 >>if(betingelse){    
 >>     kode der skal eksekveres hvis betingelsen er sand     
 >>}
 >>
->>***Forkert måde at skrive if-statements:***
->>if(betingelse)
+> ***Forkert måde at skrive if-statements:***
+>>if(betingelse)       
 >>{    
 >>     kode der skal eksekveres hvis betingelsen er sand     
 >>}
