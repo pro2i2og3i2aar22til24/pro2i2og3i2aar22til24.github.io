@@ -1,4 +1,4 @@
-# Opsamling fra forløb 3 - if/else, relations operatorer og logiske
+# Opsamling fra forløb 3 - hvad er flow-control, aktiv kode og fejl med semikolon
 
 I processing´s egen reference arbejder vi nu med emnet "control" - nogle steder ville man kalde det "flow-control":
 
