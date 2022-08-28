@@ -16,10 +16,10 @@ slides til oplæg:
 I skal forsøge at lave et program, der gør det samme som det i ser på videoen.  
 Det er dog et krav at i skal anvende et switch-statement til at skifte størrelsen på cirklen.   
 
-Du kan anvende den indbyggede integer 'keyCode' til at tjekke den sidste anvendte tast's såkaldte key-code værdi.  
-Den indbyggede variabel String 'key' indeholder tasten...se referencen her:
-[https://processing.org/reference/keyCode.html](https://processing.org/reference/keyCode.html)    
-[https://processing.org/reference/key.html](https://processing.org/reference/key.html)    
+Du kan anvende den indbyggede integer 'keyCode' til at tjekke den sidste anvendte tast's såkaldte key-code værdi.          
+Den indbyggede variabel String 'key' indeholder tasten...se referencen her:        
+[https://processing.org/reference/keyCode.html](https://processing.org/reference/keyCode.html)              
+[https://processing.org/reference/key.html](https://processing.org/reference/key.html)             
 
 
 
