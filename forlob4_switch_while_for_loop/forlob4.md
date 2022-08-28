@@ -23,7 +23,7 @@ Den indbyggede char variabel 'key' indeholder tegnet/symbolet på tasten...se re
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nVqsBZzd22A?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 3.del - oplæg om iteration, for og while loops
+## 3. del - oplæg om iteration, for og while loops
 
 referencen:   
 [https://processing.org/reference/for.html](https://processing.org/reference/for.html)      
@@ -31,3 +31,35 @@ referencen:
 
 slides til oplæg:
 [slides loops](slides_switch.pdf)
+
+### Træning i for-loops
+
+```java
+//hvad bliver skrevet ud og hvorfor
+for(int i=0; i <10 ; i++){
+  println(i);
+}
+```
+```java
+//hvad bliver skrevet ud og hvorfor
+int i = 0;
+for(; i < 10 ;){
+  println(i);
+  i++;
+}
+```
+```java
+//hvad bliver skrevet ud og hvorfor
+int i = 0;
+for(; i < 10 ;){
+  i++;
+  println(i);
+}
+```
+
+
+
+
+
+
+## 4. del - opgave i loops
