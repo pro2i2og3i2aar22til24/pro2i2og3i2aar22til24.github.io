@@ -107,7 +107,7 @@ for(int i=0; i<5;i++);{
 
 
 
-## 4. del - opgave i loops
+## 4. del - Afleveringsopgaven - firkanter med loops
 
 I kan denne gang vælge imellem tre forskellige sværhedsgrader i jeres afleveringsopgave.
 
