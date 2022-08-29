@@ -117,13 +117,13 @@ I kan denne gang vælge imellem tre forskellige sværhedsgrader i jeres afleveri
 
 ### Sværhedsgrad 2: alle firkanter skal rotere omkring vinduets midte
 
-***Hint:[https://processing.org/reference/rotate_.html](https://processing.org/reference/rotate_.html)***
+***Hint: [https://processing.org/reference/rotate_.html](https://processing.org/reference/rotate_.html)***
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dT8u2Zgyhi8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Sværhedsgrad 2: alle firkanter skal rotere omkring vinduets midte, og rotere om sig selv med dobbelt så høj hastighed
+### Sværhedsgrad 3: alle firkanter skal rotere omkring vinduets midte, og rotere om sig selv med dobbelt så høj hastighed
 
-
+***Hint: [https://processing.org/tutorials/transform2d/#the-transformation-matrix](https://processing.org/tutorials/transform2d/#the-transformation-matrix)***
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N929OS0dv14?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
