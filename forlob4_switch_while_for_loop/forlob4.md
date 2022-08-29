@@ -109,7 +109,12 @@ for(int i=0; i<5;i++);{
 
 ## 4. del - opgave i loops
 
+I kan denne gang vælge imellem tre forskellige sværhedsgrader i jeres afleveringsopgave.
+
+![firkantopgaven_med_for_loop.jpg](firkantopgaven_med_for_loop.jpg)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dT8u2Zgyhi8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N929OS0dv14?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
