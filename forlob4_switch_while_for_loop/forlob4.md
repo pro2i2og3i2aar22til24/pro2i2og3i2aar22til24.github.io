@@ -111,10 +111,15 @@ for(int i=0; i<5;i++);{
 
 I kan denne gang vælge imellem tre forskellige sværhedsgrader i jeres afleveringsopgave.
 
+### Sværhedsgrad 1: lav 10x10 små firkanter i midten af skærmen hvor firkanterne bliver gradvist mere røde nedad og gradvist mere grønne mod højre
+
 ![firkantopgaven_med_for_loop.jpg](firkantopgaven_med_for_loop.jpg)
+
+### Sværhedsgrad 2: alle firkanter skal rotere omkring vinduets midte
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dT8u2Zgyhi8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Sværhedsgrad 2: alle firkanter skal rotere omkring vinduets midte, og rotere om sig selv med dobbelt så høj hastighed
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N929OS0dv14?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
