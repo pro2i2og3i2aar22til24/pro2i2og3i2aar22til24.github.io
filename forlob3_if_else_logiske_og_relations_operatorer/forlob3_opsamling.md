@@ -1,5 +1,12 @@
 # Opsamling fra forløb 3 - hvad er flow-control, aktivkode fejl og semikolons fejl
 
+## Når man afleverer 
+
+***Glemte at sige :***
+
+***Zip hele jeres mappe med kode og billeder ellers kører det ikke ;-)***
+
+
 ## Flow control
 
 I processing´s egen reference arbejder vi nu med emnet "control" - nogle steder ville man kalde det "flow-control":
