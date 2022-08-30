@@ -30,7 +30,7 @@ referencen:
 [https://processing.org/reference/while.html](https://processing.org/reference/while.html)     
 
 slides til oplæg:
-[slides loops](slides_switch.pdf)
+[slides loops](slides_loops.pdf)
 
 ### Træning i for-loops
 
