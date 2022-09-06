@@ -27,3 +27,7 @@ Mvh underviseren selv Anders J.R. Petersen
 ---
 
 [forløb 4 - materialer : *switch, while og for-loop´s*](forlob4_switch_while_for_loop/forlob4.md)
+
+---
+
+[forløb 5 - materialer : *introduktion til arrays*](forlob5_arrays/forlob5_arrays.md)
