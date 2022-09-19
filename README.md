@@ -33,6 +33,6 @@ Mvh underviseren selv Anders J.R. Petersen
 [forløb 5 - materialer : *introduktion til arrays*](forlob5_arrays/forlob5_arrays.md)
 
 ----
-## Tværfagligt forløb med Teknologi - databehandling fra filen
+### Tværfagligt forløb med Teknologi - databehandling fra filen
 
 [forløb 6 - materialer : *Hent data med loadStrings*](forlob6_loadStrings/forlob6_loadStrings.md)
