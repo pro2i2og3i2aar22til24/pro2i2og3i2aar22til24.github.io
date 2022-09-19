@@ -17,10 +17,11 @@ Hvis i åbner filen vil i se at den består af mange linjers data for forskellig
 
 I processing har vi en funktionen "loadStrings", se referencen : [https://processing.org/reference/loadStrings_.html](https://processing.org/reference/loadStrings_.html)    
 
+-----------
+
 Vi skal nu forsøge at anvende denne til at hente data fra "cars.csv".   
 
-- Kopier "cars.csv" ind i jeres sketchbook
-- og skriv følgende kode:
+Kopier "cars.csv" ind i jeres sketchbook og skriv følgende kode:
 
 ```java
 //UDSKRIFT AF HELE FILEN - CARS.CSV
@@ -35,7 +36,7 @@ Vi skal nu forsøge at anvende denne til at hente data fra "cars.csv".
 
 Ovenstående kode udskriver alle data-filen "cars.csv".
 
-*Kan du forklare hvordan det virker (anvend jeres viden om arrays)?*
+***Kan du forklare hvordan det virker (anvend jeres viden om arrays)?***
 
 -----------------
 
@@ -59,11 +60,11 @@ Prøv at betragt følgende kode:
 
 Ovenstående skrive accelerationen ud for hver enkelt bil.
 
-*Kan du forklare hvordan det virker?*
+***Kan du forklare hvordan det virker?***
 
-*Kan du forklare hvorfor den skriver to tekster ud i starten?*
+***Kan du forklare hvorfor den skriver to tekster ud i starten?***
 
-*Kan du rette koden så de to tekster i starten ikke udskrives?*
+***Kan du rette koden så de to tekster i starten ikke udskrives?***
 
 ------------
 
@@ -98,3 +99,22 @@ Dette kan anvendes i vores databehandlings program til at finde de biler der han
 
   }
 ```
+
+***Hvorfor anvendes Float.parseFloat() og ikke Integer.parseInt()?***
+
+---------------
+
+## Opgaven (grupper på maksimalt 2)
+
+I skal lave et program til databehandling af cars.csv.    
+Lav programmet brugervenligt.    
+Man skal kunne vælge at få vist alle data for en at følgende valgte biler:
+
+Skal laves:
+1. Hurtigste bil
+2. Langsomste bil
+3. Tungeste bil 
+4. Letteste bil
+
+Frivillige:
+5. Sortere biler, efter f.eks hurtigste    
