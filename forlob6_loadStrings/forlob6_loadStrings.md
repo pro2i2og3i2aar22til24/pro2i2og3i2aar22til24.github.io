@@ -15,7 +15,7 @@ Hvis i åbner filen vil i se at den består af mange linjers data for forskellig
 
 ### LoadStrings
 
-I processing har vi en funktionen "loadStrings", se referencen : (https://processing.org/reference/loadStrings_.html)[https://processing.org/reference/loadStrings_.html]    
+I processing har vi en funktionen "loadStrings", se referencen : [https://processing.org/reference/loadStrings_.html](https://processing.org/reference/loadStrings_.html)    
 
 Vi skal nu forsøge at anvende denne til at hente data fra "cars.csv".   
 
@@ -40,7 +40,7 @@ Ovenstående kode udskriver alle data-filen "cars.csv".
 -----------------
 
 Men hvad hvis man ikke er interesseret i hver enkelt linje men måske kun "acceleration" ??                     
-Så kan vi anvende string-funktionen kaldet "split". Se referencen : (https://processing.org/reference/split_.html)[https://processing.org/reference/split_.html]                     
+Så kan vi anvende string-funktionen kaldet "split". Se referencen : [https://processing.org/reference/split_.html](https://processing.org/reference/split_.html)                     
 Prøv at betragt følgende kode:             
 
 ```java
