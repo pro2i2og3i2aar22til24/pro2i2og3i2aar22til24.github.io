@@ -108,15 +108,15 @@ Dette kan anvendes i vores databehandlings program til at finde de biler der han
 
 I skal lave et program til databehandling af cars.csv.    
 
-***Vigtigt: Alle skal skrive en beskrivelse af, og hvordan programmet virker i jeres log-bog. Denne beskrivelse skal kunne fungere som note til en præsentation senere... husk "fag-begreber" er vigtige i programmering!***
-
+***Vigtigt:    
+Alle skal skrive en beskrivelse af, og hvordan programmet virker i jeres log-bog. Denne beskrivelse skal kunne fungere som note til en præsentation senere... husk "fag-begreber" er vigtige i programmering!***.              
 ***Hints til fagbegreber i bør anvende: oprettelse af variabler, initalisering, datatyper, arrays, elementer og index***
 
 Lav programmet brugervenligt. Man skal kunne vælge at få vist alle data for en at følgende:
-1. Hurtigste bil
-2. Langsomste bil
-3. Tungeste bil 
-4. Letteste bil
+- Hurtigste bil
+- Langsomste bil
+- Tungeste bil 
+- Letteste bil
 
-Frivillige:
-5. Sortere biler, efter f.eks hurtigste    
+Frivilligt:
+- Sortere biler, efter f.eks hurtigste    
