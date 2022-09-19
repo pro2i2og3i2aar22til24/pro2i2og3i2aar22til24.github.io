@@ -23,8 +23,78 @@ Vi skal nu forsøge at anvende denne til at hente data fra "cars.csv".
 - og skriv følgende kode:
 
 ```java
+//UDSKRIFT AF HELE FILEN - CARS.CSV
 
-  String[] linesFromCars = loadStrings("cras.csv");
+  String[] linesFromCars = loadStrings("cars.csv");
 
+  for(int i = 0 ; i < linesFromCars.length ; i++){
+    println(linesFromCars[i]);
+  }
 
+```
+
+Ovenstående kode udskriver alle data-filen "cars.csv".
+
+*Kan du forklare hvordan det virker (anvend jeres viden om arrays)?*
+
+-----------------
+
+Men hvad hvis man ikke er interesseret i hver enkelt linje men måske kun "acceleration" ??
+Så kan vi anvende string-funktionen kaldet "split". Se referencen : https://processing.org/reference/split_.html    
+Prøv at betragt følgende kode:
+
+```java
+//UDSKRIFT AF ACCELERATION FRA FILEN - CARS.CSV
+
+  String[] linesFromCars = loadStrings("cars.csv");
+
+  for(int i = 0 ; i < linesFromCars.length ; i++){
+
+    String[] dataFromRow = linesFromCars[i].split(";");
+
+    println(dataFromRow[6]);
+
+  }
+```
+
+Ovenstående skrive accelerationen ud for hver enkelt bil.
+
+*Kan du forklare hvordan det virker?*
+
+*Kan du forklare hvorfor den skriver to tekster ud i starten?*
+
+*Kan du rette koden så de to tekster i starten ikke udskrives?*
+
+------------
+
+Nu er det på tide at prøve at lave databehandling.   
+Hvad hvis man kun vil udskrive de hurtigste biler, dem med acceleration på under 10 sekunder?   
+Det giver et problem for alt den data vi anvender er "tekst" og ikke "tal".
+
+Prøv følgende:
+
+```java
+//KONVERTERING FRA TEKST TIL TAL
+  int   helTal    = Integer.parseInt("20");
+  float kommaTal  = Float.parseFloat("20.2");
+```
+
+Dette kan anvendes i vores databehandlings program til at finde de biler der han en acceleration der er hurtigere end 10 sek....  
+
+```java
+//UDSKRIFT AF BILER DER DER KAN ACCELERERE HURTIGERE END 10 SEK - CARS.CSV
+
+  String[] linesFromCars = loadStrings("cars.csv");
+
+  for(int i = 2 ; i < linesFromCars.length ; i++){
+
+    String[] dataFromRow = linesFromCars[i].split(";");
+
+    if( Float.parseFloat(dataFromRow[6]) < 10 ){
+
+      println(linesFromCars[i]);
+
+    }
+
+  }
 ```
