@@ -66,9 +66,9 @@ Se også processings reference:
 
 I denne opgave skal du kombinere for-loops og arrays:
 
-* Lav et array, kaldet "liste1", der indeholder de naturlige tal fra 1 til 100. Udskriv indholdet med "println(liste1);":
-* Lav et array, kaldet "liste2", der indeholder tallene i 3 tabellen fra 3 til 300. Udskriv indholdet med "println(liste2);"
-* ***Frivillig*** - lav et array, kaldet "fibo" der indeholder de første 100 Fibonacci-tal... se her [https://da.wikipedia.org/wiki/Fibonacci-tal](https://da.wikipedia.org/wiki/Fibonacci-tal)   
+* Lav et array (det må ikke "hard-codes"), kaldet "liste1", der indeholder de naturlige tal fra 1 til 100. Udskriv indholdet med "println(liste1);":
+* Lav et array (det må ikke "hard-codes"), kaldet "liste2", der indeholder tallene i 3 tabellen fra 3 til 300. Udskriv indholdet med "println(liste2);"
+* ***Frivillig*** - lav et array (kun de første tal må "hard-codes"), kaldet "fibo" der indeholder de første 100 Fibonacci-tal... se her [https://da.wikipedia.org/wiki/Fibonacci-tal](https://da.wikipedia.org/wiki/Fibonacci-tal)   
 
 # Array opgave 2:
 
