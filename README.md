@@ -37,4 +37,4 @@ Mvh underviseren selv Anders J.R. Petersen
 
 [forløb 6 - materialer : *Hent data med loadStrings*](forlob6_loadStrings/forlob6_loadStrings.md)
 
-[forløb 7 - materialer : *Kode eksempel - vælg og filtrer*](forlob6_select_og_filtrer/forlob6_select_og_filtrer.md)
+[forløb 7 - materialer : *Kode eksempel - vælg og filtrer*](forlob7_select_og_filtrer/forlob7_select_og_filtrer.md)
