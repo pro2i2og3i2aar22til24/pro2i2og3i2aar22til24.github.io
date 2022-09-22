@@ -36,3 +36,5 @@ Mvh underviseren selv Anders J.R. Petersen
 ### Tværfagligt forløb med Teknologi - databehandling fra filen
 
 [forløb 6 - materialer : *Hent data med loadStrings*](forlob6_loadStrings/forlob6_loadStrings.md)
+
+[forløb 7 - materialer : *Kode eksempel - vælg og filtrer*](forlob6_select_og_filtrer/forlob6_select_og_filtrer.md)
