@@ -1,8 +1,8 @@
 # Forløb 8
 ## Arrays : Repetition af arrays
 
-Dette forløb omhandler sortering af arrays. Dvs. hvordan man selv sorterer arrays og
-ikke hvordan man anvender en allerede indbygget sorterings-algoritme :-)    
+Vi laver lige en kort repetition af de (forhåbentlig) ved om arrays.
+Tænker sagtens vi kan bruge en time - arrays er et meget vigtigt emne!   
 
 ---------------------------------------------------------------------------------------
 ### Varighed ca. 25 min (ca. 3 minutter pr spørgsmål)    
@@ -27,5 +27,3 @@ Så udvælger jeg tilfældige, der skal op og skrive/vise deres svar på tavlen:
 Jeg vælger helt tilfældige, men heldige personer der skal op og besvare hvert enkelt spørgsmål
 
 ----------------------------------------------------------------------------------------
-
-Vi går igang med næste forløb...
