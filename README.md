@@ -33,8 +33,20 @@ Mvh underviseren selv Anders J.R. Petersen
 [forløb 5 - materialer : *introduktion til arrays*](forlob5_arrays/forlob5_arrays.md)
 
 ----
+
 ### Tværfagligt forløb med Teknologi - databehandling fra filen
 
 [forløb 6 - materialer : *Hent data med loadStrings*](forlob6_loadStrings/forlob6_loadStrings.md)
 
 [forløb 7 - materialer : *Kode eksempel - vælg og filtrer*](forlob7_select_og_filtrer/forlob7_select_og_filtrer.md)
+
+----------------------------------
+
+### Arrays - repetition & avanceret
+
+[forløb 8 - materialer : *Repetition arrays*](forlob8_rep_arrays/forlob8_rep_arrays.md)
+
+----------------------------------
+[forløb 9 - materialer : *Sortering af arrays*](forlob9_arrays_sortering/forlob8_arrays_sortering.md)
+
+----------------------------------
