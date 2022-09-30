@@ -46,6 +46,8 @@ Mvh underviseren selv Anders J.R. Petersen
 
 [forløb 8 - materialer : *Repetition arrays*](forlob8_rep_arrays/forlob8_rep_arrays.md)
 
-[forløb 9 - materialer : *Sortering af arrays*](forlob9_arrays_sortering/forlob9_arrays_sortering.md)
+[forløb 9.1 - materialer : *Sortering af arrays*](forlob9_arrays_sortering/forlob9_arrays_sortering.md)
+
+[forløb 9.2 - materialer : *Opgaver i bubble-sort*](forlob9_arrays_sortering/sorting_opgaver.md)
 
 ----------------------------------
