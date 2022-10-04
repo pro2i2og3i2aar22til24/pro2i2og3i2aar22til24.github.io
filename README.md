@@ -51,3 +51,8 @@ Mvh underviseren selv Anders J.R. Petersen
 [forløb 9.2 - materialer : *Opgaver i bubble-sort*](forlob9_arrays_sortering/sorting_opgaver.md)
 
 ----------------------------------
+
+### Fagligheds interviews
+
+Jeg vil sikre mig at alle kan det stof vi har været igennem indtil nu. Derfor afholdes fra nu af individuelle interviews - eller "mini-eksamener".     
+***Se nærmere beskrivelse under arbejdsformer***
