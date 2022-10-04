@@ -17,9 +17,10 @@ Husk det kræver kreativitet at skrive programmer og der vil altid mange forskel
 I afleverer de færdige kode-opgaver på lectio.
 
 ## Individuelle fagligheds-interviews
-Det er vigtigt med paratviden indenfor grundlæggende programmering, som f.eks. variabler, datatyper, betingelser, operatorer, loops, osv. før man kan lære nyt.
+Paratviden indenfor grundlæggende programmering, som f.eks. variabler, datatyper, betingelser, operatorer, loops, osv., er vigtig før man kan lære nyt.
 Mange af disse emner udgør fundamenter som man bygger videre på.   
 
-Derfor laver jeg nu "fagligheds-interviews". Hvor jeg vil give jer små kode-opgaver i løser imens jeg ser på.
+Derfor laver jeg nu "fagligheds-interviews". Hvert interview består af små kode-opgaver i løser imens jeg ser på.      
+Interviewet vil udføres individuelt, og så vidt muligt et andet sted end klasselokalet, på tidspunkter hvor alle i klassen arbejder med andre ting.
 
-Hvert interview vil udføres individuelt og så vidt muligt et andet sted end klasselokalet, på tidspunkter hvor alle alligevel arbejder med en kode-opgave.
+Jeg noterer min vurdering i afleveringen ***Fagligheds interviews*** på Lectio.

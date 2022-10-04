@@ -55,4 +55,4 @@ Mvh underviseren selv Anders J.R. Petersen
 ### Fagligheds interviews
 
 Jeg vil sikre mig at alle kan det stof vi har været igennem indtil nu. Derfor afholdes fra nu af individuelle interviews - eller "mini-eksamener".     
-***Se nærmere beskrivelse under arbejdsformer***
+***Se nærmere beskrivelse øverst på siden under arbejdsformer og opgaver***
