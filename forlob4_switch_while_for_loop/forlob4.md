@@ -3,13 +3,13 @@
 
 [opsamling fra forløb 3](../forlob3_if_else_logiske_og_relations_operatorer/forlob3_opsamling.md)
 
-## 1. del - oplæg om switch statement
+## 1. del - Switch statement
 
-referencen:   
+### Switch - referencen:   
 [https://processing.org/reference/switch.html](https://processing.org/reference/switch.html)
 
-slides til oplæg:    
-[slides switch](slides_switch.pdf)
+### Switch - slides:    
+[slides switch.pdf](slides_switch.pdf)
 
 ## 2. del - opgave i switch
 
@@ -23,14 +23,14 @@ Den indbyggede char variabel 'key' indeholder tegnet/symbolet på tasten...se re
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nVqsBZzd22A?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 3. del - oplæg om iteration, for og while loops
+## 3. del - For-loops og while-loops
 
-referencen:   
+### For-loops og while-loops - referencen:   
 [https://processing.org/reference/for.html](https://processing.org/reference/for.html)      
 [https://processing.org/reference/while.html](https://processing.org/reference/while.html)     
 
-slides til oplæg:
-[slides loops](slides_loops.pdf)
+### For-loops og While-loops - slides:
+[slides loops.pdf](slides_loops.pdf)
 
 ### Træning i for-loops
 
