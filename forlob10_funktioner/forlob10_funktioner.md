@@ -15,9 +15,8 @@ Men der er også en lighed med matematiske funktioner, da man kan sende "input" 
 
 [https://processing.org/examples/functions.html](https://processing.org/examples/functions.html)
 
-```Java
-/*
-Funktionen/metodens syntaks
+```java
+/*Funktionen/metodens syntaks:
 
 returtype navn( input )
 { metode krop...
