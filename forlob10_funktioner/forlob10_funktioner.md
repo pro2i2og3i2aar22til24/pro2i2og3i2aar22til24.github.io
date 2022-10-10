@@ -22,11 +22,10 @@ Men der er også en lighed med matematiske funktioner, da man kan sende "input" 
 ### Syntaks
 [kode eksempel der illustrerer funktions syntaks](kodeeksempel1.md)
 
-
 ### Argumenter, parametre og retur-værdier
 [https://www.w3schools.com/java/java_methods_param.asp](https://www.w3schools.com/java/java_methods_param.asp)
 
 ### Slides
-
+[funktioner_slides.pdf](funktioner_slides.pdf)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
