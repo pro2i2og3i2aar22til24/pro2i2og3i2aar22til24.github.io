@@ -16,16 +16,17 @@ Men der er også en lighed med matematiske funktioner, da man kan sende "input" 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Funktioner : processing referencen
-
+### Referencen
 [https://processing.org/examples/functions.html](https://processing.org/examples/functions.html)
 
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Funktion og metode syntaks
-
+### Syntaks
 [kode eksempel der illustrerer funktions syntaks](kodeeksempel1.md)
 
---------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Funktioner og metoder : slides
+### Argumenter, parametre og retur-værdier
+[https://www.w3schools.com/java/java_methods_param.asp](https://www.w3schools.com/java/java_methods_param.asp)
+
+### Slides
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------

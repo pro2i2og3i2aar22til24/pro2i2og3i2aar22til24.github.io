@@ -1,4 +1,4 @@
-# Kode eksempel der illustrerer syntaks for funktioner/metoder
+# Kode eksempel, der illustrerer syntaks for funktioner/metoder
 
 ```java
 /*Funktionen/metodens syntaks:
@@ -28,7 +28,7 @@ int sum1(int a, int b)
 //eksempel 2
 // returtype : void (returnerer ikke!)
 // navn : sum
-// parametre : int a og int
+// parametre : a og b
 void sum2(int a, int b)
 //Her er metode-kroppen
 {
