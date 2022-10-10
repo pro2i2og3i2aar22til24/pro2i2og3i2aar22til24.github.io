@@ -29,3 +29,6 @@ Men der er også en lighed med matematiske funktioner, da man kan sende "input" 
 [funktioner_slides.pdf](funktioner_slides.pdf)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Opgaver i funktionder - del 1
+[opgaver i funktioner - del 1](Opgaver1.md)
