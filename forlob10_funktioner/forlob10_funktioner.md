@@ -31,4 +31,5 @@ Men der er også en lighed med matematiske funktioner, da man kan sende "input" 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Opgaver i funktionder - del 1
+Skriv jeres svar i logbogen:
 [opgaver i funktioner - del 1](Opgaver1.md)

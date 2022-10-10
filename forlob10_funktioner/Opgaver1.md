@@ -14,4 +14,4 @@
 12. Lav en ny funktion med samme navn “mult”, der modtager tre tal som parametre. Den nye funktion skal anvende funktionen fra spørgsmål 2 til at gange 3 tal sammen
 13. (frivillig) Hvad betyder rekursion - prøv at slå det op
 14. (frivillig) Give et eksempel på en funktion, der anvender rekursion. Funktionen skal modtage et tal som parameter og returnere fakultet af tallet.
-F.eks.  beregnes fakultet af 5 således 5! = 5*4*3*2*1
+F.eks.  beregnes fakultet af 5 således 5! = 5x4x3x2x1
