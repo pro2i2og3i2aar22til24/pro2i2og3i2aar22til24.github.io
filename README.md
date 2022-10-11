@@ -65,4 +65,4 @@ Jeg vil sikre mig at alle kan det stof vi har været igennem indtil nu. Derfor a
 
 [forløb 10 - materialer : *introduktion til funktioner og metoder*](forlob10_funktioner/forlob10_funktioner.md)
 
-[forløb 11 - materialer : *refakturering af kode & video præsentation*](forlob11_refakturering_med_funktioner/forlob11_refakturering_med_funktioner.md)
+[forløb 11 - materialer : *refakturering af kode & video præsentation*](forlob11_refaktorering_med_funktioner/forlob11_refaktorering_med_funktioner.md)
