@@ -36,7 +36,7 @@ void gren(float l, float v, float x1, float y1){
 }
 ```
 
-3. Kan du få funktionen "gren" til at kalde sig selv - så den efter hver tegnet gren tegner en ny gren i forlængelse...Din kode fejler sikkert! Prøv at regn ud hvorfor??
+3. Kan du få funktionen "gren" til at kalde sig selv - så den efter hver tegnet gren tegner en ny gren i forlængelse...Din kode fejler sikkert! Prøv at regn ud hvorfor??    
 ![grene](grene.jpg)
 
 4. Prøv at indtænk en begrænsning på antallet af grene "gren" skal tegne...
@@ -49,9 +49,9 @@ void gren(float l, float v, float x1, float y1,int N){
 }
 ```
 
-5. Prøv at se om du kan tegne følgende mønster:
+5. Prøv at se om du kan tegne følgende mønster:       
 ![spiral](spiral.jpg)
 
 
-6. Se om du kan få "grenen" til at tegne to nye grene i enden af hver gren i stedet for kun én! Så det ser nogenlunde såldes ud:
+6. Se om du kan få "grenen" til at tegne to nye grene i enden af hver gren i stedet for kun én! Så det ser nogenlunde såldes ud:        
 ![tree](tree.jpg)
