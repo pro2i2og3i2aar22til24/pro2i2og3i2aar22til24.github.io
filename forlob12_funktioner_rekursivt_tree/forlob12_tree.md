@@ -2,8 +2,9 @@
 ## Opgave : Tegning af træ med funktioner
 ### Emner : funktioner og rekursion
 
-Nedenstående kode tegner en lille streg, med en circkel i begyndelsespunktet.  
-Det er meningen at koden, der tegner den lille streg skal anvende til at tegne et helt træ!
+Nedenstående kode tegner en lille streg, med en circkel i begyndelsespunktet.   
+
+Det er meningen at koden, der tegner den lille streg skal anvendes til at tegne et helt træ!
 
 ```java
 void setup(){
@@ -22,7 +23,8 @@ void setup(){
 
 }
 ```
-### Opgave
+### Opgaver
+
 1. Gennemgå koden og forstå hvordan den virker, hvad gør de forskellige variabler?
 
 2. Flyt koden for "grenen" ud i en funktion, med input parametre til start-punkt, længde og vinkel...     
@@ -34,8 +36,7 @@ void gren(float l, float v, float x1, float y1){
 }
 ```
 
-3. Kan du få funktionen "gren" til at kalde sig selv - så den efter hver tegnet gren tegner en ny gren i forlængelse...
-Din kode fjler sikkert! Prøv at regn ud hvorfor??
+3. Kan du få funktionen "gren" til at kalde sig selv - så den efter hver tegnet gren tegner en ny gren i forlængelse...Din kode fejler sikkert! Prøv at regn ud hvorfor??
 ![grene](grene.jpg)
 
 4. Prøv at indtænk en begrænsning på antallet af grene "gren" skal tegne...
@@ -48,8 +49,9 @@ void gren(float l, float v, float x1, float y1,int N){
 }
 ```
 
+5. Prøv at se om du kan tegne følgende mønster:
+![spiral](spiral.jpg)
 
-5. Se om du kan få "grenen" til at tegne to nye grene i enden af hver gren, 1
 
-
-6. Se om du du kan nøjes med at tegne en gren hvert frame
+6. Se om du kan få "grenen" til at tegne to nye grene i enden af hver gren i stedet for kun én! Så det ser nogenlunde såldes ud:
+![tree](tree.jpg)
