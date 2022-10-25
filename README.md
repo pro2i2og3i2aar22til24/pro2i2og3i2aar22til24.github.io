@@ -69,4 +69,4 @@ Jeg vil sikre mig at alle kan det stof vi har været igennem indtil nu. Derfor a
 
 [eksempel  - materialer : *refaktoriserings eksempel*](forlob11_refaktorering_med_funktioner/refaktorering_eksempel.md)
 
-[eksempel  - materialer : *rekursions eksempel*](forlob12_funktioner_rekursivt_tree/forlob12_tree.md)
+[opgave  - materialer : *rekursions eksempel*](forlob12_funktioner_rekursivt_tree/forlob12_tree.md)
