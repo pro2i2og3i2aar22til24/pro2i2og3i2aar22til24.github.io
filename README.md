@@ -65,8 +65,8 @@ Jeg vil sikre mig at alle kan det stof vi har været igennem indtil nu. Derfor a
 
 [forløb 10 - materialer : *introduktion til funktioner og metoder*](forlob10_funktioner/forlob10_funktioner.md)
 
-[afleveringsopgave - materialer : *refaktorering af kode & video præsentation*](forlob11_refaktorering_med_funktioner/forlob11_refaktorering_med_funktioner.md)
+[forløb 11 - afleveringsopgave : *refaktorering af kode & video præsentation*](forlob11_refaktorering_med_funktioner/forlob11_refaktorering_med_funktioner.md)
 
-[eksempel  - materialer : *refaktoriserings eksempel*](forlob11_refaktorering_med_funktioner/refaktorering_eksempel.md)
+[forløb 11 - eksempel : *refaktoriserings eksempel*](forlob11_refaktorering_med_funktioner/refaktorering_eksempel.md)
 
-[opgave  - materialer : *rekursions eksempel*](forlob12_funktioner_rekursivt_tree/forlob12_tree.md)
+[forløb 12 - opgave : *rekursions eksempel*](forlob12_funktioner_rekursivt_tree/forlob12_tree.md)
