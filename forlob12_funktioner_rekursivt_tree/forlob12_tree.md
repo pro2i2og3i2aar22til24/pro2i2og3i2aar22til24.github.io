@@ -35,7 +35,21 @@ void gren(float l, float v, float x1, float y1){
 ```
 
 3. Kan du få funktionen "gren" til at kalde sig selv - så den efter hver tegnet gren tegner en ny gren i forlængelse...
+Din kode fjler sikkert! Prøv at regn ud hvorfor??
 ![grene](grene.jpg)
-2. Skriv kode så "grenen" tegner en ny gren i enden af hver tegnet gren, 10 gange! (dvs.funktionen skal kalde sig selv)
-3. Se om du kan få "grenen" til at tegne to nye grene i enden af hver gren, 1
-4. Se om du du kan nøjes med at tegne en gren hvert frame
+
+4. Prøv at indtænk en begrænsning på antallet af grene "gren" skal tegne...
+Du kan f.eks. lave en parameter der bestemmer antallet:
+```java
+//Måske således?
+void gren(float l, float v, float x1, float y1,int N){
+  //funktions-kode
+  gren(float l, float v, float x2, float y2,int N-1)
+}
+```
+
+
+5. Se om du kan få "grenen" til at tegne to nye grene i enden af hver gren, 1
+
+
+6. Se om du du kan nøjes med at tegne en gren hvert frame
