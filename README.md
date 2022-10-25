@@ -68,3 +68,5 @@ Jeg vil sikre mig at alle kan det stof vi har været igennem indtil nu. Derfor a
 [forløb 11 - materialer : *refaktorering af kode & video præsentation*](forlob11_refaktorering_med_funktioner/forlob11_refaktorering_med_funktioner.md)
 
 [eksempel  - materialer : *refaktoriserings eksempel*](forlob11_refaktorering_med_funktioner/refaktorering_eksempel.md)
+
+[eksempel  - materialer : *rekursions eksempel*](forlob12_tree.md)
