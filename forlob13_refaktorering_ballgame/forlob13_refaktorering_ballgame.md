@@ -11,7 +11,8 @@ Vigtige emner :
 
 ----------------------------------------------------------
 
-#### Opg 1: Gennemgå nedenstående kode med makker så du/i er sikker på hvordan den virker, skriv eventuelt kommentarer i koden:
+#### Opg 1:
+Gennemgå nedenstående kode med makker så du/i er sikker på hvordan den virker, skriv eventuelt kommentarer i koden:
 ```java
 float xBall,yBall,sizeBall=20,angleBall=PI/8,speedBall=2;
 float xGoal=100,yGoal= 100,sizeGoal=20;
