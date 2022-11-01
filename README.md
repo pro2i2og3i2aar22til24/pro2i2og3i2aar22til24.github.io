@@ -70,3 +70,5 @@ Jeg vil sikre mig at alle kan det stof vi har været igennem indtil nu. Derfor a
 [forløb 11 - eksempel : *refaktoriserings eksempel*](forlob11_refaktorering_med_funktioner/refaktorering_eksempel.md)
 
 [forløb 12 - opgave : *rekursions eksempel*](forlob12_funktioner_rekursivt_tree/forlob12_tree.md)
+
+[forløb 13 - opgave : *refaktorering og sccope - Ballgame*](forlob13_refaktorering_ballgame/forlob13_refaktorering_ballgame.md)
