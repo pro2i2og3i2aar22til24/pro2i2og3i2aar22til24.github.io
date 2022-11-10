@@ -72,3 +72,5 @@ Jeg vil sikre mig at alle kan det stof vi har været igennem indtil nu. Derfor a
 [forløb 12 - opgave : *rekursions eksempel*](forlob12_funktioner_rekursivt_tree/forlob12_tree.md)
 
 [forløb 13 - opgave : *Ballgame - refaktorering og scope*](forlob13_refaktorering_ballgame/forlob13_refaktorering_ballgame.md)
+
+[forløb 14 - opgave : *Spidernet - opbyg program med funktioner*](forlob14_spidernet_lav_funktioner/forlob14_spidernet_lav_funktioner.md)
