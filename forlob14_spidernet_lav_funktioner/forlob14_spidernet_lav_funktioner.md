@@ -1,7 +1,7 @@
 # Forløb 14
 ## Øvelse at læse/modificere kode. Byg kode vha. funktioner
 
-### Afleveringen: Indskriv hvad i har lært i logbog eller forklaring af løsning
+### Afleveringen: Video på Lectio hvor i gennemgår koden!
 
 Dette er en øvelse i at bygge sin kode op vha. funktioner. Det er også en øvelse i forstå hvordan en funktion virker - bare ved at læse hvordan den bliver kaldt!
 
@@ -43,4 +43,3 @@ Programmet virker på følgende måde når det afvikles:
 2. Gennemgå koden sammen med en makker så i begge er sikre på hvordan koden, og dermed funktionerne, virker.
 3. Byg nu funktionerne i følgende rækkefølge: *addValue, printList, average, drawPoints, drawNet*. Hver gang i har bygget en funktion, tester i om de virker efter hensigten. Det kan være nødvendigt at skrive lidt test-kode og slette det igen.
 4. Frivillig svær opgave: Kan du udtænke en metode til at punkterne langsomt bevæger sig imod centrum?
-5. Frivillig svær opgave: Kan du udtænke en metode til at anmiere to tilfældige punkter bytter plads?
