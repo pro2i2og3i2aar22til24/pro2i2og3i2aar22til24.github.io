@@ -1,6 +1,6 @@
 # Forløb 15
 # Intro til objektorienteret programmering
-##{nye begreber: klasse, objekt, dot-notation, konstruktør},{nye keywords: class, new}
+## {nye begreber: klasse, objekt, dot-notation, konstruktør},{nye keywords: class, new}
 
 Objektorienteret programmering (forkortet oop) er meget stort og vigtigt område indenfor programmering. Man kalder ofte oop et programmerings-paradigme, da det er en helt speciel måde at tænke programmering på.
 Men bered jer - det er et svært emne - derfor bruger vi også et par uger alene på at introducere konceptet.
