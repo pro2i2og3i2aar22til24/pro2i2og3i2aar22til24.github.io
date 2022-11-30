@@ -17,20 +17,23 @@ Se følgende tre videoer, der introducerer oop. Efter hver video skal i svare p�
 og skrive udførlige svar i jeres log-bog. Sammenlign jeres svar med en eller to andre.
 
 ### Video: 8.1: What is Object-Oriented Programming (OOP)? - Processing Tutorial
-[https://youtu.be/YcbcfkLzgvs](https://youtu.be/YcbcfkLzgvs)
+[https://youtu.be/YcbcfkLzgvs](https://youtu.be/YcbcfkLzgvs)   
+
 Efter du har set videoen svar da på følgende spørgsmål:
 - Forklar hvad der menes med "class"
 - Forklar hvad der menes med "object"
 
 
 ### Video: 8.2: Defining a Class Part I - Processing Tutorial
-[https://youtu.be/lmgcMPRa1qw](https://youtu.be/lmgcMPRa1qw)
+[https://youtu.be/lmgcMPRa1qw](https://youtu.be/lmgcMPRa1qw)      
+
 Efter du har set videoen svar da på følgende spørgsmål:
 - Forklar hvordan og hvrofor man anvender "new"
 - Forklar hvad er "dot-syntax"
 
 ### Video: 8.3: Defining a Class Part II - Processing Tutorial
-[https://youtu.be/XwfOVFelLoo](https://youtu.be/XwfOVFelLoo)
+[https://youtu.be/XwfOVFelLoo](https://youtu.be/XwfOVFelLoo)      
+
 Efter du har set videoen svar da på følgende spørgsmål:
 - Hvad er en "constructor"
 
