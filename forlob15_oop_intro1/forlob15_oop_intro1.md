@@ -15,7 +15,7 @@ Video 1: [https://youtu.be/YcbcfkLzgvs](https://youtu.be/YcbcfkLzgvs)
 - Forklar hvad der menes med "object"
 
 Video 2: [https://youtu.be/lmgcMPRa1qw](https://youtu.be/lmgcMPRa1qw)      
-- Forklar hvordan og hvrofor man anvender "new"
+- Forklar hvordan og hvorfor man anvender "new"
 - Forklar hvad er "dot-syntax"
 
 Video 3: [https://youtu.be/XwfOVFelLoo](https://youtu.be/XwfOVFelLoo)      
@@ -23,7 +23,7 @@ Video 3: [https://youtu.be/XwfOVFelLoo](https://youtu.be/XwfOVFelLoo)
 
 -----------------------------------------------------------------------------------------------------
 ## Kode-opgave - array af bubbles
-Du har nu set Daniel Shiffman fortælle om oop, og hvordan man kan lave et "Bubble-objekt" ud fra en "Bubble-klasse". Du skal nu prøve at se om du kan viderebygge hans kode! Forklar koden i din log-bog.
+Du har nu set Daniel Shiffman fortælle om oop, og hvordan man kan lave et "Bubble-objekt" ud fra en "Bubble-klasse". Du skal nu prøve at se om du kan viderebygge hans kode! Forklar løningen i din log-bog.
 
 - Prøv at lave et array af Bubble's (eventuelt med 10 pladser)
 - Prøv at fylde arrayet op med Bubbles
