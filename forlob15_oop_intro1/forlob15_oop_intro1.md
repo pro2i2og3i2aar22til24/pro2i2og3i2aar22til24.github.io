@@ -2,8 +2,8 @@
 # INTRODUKTION TIL OBJEKTORIENTERET PROGRAMMERING - ( forkortet oop)
 ## Nye begreber: klasse, objekt, dot-notation, konstruktør | nye keywords: class og new
 
-Objektorienteret programmering er meget stort og vigtigt område indefor programmering, man kalder det ofte et programmerings-paradigme, da det er en helt specielt måde at tænke programmering på.
-Det kan være meget svært at forstå - derfor bruger vi et par uger alene på at introducere konceptet.
+Objektorienteret programmering er meget stort og vigtigt område indenfor programmering. Man kalder ofte oop et programmerings-paradigme, da det er en helt speciel måde at tænke programmering på.
+Men bered jer - det er et svært emne - derfor bruger vi også et par uger alene på at introducere konceptet.
 
 -----------------------------------------------------------------------------------------------------
 ## Video introduktion til oop - lavet af "the coding train"
