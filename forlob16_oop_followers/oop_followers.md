@@ -1,10 +1,24 @@
 # Forløb 16
 # Followers - ting der følger noget andet
 
-Denne gang skal vi prøve at lave en lille øvelse der forhåbentligt hjælper lidt på jeres forståelse af
+Denne gang skal vi prøve at lave en lille øvelse, der forhåbentligt hjælper lidt på jeres forståelse af
 objekter og klasser er.
-Vi skal lave en lille kugle der følger musen...
-Og måske efterfølgende, hvis der bliver tid til det. Lave en slange af kugler der følger musen.
+Vi skal lave en lille kugle, der følger musen...
+Og måske efterfølgende, hvis der bliver tid til det lave en slange af kugler der følger musen.
+
+-----------------------------------------------------------------------------------------------------
+
+- vi starter med følgende hurtige spørgsmål (tag 5 minutter med din sidemakker og gennemgå spørgsmål)
+ - hvad er en klasse
+ - hvad er et objekt
+ - hvad betyder class
+ - hvad betyder new
+ - hvordan fungerer dot-operatoren
+
+- I slutningen af første modul laver vi klassen "Ting" i fællesskab
+- I andet modul arbejder i selv og ser hvor langt i kommer
+
+-----------------------------------------------------------------------------------------------------
 
 ## Del 1 : Lav en ting der følger musen
 
