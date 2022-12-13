@@ -4,21 +4,47 @@
 Denne gang skal vi prøve at lave en lille øvelse, der forhåbentligt hjælper lidt på jeres forståelse af
 objekter og klasser er.
 Vi skal lave en lille kugle, der følger musen...
-Og måske efterfølgende, hvis der bliver tid til det lave en slange af kugler der følger musen.
+Og måske efterfølgende, hvis der bliver tid til det lave en slange af kugler, der følger musen.
 
 -----------------------------------------------------------------------------------------------------
+## Tjek din viden
 
-- vi starter med følgende hurtige spørgsmål (tag 5 minutter med din sidemakker og gennemgå spørgsmål)
+ vi starter med følgende hurtige spørgsmål (tag 5 minutter med og gennemgå spørgsmål, helst sammen med en anden)
  - hvad er en klasse
  - hvad er et objekt
  - hvad betyder class
  - hvad betyder new
  - hvordan fungerer dot-operatoren
 
-- I slutningen af første modul laver vi klassen "Ting" i fællesskab
-- I andet modul arbejder i selv og ser hvor langt i kommer
+ -----------------------------------------------------------------------------------------------------
+## PVector
+
+Når man laver ting, der bevæger sig er det meget nemmere at anvende vektorer. Derfor skal i lære PVector at kende:
+https://processing.org/reference/PVector.html
+
+Men bare rolig i behøver ikke at lære en masse vektor-regning, for alle vektor-formlerne er indbygget i vektor-klassen.
+
+Betragt nedenstående kode og se om i kan forklare koden for hinanden:
+
+```java
+PVector v1, v2;
+
+void setup() {
+  size(500,500);
+  v1 = new PVector(400, 250);
+  v2 = new PVector(1, 1);
+}
+
+void draw() {
+  clear();
+  v1.add(v2);
+  ellipse(v1.x,v1.y,20,20);
+  v2.rotate(0.01);
+}
+```
 
 -----------------------------------------------------------------------------------------------------
+# Opgaven
 
 ## Del 1 : Lav en ting der følger musen
 
