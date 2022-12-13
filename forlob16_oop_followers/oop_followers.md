@@ -54,8 +54,13 @@ void draw() {
 ## Del 2 : Lav en ting, der følger en anden ting, der følger en tredje som følger musen
 ### (med forskellig hastighed!)
 
+[her er et Løsningsforslag til del2](solutionDel2.md)
+
+
 <iframe width="320" height="560" src="https://www.youtube.com/embed/dwCLB2wQ7bw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Del 3 : Lav en slange af ting der følger hinanden
+
+[her er et Løsningsforslag til del3](solutionDel3.md)
 
 <iframe width="320" height="560" src="https://www.youtube.com/embed/qAY3ex2Un1s" title="En masse ting der følger hinanden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
