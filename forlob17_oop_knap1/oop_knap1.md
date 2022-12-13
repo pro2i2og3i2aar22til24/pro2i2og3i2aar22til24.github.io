@@ -1,7 +1,7 @@
 # Forløb 17
 ## Knappe opgave
 
-<iframe width="656" height="369" src="https://www.youtube.com/embed/_UeqTfP2Q7U" title="knappeOpgave1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="320" height="560" src="https://www.youtube.com/embed/e-WtZoXq5nI" title="knapOpgave 2022 12 13 15 05 08" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Del 1:
 Inden du påbegynder denne opgave er det vigtigt at du tænker igennem hvilke klasser du har brug for.
@@ -10,7 +10,10 @@ Hvis der er noget flere gange - er det nok flere objekter af samme klasse ;-)
 
 
 ## Del 2:
-Lav en oversigt over klasserne, der ligner lidt nedenstående tabel:
+Lav en oversigt over klasserne, der ligner lidt nedenstående tabel.
+Overordnet kan man identificere forskellige dele af klassen på følgende måde:
+- data dvs. variabler er selve objektets tilstand
+- funktionerne er hvordan man interagerer med objektet (ændrer tilstande dvs. variabelværdier)  
 
 |  Klassens navn|                                        |
 | ------------- |----------------------------------------|
@@ -42,8 +45,6 @@ Når du har lavet oversigter over klasserne - laver du kode-skabelonen til de kl
      rect(x,y,b,h);
    }
 
-
-
  }
 ```
 
@@ -69,4 +70,13 @@ void draw(){
 ```
 
 ## Del 5:
-Byg ny den manglende logik
+Byg ny den manglende logik. Her en liste over ting du skal løse:
+
+- hvordan registrerer du et klik på "knappen" (hint: objektet skal ændre til stand så du skal bruge en funktion)
+- hvordan tegner du "knappen"
+- ...
+
+## Del 6:
+Udvid koden så du kan lave nedenstående (med bedst mulig oop og på den mest hensigtsmæssige måde):
+
+<iframe width="320" height="560" src="https://www.youtube.com/embed/asho1kq2Ujc" title="knapOpgave1 del6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
