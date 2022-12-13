@@ -1,7 +1,7 @@
 # Forløb 17
 ## Knappe opgave
 
-<iframe width="320" height="560" src="https://www.youtube.com/embed/e-WtZoXq5nI" title="knapOpgave 2022 12 13 15 05 08" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e-WtZoXq5nI" title="knapOpgave 2022 12 13 15 05 08" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Del 1:
 Inden du påbegynder denne opgave er det vigtigt at du tænker igennem hvilke klasser du har brug for.
@@ -79,4 +79,4 @@ Byg ny den manglende logik. Her en liste over ting du skal løse:
 ## Del 6:
 Udvid koden så du kan lave nedenstående (med bedst mulig oop og på den mest hensigtsmæssige måde):
 
-<iframe width="320" height="560" src="https://www.youtube.com/embed/asho1kq2Ujc" title="knapOpgave1 del6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/asho1kq2Ujc" title="knapOpgave1 del6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
