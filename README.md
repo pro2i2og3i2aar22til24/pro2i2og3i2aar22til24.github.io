@@ -81,7 +81,6 @@ Jeg vil sikre mig at alle kan det stof vi har været igennem indtil nu. Derfor a
 
  [forløb 15 - materialer : *introduktion til objektorienteret programmering*](forlob15_oop_intro1/forlob15_oop_intro1.md)
 
+ [forløb 16 - materialer : *ting der følger ting*](forlob16_oop_followers/oop_followers.md)
 
-  [forløb 16 - materialer : *ting der følger ting*](forlob16_oop_followers/oop_followers.md)
-
-  [forløb 17 - materialer : *knapper*](forlob17_oop_knap1/oop_knap1.md)
+ [forløb 17 - materialer : *knapper*](forlob17_oop_knap1/oop_knap1.md)
