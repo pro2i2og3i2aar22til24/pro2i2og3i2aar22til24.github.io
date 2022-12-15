@@ -10,7 +10,7 @@ man nemmere kan se de forskellig kommentarer i koden på samme tid
 
 Nedenfor kan i se en mulig implementation af en knap-klasse.
 Der er selvfølgelig mange andre måder at implementere en knap på, men det fordelagtige ved denne implementation er at
-klassen har inbygget en tilstand "clicked", der gør den generel - således den kan bruges til mange forskellige opgaver!:
+klassen har indbygget en tilstand "clicked", der gør den generel - således den kan bruges til mange forskellige opgaver!:
 
 ```java
 class Knap{
@@ -32,7 +32,7 @@ class Knap{
  }
 
  //clicked funktion - der sætter knappen i tilstanden clicked til true eller false
- void clicked(){
+ void clickedDetection(){
    clicked = false;
    if(mousePressed && mouseX < x + b && mouseX > x && mouseY < y + h && mouseY > y){
      clicked = true;  
@@ -64,9 +64,9 @@ void draw(){
   //her anvendes kplus, kminus og kreset knapperne...
   //på trods af de alle er lavet af samme klasse gør de noget helt forskelligt
   //dette ses if-statementet til sidst i hver linje
-  kplus.display();   kplus.clicked();  if(kplus.clicked){  count++;}
-  kminus.display();  kminus.clicked(); if(kminus.clicked){ count--;}
-  kreset.display();  kreset.clicked(); if(kreset.clicked){ count=0;}
+  kplus.display();   kplus.clickedDetection();  if(kplus.clicked){  count++;}
+  kminus.display();  kminus.clickedDetection(); if(kminus.clicked){ count--;}
+  kreset.display();  kreset.clickedDetection(); if(kreset.clicked){ count=0;}
   fill(255);
   rect(200,100,3+count,30);
 }  
