@@ -3,6 +3,9 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e-WtZoXq5nI" title="knapOpgave 2022 12 13 15 05 08" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Du kan se et løsningsforslag her:     
+[oop_knap1.md](oop_knap1.md)
+
 ## Del 1:
 Inden du påbegynder denne opgave er det vigtigt at du tænker igennem hvilke klasser du har brug for.
 Det kan du simpelthen gøre ved at kigge på videoen og se hvor mange elementer der er.
