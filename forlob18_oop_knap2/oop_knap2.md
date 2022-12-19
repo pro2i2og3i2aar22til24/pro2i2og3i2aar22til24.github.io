@@ -1,11 +1,9 @@
 # Forløb 18
 ## Knapper der flytter raketter
 
-Denne lille opgave bygger oven på "forløb 17 - knappe opgave".
-I bør genbrug min kode fra løsningsforslaget, eller lave noget der er tilsvarende godt.
+Denne lille opgave bygger oven på "forløb 17 - knappe opgaven" - genbrug min kode fra løsningsforslaget, eller lave noget der er tilsvarende godt.
 
-Opgaven er igen at identificere hvilke "objekter", der eksisterer i programmet og dermed hvilke klasser det er
-nødvendigt at bygge.
+Opgaven er igen at identificere objekter,- og dermed hvilke klasser det er nødvendigt at bygge.
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -43,7 +41,7 @@ Kan du lave objekter af dine klasser...
 
 --------------------------------------------------------------------------------------------------------------------
 
-## Del 5: Logikken...
+## Del 5: Byg resten af logikken...
 
 Dette er selvfølgelig ofte den mest sværeste og mest koplicerede del af koden.   
 Jeg foreslår at i i først omgang kun forsøger kun at kunne flytte en raket...
