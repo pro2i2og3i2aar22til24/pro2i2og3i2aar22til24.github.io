@@ -29,25 +29,10 @@ Når du har lavet oversigter over klasserne - laver du kode-skabelonen til de kl
 ```java
  class KlassensNavn{
    // variabler. f.eks. ngle integers
-   int x,y,w=50,h=30;
 
    // konstruktøren. f.eks. input med en integer xin
-   KlassensNavn(int xin, int yin){
-     x = xin;
-     y = yin;
-   }
 
    // herefter kan der være flere forskellige funktioner, dette er bare et eksempel
-   void update(){
-     if(mousePressed){
-       //kode
-     }
-   }
-
-   void display(){
-     rect(x,y,b,h);
-   }
-
  }
 ```
 
