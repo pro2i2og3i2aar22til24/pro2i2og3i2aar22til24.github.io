@@ -31,12 +31,15 @@ class Knap{
     text(titel,x+5,y+h/2+5);
  }
 
- //clicked funktion - der sætter knappen i tilstanden clicked til true eller false
- void clickedDetection(){
-   clicked = false;
+ //mouse clicked funktion - der sætter knappen i tilstanden clicked til true hvis den "rammes" af musen
+ void mouseClickDetection(){
    if(mousePressed && mouseX < x + b && mouseX > x && mouseY < y + h && mouseY > y){
      clicked = true;  
    }
+ }
+ //mouse release funktion - lige så snart museknappen slippes sættes knappen false!
+ void mouseReleaseDetection(){
+     clicked = false;
  }
 }
 ```
@@ -64,10 +67,20 @@ void draw(){
   //her anvendes kplus, kminus og kreset knapperne...
   //på trods af de alle er lavet af samme klasse gør de noget helt forskelligt
   //dette ses if-statementet til sidst i hver linje
-  kplus.display();   kplus.clickedDetection();  if(kplus.clicked){  count++;}
-  kminus.display();  kminus.clickedDetection(); if(kminus.clicked){ count--;}
-  kreset.display();  kreset.clickedDetection(); if(kreset.clicked){ count=0;}
+  kplus.display(); if(kplus.clicked){  count++;}
+  kminus.display();if(kminus.clicked){ count--;}
+  kreset.display();if(kreset.clicked){ count=0;}
   fill(255);
   rect(200,100,3+count,30);
 }  
+
+void mousePressed(){
+  //Der registeres hvis museknappen trykkes ned - og en knap "rammes"
+  kplus.mouseClickDetection();   kminus.mouseClickDetection();   kreset.mouseClickDetection();
+}
+
+void mouseReleased(){
+  //Der registreres hvis musknappen slippes ... så er alle knapper clicked = false
+  kplus.mouseReleaseDetection(); kminus.mouseReleaseDetection(); kreset.mouseReleaseDetection();
+}
 ```  
