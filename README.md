@@ -10,7 +10,7 @@ Mvh underviseren selv Anders J.R. Petersen
 
 [programmerings fagord](terminologi/terminologi.md)
 
-[fagligheds interviews](falighedsinterviews/interviews.md)
+[fagligheds interviews](faglighedsinterviews/interviews.md)
 
 ---
 
