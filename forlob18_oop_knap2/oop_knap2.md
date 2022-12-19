@@ -21,18 +21,29 @@ Her er figuren:
 ## Del 1: Identificer klasser
 Ligesom i "knap opgave 1" skal du identificere hvilke klasser du har brug for.
 Det er ikke sikkert du kan skrive alt koden til klasserne - det gør ikke så meget i første omgang - man programmerer altid i små "steps".
+
 --------------------------------------------------------------------------------------------------------------------
+
 ## Del 2: Skriv diagram (frivilligt)
-Friviligt : Skriv eventuelt en diagram over klasserne...     
+Skriv eventuelt en diagram over klasserne...     
+
 --------------------------------------------------------------------------------------------------------------------
-## Del 3: Skriv skeletter/eller første udkast til klassern
+
+## Del 3: Skriv skeletter/eller første udkast til klasserne
 Skriv "skelletet" til de ønskede klasser.
 Alle klasser består af tre dele:
-- data, dvs. variabler der står oppe i toppen af klassen
-- konstruktøren, der er en speciel funktion der kaldes når man laver et objekt af klassen
-- funktioner, der muligvis ændrer på selve objektets tilstand
+- *data* , dvs. variabler der står oppe i toppen af klassen
+- *konstruktøren* , der er en speciel funktion der kaldes når man laver et objekt af klassen
+- *funktioner* , der muligvis ændrer på selve objektets tilstand
+
 --------------------------------------------------------------------------------------------------------------------
+
 ## Del 4: Afprøv objekterne
 Kan du lave objekter af dine klasser...
+
 --------------------------------------------------------------------------------------------------------------------
-## Del 5:
+
+## Del 5: Logikken...
+
+Dette er selvfølgelig ofte den mest sværeste og mest koplicerede del af koden.   
+Jeg foreslår at i i først omgang kun forsøger kun at kunne flytte en raket...
