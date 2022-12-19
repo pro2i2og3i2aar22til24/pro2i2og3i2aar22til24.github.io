@@ -1,9 +1,9 @@
 # Forløb 18
 ## Knapper der flytter raketter
 
-Denne lille opgave bygger oven på "forløb 17 - knappe opgaven" - genbrug min kode fra løsningsforslaget, eller lave noget der er tilsvarende godt.
+Denne lille opgave bygger oven på "forløb 17 - knappe opgaven" - genbrug min kode fra løsningsforslaget, eller lav noget der er tilsvarende godt.
 
-Opgaven er igen at identificere objekter,- og dermed hvilke klasser det er nødvendigt at bygge.
+Opgaven er igen at identificere hvilke klasser det er nødvendigt at bygge - og derefter bygge dem.
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -18,12 +18,12 @@ Her er figuren:
 --------------------------------------------------------------------------------------------------------------------
 ## Del 1: Identificer klasser
 Ligesom i "knap opgave 1" skal du identificere hvilke klasser du har brug for.
-Det er ikke sikkert du kan skrive alt koden til klasserne - det gør ikke så meget i første omgang - man programmerer altid i små "steps".
+Det er ikke sikkert du kan skrive alt koden til klasserne - det gør ikke så meget i første omgang - da man bør programmere programmerne i små "steps".
 
 --------------------------------------------------------------------------------------------------------------------
 
 ## Del 2: Skriv klasse-diagram
-I denne opgaver - springer vi denne del over...     
+I denne opgaver - springer vi klassediagrammet over...     
 
 --------------------------------------------------------------------------------------------------------------------
 
