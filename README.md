@@ -42,19 +42,19 @@ Mvh underviseren selv Anders J.R. Petersen
 
 ### Tværfagligt forløb med Teknologi - databehandling fra filen
 
-[forløb 6 - materialer : *Hent data med loadStrings*](forlob6_loadStrings/forlob6_loadStrings.md)
+[forløb 6 - materialer : *hent data med loadStrings*](forlob6_loadStrings/forlob6_loadStrings.md)
 
-[forløb 7 - materialer : *Kode eksempel - vælg og filtrer*](forlob7_select_og_filtrer/forlob7_select_og_filtrer.md)
+[forløb 7 - materialer : *kode eksempel - vælg og filtrer*](forlob7_select_og_filtrer/forlob7_select_og_filtrer.md)
 
 ----------------------------------
 
 ### Arrays - repetition & avanceret
 
-[forløb 8 - materialer : *Repetition arrays*](forlob8_rep_arrays/forlob8_rep_arrays.md)
+[forløb 8 - materialer : *repetition arrays*](forlob8_rep_arrays/forlob8_rep_arrays.md)
 
-[forløb 9.1 - materialer : *Sortering af arrays*](forlob9_arrays_sortering/forlob9_arrays_sortering.md)
+[forløb 9.1 - materialer : *sortering af arrays*](forlob9_arrays_sortering/forlob9_arrays_sortering.md)
 
-[forløb 9.2 - materialer : *Opgaver i bubble-sort*](forlob9_arrays_sortering/sorting_opgaver.md)
+[forløb 9.2 - materialer : *opgaver i bubble-sort*](forlob9_arrays_sortering/sorting_opgaver.md)
 
 
 ----------------------------------
@@ -69,9 +69,9 @@ Mvh underviseren selv Anders J.R. Petersen
 
 [forløb 12 - opgave : *rekursions eksempel*](forlob12_funktioner_rekursivt_tree/forlob12_tree.md)
 
-[forløb 13 - opgave : *Ballgame - refaktorering og scope*](forlob13_refaktorering_ballgame/forlob13_refaktorering_ballgame.md)
+[forløb 13 - opgave : *ballgame - refaktorering og scope*](forlob13_refaktorering_ballgame/forlob13_refaktorering_ballgame.md)
 
-[forløb 14 - opgave : *Spidernet - opbyg program med funktioner*](forlob14_spidernet_lav_funktioner/forlob14_spidernet_lav_funktioner.md)
+[forløb 14 - opgave : *spidernet - opbyg program med funktioner*](forlob14_spidernet_lav_funktioner/forlob14_spidernet_lav_funktioner.md)
 
 ----------------------------------
 
@@ -87,4 +87,4 @@ Mvh underviseren selv Anders J.R. Petersen
  [forløb 17 - materialer : *løsningsforslag*](forlob17_oop_knap1/oop_knap1_solution.md)
 
 
-[forløb 18 - materialer : *Knapper der flytter raketter*](forlob18_oop_knap2/oop_knap2.md)            
+[forløb 18 - materialer : *knapper der flytter raketter*](forlob18_oop_knap2/oop_knap2.md)            
