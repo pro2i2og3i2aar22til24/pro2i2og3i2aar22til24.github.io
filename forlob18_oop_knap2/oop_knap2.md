@@ -24,8 +24,8 @@ Det er ikke sikkert du kan skrive alt koden til klasserne - det gør ikke så me
 
 --------------------------------------------------------------------------------------------------------------------
 
-## Del 2: Skriv diagram (frivilligt)
-Skriv eventuelt en diagram over klasserne...     
+## Del 2: Skriv klasse-diagram
+I denne opgaver - springer vi denne del over...     
 
 --------------------------------------------------------------------------------------------------------------------
 

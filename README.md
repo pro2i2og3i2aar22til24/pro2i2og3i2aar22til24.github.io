@@ -10,6 +10,7 @@ Mvh underviseren selv Anders J.R. Petersen
 
 [programmerings fagord](terminologi/terminologi.md)
 
+[fagligheds interviews](falighedsinterviews/interviews.md)
 ---
 
 [forløb 1 - materialer : *processing, datatyper, variabler og tegnefunktioner*](forlob1_intro/forlob1.md)
@@ -52,12 +53,6 @@ Mvh underviseren selv Anders J.R. Petersen
 
 [forløb 9.2 - materialer : *Opgaver i bubble-sort*](forlob9_arrays_sortering/sorting_opgaver.md)
 
-----------------------------------
-
-### Fagligheds interviews
-
-Jeg vil sikre mig at alle kan det stof vi har været igennem indtil nu. Derfor afholdes fra nu af individuelle interviews - eller "mini-eksamener".     
-***Se nærmere beskrivelse øverst på siden under arbejdsformer og opgaver***
 
 ----------------------------------
 
