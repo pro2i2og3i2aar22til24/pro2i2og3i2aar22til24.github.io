@@ -87,3 +87,6 @@ Jeg vil sikre mig at alle kan det stof vi har været igennem indtil nu. Derfor a
 
  [forløb 17 - materialer : *knap-opgave*](forlob17_oop_knap1/oop_knap1.md)                           
  [forløb 17 - materialer : *løsningsforslag*](forlob17_oop_knap1/oop_knap1_solution.md)
+
+
+[forløb 18 - materialer : *Kanpper der flytter raketter*](forlob18_oop_knap2/oop_knap2.md)            
