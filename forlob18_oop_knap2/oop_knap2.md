@@ -11,9 +11,10 @@ nødvendigt at bygge.
 
 Programmet i skal bygge:
 
-<iframe width="320" height="560" src="https://www.youtube.com/embed/V2EQ_R5GN7Q" title="knapOpgave2 2022 12 19 09 32 13" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V2EQ_R5GN7Q" title="knapOpgave2 2022 12 19 09 32 13" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Her er figuren:
+Her er figuren:    
+
 ![rocket.png](rocket.png)
 
 --------------------------------------------------------------------------------------------------------------------
