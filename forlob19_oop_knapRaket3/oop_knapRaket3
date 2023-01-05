@@ -1,10 +1,16 @@
 # Forløb 19
 ## Knapper, der flytter raketter II
 
+Her et løsningsforslag:
+<iframe width="560" height="315" src="https://youtube.com/shorts/hSWlL11d1Uw?feature=share" title="knapOpgave3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Billeder:
+
+
 ### Udvidelse af programmet:
-- Roterende meteorer, skal bevæge sig forbi raketten
-- Raketmotoren skal tændes, når man flytter raketten
-- Raketterne skal dreje med spidsen i den retning de flyver, men kun lidt ad gangen
+- Roterende meteorer, SKAL bevæge sig forbi raketten
+- Raketmotoren SKAL tændes, når man flytter raketten
+- Raketterne SKAL vende i den retning de flyver
 - Måske kan meteorer ramme raketterne?
 - Måske kan raketten skyde metorerne?
 
@@ -21,4 +27,4 @@ I skal anvende translate og rotate
 ### Agenda
 1. Opgaven introduceres
 2. Der arbejdes på opgaven
-3. Opdeling i grupper hvor en bestemt præsenterer for de andre (hjælp hinanden med godt sprogbrug) 
+3. Opdeling i grupper hvor en bestemt præsenterer for de andre (hjælp hinanden med godt sprogbrug)
