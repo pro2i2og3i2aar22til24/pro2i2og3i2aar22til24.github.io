@@ -1,0 +1,24 @@
+# Forløb 19
+## Knapper, der flytter raketter II
+
+### Udvidelse af programmet:
+- Roterende meteorer, skal bevæge sig forbi raketten
+- Raketmotoren skal tændes, når man flytter raketten
+- Raketterne skal dreje med spidsen i den retning de flyver, men kun lidt ad gangen
+- Måske kan meteorer ramme raketterne?
+- Måske kan raketten skyde metorerne?
+
+### Nye klasser og udvidelse af klasser:
+(Hovedprincippet i oop er at en klasse har et ansvarsområde)
+Husk OOP er en måde at tænke på. Det er ikke nok programmet virker, det skal også opbygges ud fra oop-principer.
+Overvej hvornår noget bliver til en ny klasse.
+Overvej hvornår en klasse skal udvides.
+
+### Ny teori:
+(se eventuelt referencen)
+I skal anvende translate og rotate
+
+### Agenda
+1. Opgaven introduceres
+2. Der arbejdes på opgaven
+3. Opdeling i grupper hvor en bestemt præsenterer for de andre (hjælp hinanden med godt sprogbrug) 
