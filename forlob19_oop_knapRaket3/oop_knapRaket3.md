@@ -6,8 +6,7 @@ Her et løsningsforslag:
 
 Billeder:
 
-![fire.png](fire.png)    
-![meteor.png](meteor.png)
+![fire.png](fire.png) ![meteor.png](meteor.png)
 
 
 ### Udvidelse af programmet:
