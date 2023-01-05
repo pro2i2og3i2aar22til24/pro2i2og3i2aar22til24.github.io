@@ -2,8 +2,7 @@
 ## Knapper, der flytter raketter II
 
 Her et løsningsforslag:
-<iframe width="560" height="315" src="https://youtube.com/shorts/hSWlL11d1Uw?feature=share" title="knapOpgave3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hSWlL11d1Uw" title="knapOpgave3 2023 01 05 16 17 02" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 Billeder:
 
 
