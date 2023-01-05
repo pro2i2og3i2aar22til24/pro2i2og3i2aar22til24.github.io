@@ -82,11 +82,10 @@ Mvh underviseren selv Anders J.R. Petersen
  [forløb 16 - materialer : *ting der følger ting opgave*](forlob16_oop_followers/oop_followers.md)                    
  [forløb 16 - materialer : *løsningsforslag*](forlob16_oop_followers/solutionDel3.md)
 
-
  [forløb 17 - materialer : *knap-opgave*](forlob17_oop_knap1/oop_knap1.md)                           
  [forløb 17 - materialer : *løsningsforslag*](forlob17_oop_knap1/oop_knap1_solution.md)
 
+[forløb 18 - materialer : *knapper der flytter raketter*](forlob18_oop_knap2/oop_knap2.md)        
+[forløb 18 - materialer : *løsningsforslag*](forlob18_oop_knap2/oop_knap2_solution.md)        
 
-[forløb 18 - materialer : *knapper der flytter raketter*](forlob18_oop_knap2/oop_knap2.md)     
-[forløb 18 - materialer : *løsningsforslag*](forlob18_oop_knap2/oop_knap2_solution.md)     
 [forløb 19 - materialer : *knapper der flytter raketter II*](forlob19_oop_knapRaket3/oop_knapRaket3.md)            
