@@ -5,7 +5,7 @@
 Knap up    =  new Knap(75,325,50,50,"up");
 Knap left  =  new Knap(25,375,50,50,"left");
 Knap right =  new Knap(125,375,50,50,"right");
-Knap down  =  new Knap(75,450-25,50,50,"up");
+Knap down  =  new Knap(75,450-25,50,50,"down");
 
 Raket raket1 = new Raket(100,100);
 Raket raket2 = new Raket(400,100);
