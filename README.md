@@ -89,4 +89,6 @@ Mvh underviseren selv Anders J.R. Petersen
 [forløb 18 - materialer : *løsningsforslag*](forlob18_oop_knap2/oop_knap2_solution.md)        
 
 [forløb 19 - materialer : *knapper der flytter raketter II*](forlob19_oop_knapRaket3/oop_knapRaket3.md)       
-[forløb 19 - materialer : *løsningsforslag*](forlob19_oop_knapRaket3/oop_knapRaket3_solution.md)        
+[forløb 19 - materialer : *løsningsforslag*](forlob19_oop_knapRaket3/oop_knapRaket3_solution.md)    
+
+[forløb 20 - materialer : *Nedarvning og refaktorering af forløb19*](forlob20_oop_nedarvning/oop_nedarvning.md)       
