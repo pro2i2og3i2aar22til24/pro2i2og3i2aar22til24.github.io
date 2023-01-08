@@ -1,4 +1,4 @@
-# Forløb 19
+# Forløb 20
 ## Nedarvning og refaktorering af "Knapper, der flytter raketter II"
 
 ### Nye termer: nedarvning/inheritance, super-klasser, sub-klasser og overskrivning/overriding
