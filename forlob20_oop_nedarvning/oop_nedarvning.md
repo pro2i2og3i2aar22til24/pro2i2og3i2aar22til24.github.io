@@ -1,8 +1,21 @@
 # Forløb 20
 ## Nedarvning og refaktorering af "Knapper, der flytter raketter II"
 
+-------------------------------------------------------------------------
+
 ### Nye termer: nedarvning/inheritance, super-klasser, sub-klasser og overskrivning/overriding
 ### Nye kerywords: extends
+
+-------------------------------------------------------------------------
+
+## Opgaven:
+
+Brug nedarvning til at omskrive jeres kode fra "forløb 19" så det fylder så lidt som muligt.  
+Hint: Læg mærke til at alle objekter "vises" og "opdateres". Desuden er der mange objekter der opfører sig ligesom knapper.
+
+-------------------------------------------------------------------------
+
+## Om nedarvning:
 
 Det er muligt at klasser kan udvides med variabler og metoder fra andre klasser, dette kaldes nedarvning.     
 En klasse, der nedarver fra en anden klasse, har muligheden for at overskrive "super-klassens" metoder eller bruge dem direkte som de er implementeret.
@@ -10,7 +23,6 @@ En klasse, der nedarver fra en anden klasse, har muligheden for at overskrive "s
 Her er et kapitel fra onlinebogen "javabog.dk" om emnet:
 [https://javabog.dk/OOP/kapitel5.jsp](https://javabog.dk/OOP/kapitel5.jsp)
 
--------------------------------------------------------------------------
 
 Processing-eksempel inspireret af kapitlet ovenfor:
 
@@ -99,10 +111,3 @@ class GrafiskTerning extends Terning{
   }
 }
 ```
-
---------------------------------------------------------------------------
-
-## Opgaven
-
-Brug nedarvning til at omskrive jeres kode fra "forløb 19" så det fylder så lidt som muligt.  
-Hint: Læg mærke til at alle objekter "vises" og "opdateres". Desuden er der mange objekter der opfører sig ligesom knapper.
