@@ -15,7 +15,7 @@ Hint: Læg mærke til at alle objekter "vises" og "opdateres". Desuden er der ma
 
 -------------------------------------------------------------------------
 
-## Om nedarvning:
+## Om nedarvning :
 
 Det er muligt at klasser kan udvides med variabler og metoder fra andre klasser, dette kaldes nedarvning.     
 En klasse, der nedarver fra en anden klasse, har muligheden for at overskrive "super-klassens" metoder eller bruge dem direkte som de er implementeret.
