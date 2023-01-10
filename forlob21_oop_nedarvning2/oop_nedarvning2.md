@@ -18,7 +18,7 @@ void setup() {
 
   //opgave 1:
   //skriv den kode, der gør det muligt at indsætte objekterne r1, r2, c1 og c2 i list.
-  //og indsæt objkterne i list på denne linje.
+  //og indsæt objekterne i list på denne linje.
   //anvend nedarving!
 
   float sumArea=0;
