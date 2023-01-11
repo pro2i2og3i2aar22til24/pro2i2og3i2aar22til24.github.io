@@ -79,3 +79,11 @@ Brug nedarvning til at omskrive jeres kode fra "forløb 19" så det fylder så l
 Hint: Læg mærke til at alle objekter "vises" og "opdateres". Desuden er der mange objekter der opfører sig ligesom knapper.
 
 -------------------------------------------------------------------------
+
+## Ekstra - skydning
+
+Hvis du, mod forventning, er hurtigt færdig med refaktorering, skal du implementere en skyde funktion i raketten.  
+
+Hvis et skud rammer en meteor skal den opdele sig i to mindre meteorer. Efter tre opdelinger kan meteoren ikke opdeles, og vil forsvinde hvis man skyder på den.   
+
+Husk en ny meteor er et nyt objekt ;-)
