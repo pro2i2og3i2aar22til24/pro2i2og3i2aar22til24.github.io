@@ -93,4 +93,6 @@ Mvh underviseren selv Anders J.R. Petersen
 
 [forløb 20 - materialer : *Nedarvning og refaktorering af forløb19*](forlob20_oop_nedarvning/oop_nedarvning.md)       
 
-[forløb 21 - materialer : *Øvelse + Nedarvning og refaktorering af forløb19*](forlob21_oop_nedarvning2/oop_nedarvning2.md)       
+[forløb 21 - materialer : *Øvelse + Nedarvning og refaktorering af forløb19*](forlob21_oop_nedarvning2/oop_nedarvning2.md)
+
+[forløb 22 - materialer : *Klassediagrammer*](forlob22_oop_klassediagram/forlob22_klassediagram.md)       
