@@ -5,7 +5,7 @@
 
 ## Opgaverne:
 Disse opgaver som minimum laves:
-- Tegn et klassediagram over ovenstående kode - du bestemmer selv værktøj, håndtegning er også acceptabelt.
+- Tegn et klassediagram over ovenstående kode - du bestemmer selv værktøj. Selv et billede af en håndtegning er acceptabelt.
 - Udbyg Terninge-konstruktørene, med en "TerningeGrafik" parameter, til at sætte "dislayer" variablen.
 - Udbyg "TerningeGrafik" hierakiet med en eller to klasser.
 - initialiser Terninge-objekterne med forskellige typer af TerningeGrafik     
