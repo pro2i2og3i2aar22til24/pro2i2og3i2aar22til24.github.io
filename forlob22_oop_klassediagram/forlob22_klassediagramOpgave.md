@@ -4,11 +4,13 @@
 [Se koden til opgaven her](forlob22_klassediagramOpgaveKode.md)
 
 ## Opgaverne:
+Disse opgaver som minimum laves:
 - Tegn et klassediagram over ovenstående kode - du bestemmer selv værktøj, håndtegning er også acceptabelt.
 - Udbyg Terninge-konstruktørene, med en "TerningeGrafik" parameter, til at sætte "dislayer" variablen.
 - Udbyg "TerningeGrafik" hierakiet med en eller to klasser.
 - initialiser Terninge-objekterne med forskellige typer af TerningeGrafik     
 - Tegn et klassediagram over dit nye program
+Ekstra opgaver:
 - Byg en ny TerningeGrafik underklasse der kan animere terninge-kastet, så man kan se terningen "ruller"...
 - Introducer evt. også en raflebægerklasse...
 - Tegn et klassediagram over dit nye program
