@@ -68,7 +68,7 @@ class Car{
 ```
 --------------------------------------------------------------------------------------
 Klassediagrammer kan dog være meget komplicerede og indeholde mange forskellige relationer. Her ses en oversigt over de almindeligste "klassediagrams pile":     
-![pile_all.svg.png](pile_all-svg-png)   
+![pile_all.svg.png](pile_all.svg.png)   
 
 --------------------------------------------------------------------------------------
 Jeg har taget diagrammerne fra wikipedia, se her  for mere info: [https://en.wikipedia.org/wiki/Class_diagram](https://en.wikipedia.org/wiki/Class_diagram)
