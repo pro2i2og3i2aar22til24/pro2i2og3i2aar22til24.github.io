@@ -7,7 +7,7 @@
 Disse opgaver som minimum laves:
 - Tegn et klassediagram over ovenstående kode - du bestemmer selv værktøj. Selv et billede af en håndtegning er acceptabelt
 - Udbyg Terninge-konstruktøre, med en "TerningeGrafik" parameter til at initialisere variablen "displayer"
-- Udbyg "TerningeGrafik" hierakiet med en eller to klasser
+- Udbyg "TerningeGrafik" hierakiet med en eller to klasser, der laver en ny grafik, evt. andre farver
 - initialiser Terninge-objekterne med forskellige typer af TerningeGrafik     
 - Tegn et klassediagram over dit nye program
 
