@@ -1,7 +1,6 @@
-# Forløb 22 - Opgave i klassediagrammer
+# Forløb 22 - Om klassediagrammer
 
  Nye termer : composition og aggregation (dk: noget i retning af "komposition" og "samling")    
- Ny datatype : ArrayList    
 
 -------------------------------------
 
