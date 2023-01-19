@@ -7,9 +7,11 @@
 - Tegn et klassediagram over ovenstående kode - du bestemmer selv værktøj, håndtegning er også acceptabelt.
 - Udbyg Terninge-konstruktørene, med en "TerningeGrafik" parameter, til at sætte "dislayer" variablen.
 - Udbyg "TerningeGrafik" hierakiet med en eller to klasser.
-- Initaliser Terninge-objekterne med forskellige typer af TerningeGrafik     
+- initialiser Terninge-objekterne med forskellige typer af TerningeGrafik     
 - Tegn et klassediagram over dit nye program
-- Byg en ny TerningeGrafik underklasse der kan animere terninge-kastet, så man kan se terningen "ruller".
+- Byg en ny TerningeGrafik underklasse der kan animere terninge-kastet, så man kan se terningen "ruller"...
+- Introducer evt. også en raflebægerklasse...
+- Tegn et klassediagram over dit nye program
 
 ## Aflevering & Præsentation:
 Denne opgave skal indskrives i din log-bog.        
