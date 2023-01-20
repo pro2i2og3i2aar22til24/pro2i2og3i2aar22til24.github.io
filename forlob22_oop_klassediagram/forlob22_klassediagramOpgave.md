@@ -12,6 +12,8 @@ Disse opgaver som minimum laves:
 - Tegn et klassediagram over dit nye program
 Ekstra opgaver:
 - Byg en ny TerningeGrafik underklasse der kan animere terninge-kastet, så man kan se terningen "ruller"...
+- første krav til animationen er : den skal vise tilfældige terningekast når den ruller
+- andet krav til animationen er : man skal kunne bestemme hvor længe animationen skal vare i alt og hvor længe hver terningekast skal vises.
 - Introducer evt. også en raflebægerklasse...
 - Tegn et klassediagram over dit nye program
 
