@@ -96,4 +96,5 @@ Mvh underviseren selv Anders J.R. Petersen
 [forløb 21 - materialer : *Øvelse + Nedarvning og refaktorering af forløb19*](forlob21_oop_nedarvning2/oop_nedarvning2.md)
 
 [forløb 22 - materialer : *Om klassediagrammer*](forlob22_oop_klassediagram/forlob22_klassediagram.md)       
-[forløb 22 - materialer : *Opgaven*](forlob22_oop_klassediagram/forlob22_klassediagramOpgave.md)       
+[forløb 22 - materialer : *Opgave 1*](forlob22_oop_klassediagram/forlob22_klassediagramOpgave.md)       
+[forløb 22 - materialer : *Opgave 2*](forlob22_oop_klassediagram/forlob22_klassediagramOpgave2.md)       
