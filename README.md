@@ -12,6 +12,7 @@ Mvh underviseren selv Anders J.R. Petersen
 
 [fagligheds interviews](faglighedsinterviews/interviews.md)
 
+[repetitions opgaver](repetitionsopgaver/alle_oversigt.md)
 
 ---
 
