@@ -1,6 +1,7 @@
 # Platformer projektet
 
 Dette er jeres første rigtige projekt i programmering. I slutningen af projektet skal i aflevere et fuldt funktionelt spil og en lille veldokumenteret rapport.
+Jeg vil løbende komme forbi jeres gruppe og evaluere både jeres arbejde og arbejds-deciplin ;-)
 Hjælpemidler er tilladte, men i skal skrive referencer
 Nedenfor ses projektets faser:
 
@@ -8,13 +9,12 @@ Nedenfor ses projektets faser:
 Skriv en kommentar på aflevering - så jeg kan hvem der er i samme gruppe.
 
 ## Del 1 : Playeren (ingen grafik - spilleren er bare en cirkel eller en firkant i starten)
-- *ide* : udtænk en passende måde at bevæge og programmere player-objektet på. Kode-eksperimenter anbefales
+- *ide* : udtænk en passende måde at bevæge og programmere player-objektet på. kode-eksperimenter anbefales
 - *dokumentation* : lav passende dokumentation, inden i går igang med at programmere playeren
 - *programmering* : skriv kode
 - *evaluering* : i skal være klare til præsentere jeres arbejde for mig - når jeg kommer forbi jeres gruppe
 
-2d-Platformer: INSPIRATION
-Se video om indy-spillets gameplay og sans for player-bevægelser:
+2d-Platformer: INSPIRATION : Se video om indy-spillets gameplay og sans for player-bevægelser:
 https://www.youtube.com/watch?v=yorTG9at90g
 
 
