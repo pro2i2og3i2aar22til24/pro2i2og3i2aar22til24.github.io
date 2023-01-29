@@ -67,12 +67,14 @@ Mvh underviseren selv Anders J.R. Petersen
 
 ### Dokumentation i programmering
 [forløb 23 : *Intro til diagrammer*](forlob23_dokumentation/forlob23_dokumentation.md)       
-*forløb 23 : Opgave i klassediagrammer se ovenfor*              
-[forløb 23 : *flowcharts info*](forlob23_dokumentation/forlob23_info_flowchart.md) , [forløb 23 : *flowcharts opgave*](forlob23_dokumentation/forlob23_opgave_flowchart.md)         
+*forløb 22 : Opgave i klassediagrammer se ovenfor*              
+[forløb 23 : *flowcharts info*](forlob23_dokumentation/forlob23_info_flowchart.md) ,m  [forløb 23 : *flowcharts opgave*](forlob23_dokumentation/forlob23_opgave_flowchart.md)         
 [forløb 23 : *pseudokode info*](forlob23_dokumentation/forlob23_info_pseudokode.md) , [forløb 23 : *pseudokode opgave*](forlob23_dokumentation/forlob23_opgave_pseudokode.md)       
+
 [forløb 23 : *Rapportens opbygning*](forlob23_dokumentation/forlob23_dokumentation.md)       
 
 ----------------------------------
 
 ### Platformer projekt
-20 til 25 moduler.
+20 til 25 moduler.    
+[forløb 24 : *Intro til plaformer projektet*](forlob24_ProjektPlatform/forlob24_intro_projekt_platform.md)       
