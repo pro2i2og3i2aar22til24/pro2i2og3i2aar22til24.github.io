@@ -1,11 +1,3 @@
-# Flowchart - symboler
-
-![img_flowchart_symboler.jpg](img_flowchart_symboler.jpg)
-
-# Flowchart - eksempel
-
-![img_flowchart_eksempel.jpg](img_flowchart_eksempel.jpg)
-
 # Flowchart - opgave
 Lav et flowchart, der viser hvordan man interagerer med rakketen.
 Det er vigtigt du bruger de rigtige symboler,- og at flow-diagrammet viser hvordan koden virker.   
