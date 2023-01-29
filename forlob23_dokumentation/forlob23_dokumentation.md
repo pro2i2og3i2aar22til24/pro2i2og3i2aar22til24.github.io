@@ -15,7 +15,6 @@ Der findes rigtig mange dokumentationsmetoder i programmering. Vi fokuserer hove
 Bruges til at at give et statisk billede af hvordan klasserne hænger sammen i et objektorienteret program. Det giver ikke et fuldtændigt billede af programmets virkemåde og kan bruges til objektorienterede programmer,- man kan dog tilføje noter forskellige steder i diagrammet for at supplere med mere information.    
 Man kan også nøjes med at lave klassediagrammer for udvalgte dele af programmet, for at give et bedre overblik.
 
-
 ### Flow-diagrammer
 Flow-diagrammer er en meget universel diagram type, der kan bruges alle steder hvor man kan betragte noget som et "flow". Dette diagram bør anvendes til udvalgte dele af dit program. Det kan være nødvendigt at lave flere flow-diagrammer for at vise forskellige slags flow i dit program.
 

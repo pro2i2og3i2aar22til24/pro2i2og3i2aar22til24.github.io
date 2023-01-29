@@ -68,8 +68,8 @@ Mvh underviseren selv Anders J.R. Petersen
 ### Dokumentation i progrmmaring
 [forløb 23 : *Intro til diagrammer*](forlob23_dokumentation/forlob23_dokumentation.md)       
 *forløb 23 : Opgave i klassediagrammer se ovenfor*              
-[forløb 23 : *Opgave i flowcharts*](forlob23_dokumentation/forlob23_dokumentation.md)      
-[forløb 23 : *Opgave i psedokode*](forlob23_dokumentation/forlob23_dokumentation.md)       
+[forløb 23 : *Info&Opgave i flowcharts*](forlob23_dokumentation/forlob23_opgave_flowchart.md)      
+[forløb 23 : *Info&Opgave i pseudokode*](forlob23_dokumentation/forlob23_opgave_pseudokode.md)       
 [forløb 23 : *Rapportens opbygning*](forlob23_dokumentation/forlob23_dokumentation.md)       
 
 ----------------------------------
