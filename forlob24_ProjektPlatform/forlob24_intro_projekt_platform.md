@@ -12,7 +12,7 @@ Skriv en kommentar på aflevering - så jeg kan hvem der er i samme gruppe.
 - *ide* : udtænk en passende måde at bevæge og programmere player-objektet på. kode-eksperimenter anbefales.
 - *dokumentation* : lav passende dokumentation, klasse-diagrammer og eventuelt andre diagrammer
 - *programmering* : skriv kode
-- *evaluering* : i skal være klare til præsentere jeres arbejde for mig - når jeg kommer forbi jeres gruppe. jeg vil være "hård" og spørge direkte til koden, så alle skal kunne svare!
+- *evaluering* : i skal være klare til præsentere jeres arbejde for mig - når jeg kommer forbi jeres gruppe. jeg vil være "hård" og spørge udvalgte direkte til koden, så alle skal forstå den!
 
 Links til hjælp og inspiration:     
 [2d-Platformer: INSPIRATION : Se video om indy-spillets gameplay og sans for player-bevægelser](https://www.youtube.com/watch?v=yorTG9at90g)     
