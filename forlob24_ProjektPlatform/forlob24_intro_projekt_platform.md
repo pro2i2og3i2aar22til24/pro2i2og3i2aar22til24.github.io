@@ -14,11 +14,10 @@ Skriv en kommentar på aflevering - så jeg kan hvem der er i samme gruppe.
 - *programmering* : skriv kode
 - *evaluering* : i skal være klare til præsentere jeres arbejde for mig - når jeg kommer forbi jeres gruppe
 
-2d-Platformer: INSPIRATION : Se video om indy-spillets gameplay og sans for player-bevægelser:
-https://www.youtube.com/watch?v=yorTG9at90g
+Links til hjælp og/eller inspiration:     
+[2d-Platformer: INSPIRATION : Se video om indy-spillets gameplay og sans for player-bevægelser](https://www.youtube.com/watch?v=yorTG9at90g)     
+[Tag gerne udgangspunkt i følgende skabelon](forlob24_kodeforslag_del1.md)   
 
-
-## Del 2 : Tiles
-
+## Del 2: Tiles
 
 ## Del 3 : Kollision med tiles og spiller
