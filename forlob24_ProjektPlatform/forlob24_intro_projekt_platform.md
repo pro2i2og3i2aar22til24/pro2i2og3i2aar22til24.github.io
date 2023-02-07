@@ -35,7 +35,7 @@ Friktioner kan opnåes ved at formindske hastighedsvektoren med en konstant.
 
 Se følgende eksempel:   
 
-<iframe width="320" height="560" src="https://youtu.be/9f2iHI3YEKY" title="drej" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="320" height="560" src="https://www.youtube.com/watch?v=9f2iHI3YEKY" title="player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
