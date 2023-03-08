@@ -14,6 +14,8 @@ Mvh underviseren selv Anders J.R. Petersen
 
 [repetitions opgaver](repetitionsopgaver/alle_oversigt.md)
 
+[grundlæggende programmering - paratviden](explainers/explainers.md)
+
 ---
 
 ### Grundlæggende programmering
