@@ -11,7 +11,7 @@ Mvh underviseren selv Anders J.R. Petersen
 [fagligheds interviews](faglighedsinterviews/interviews.md)       
 [repetitions opgaver](repetitionsopgaver/alle_oversigt.md)  
 
-[grundlæggende programmering - paratviden](explainers/explainers.md)
+[Paratviden i programmering](explainers/explainers.md)
 
 ---
 
