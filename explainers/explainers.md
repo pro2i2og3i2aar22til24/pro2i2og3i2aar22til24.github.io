@@ -1,4 +1,7 @@
-# Pensum - forklaret kort
+# Overordnet pensum i programmering - paratviden
+
+I de nedenstående videoer forklares kort de grundlæggende emner.
+Den viden, der præsenteres i videoerne er paratviden som i skal lære udenad!
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
