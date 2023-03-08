@@ -1,7 +1,7 @@
 # Paratviden i programmering
 
-Nedenstående videoer forklares kort de grundlæggende emner i programmering.  
-Det er forventeligt at dette fungerer som paratviden for alle elever på Programmering B-niveau.  
+I de nedenstående videoer forklares kort de grundlæggende emner i programmering.
+Den viden, der præsenteres i videoerne er paratviden som i skal lære udenad!
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
