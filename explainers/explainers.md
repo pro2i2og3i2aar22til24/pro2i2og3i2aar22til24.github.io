@@ -1,6 +1,6 @@
-# Overordnet pensum i programmering - paratviden
+# Paratviden i programmering
 
-I de nedenstående videoer forklares kort de grundlæggende emner.
+I de nedenstående videoer forklares kort de grundlæggende emner i programmering.
 Den viden, der præsenteres i videoerne er paratviden som i skal lære udenad!
 
 ------------------------------------------------------------------------------------------------------------------------------------
