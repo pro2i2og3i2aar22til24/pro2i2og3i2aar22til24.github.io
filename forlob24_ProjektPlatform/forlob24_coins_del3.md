@@ -1,15 +1,18 @@
-# Trin 3 : LAV METODE TIL AT GENERERE COINS OG LAV EN COINS KLASSE
+# Trin 3 : BYG COIN KLASSEN OG METODE DER LAVER COINS
 
-Det skal være muligt at indtjene points i jeres spil vha. coins som spilleren kan opsamle.   
-Der skal hele tiden være placeret en bestemt antal coins rundt omkring på banen.   
-Dvs. hvis spilleren opsamler en coin skal der automatisk placeres en ny tilfældig coin et sted på banen.
+Jeres program skal nu udbygges med følgende:
 
-I kan sandsynligvis genbruge meget kode fra tile-klassen, men modsat tile-klassen placeres coins tilfældigt og ikke ud fra en fil.
+- Spilleren tjene point ved at opsamle coins  
+- Der skal placeres en bestemt antal tilfældigt placerede coins   
+- Hvis spilleren opsamler en coin skal der automatisk placeres en ny coin et tilfældigt sted på banen
+
+I kan sandsynligvis genbruge meget kode fra tile-klassen...
 
 ## Vær opmærksom på:   
 
-Det kan være i skal omskrive dele af jeres kode for at få en simpel og brugbart coin-system.   
-I mit tilfælde omskrev jeg tile-genereringen, så hver tile ikke bare var en platform med forskellige længder, men altid har en bestemt "kort" længde ligesom en rigtig tile ;-). Dvs. min tilemap også blev mere enkel:
+I skal muligvis omskrive dele af jeres kode for at få et simpel og brugbart coin-system.   
+Selv omskrev jeg tile-systemet, så hver tile ikke bare var en platform med forskellige længder, men istedet en rigtig tile med fastlåst længede og højde.
+Så billede nedenfor:
 
 ![den nye tiles.txt](tilesFilePic.png)
 
