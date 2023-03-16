@@ -78,5 +78,7 @@ Mvh underviseren selv Anders J.R. Petersen
 
 ### Platformer projekt
 20 til 25 moduler.    
+[forløb 24 : Modulplan](forlob24_ProjektPlatform/forlob24_tidsplan.md)
+
 [forløb 24 : *Del 1 : Intro til plaformer projektet*](forlob24_ProjektPlatform/forlob24_intro_projekt_platform.md)  
 [forløb 24 : *Del 2 : Byg tiles-klasse og fil*](forlob24_ProjektPlatform/forlob24_tiles_del2.md)       
