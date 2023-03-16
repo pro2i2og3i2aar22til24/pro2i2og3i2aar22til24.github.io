@@ -14,7 +14,8 @@ I kan sandsynligvis genbruge meget kode fra tile-klassen...
 
 I skal muligvis omskrive dele af jeres kode for at få et simpelt og brugbart coin-system.   
 Selv omskrev jeg tile-systemet, så hver tile ikke bare var en platform med forskellige længder, men istedet en rigtig tile med fastlåst længede og højde.
-Så billede nedenfor:
+
+Se billede nedenfor:
 
 ![den nye tiles.txt](tilesTxtPic.png)
 
