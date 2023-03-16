@@ -14,7 +14,7 @@ I skal muligvis omskrive dele af jeres kode for at få et simpel og brugbart coi
 Selv omskrev jeg tile-systemet, så hver tile ikke bare var en platform med forskellige længder, men istedet en rigtig tile med fastlåst længede og højde.
 Så billede nedenfor:
 
-![den nye tiles.txt](tilesFilePic.png)
+![den nye tiles.txt](tilesTxtPic.png)
 
 Ved denne omskrivning var det meget nemmere at generere en tilfældig placerering af coins, ved ganske enkelt at vælge en tilfældig tile til hver coin!
 
