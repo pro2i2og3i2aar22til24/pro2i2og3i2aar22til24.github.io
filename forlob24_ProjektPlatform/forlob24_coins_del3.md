@@ -1,5 +1,7 @@
 # Trin 3 : BYG COIN KLASSEN OG METODE DER LAVER COINS
 
+## Nye krav til programmet:
+
 Jeres program skal nu udbygges med følgende:
 
 - Spilleren tjener point ved at opsamle coins  
@@ -18,6 +20,6 @@ Så billede nedenfor:
 
 Ved denne omskrivning var det nemmere at generere en tilfældig placerering af coins, ved ganske enkelt at vælge en tilfældig tile til hver coin!
 
-## Se følgende video, hvor jeg viser mit coin-system:
+## Se følgende video, der viser hvordan mit program virker:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GSqC3OtCqWQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
