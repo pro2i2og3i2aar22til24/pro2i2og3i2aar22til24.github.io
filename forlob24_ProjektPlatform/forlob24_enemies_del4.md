@@ -5,7 +5,7 @@
 Jeres program skal nu udbygges med følgende:
 
 - Der skal være fjender på banen 
-- Fjenederne skal f.eks. placeres ud fra jeres tekst-fil, således at en bestemt karakter f.eks. 2 betyder fjener 
+- Fjenderne skal f.eks. placeres ud fra jeres tekst-fil, således at en bestemt karakter f.eks. 2 betyder fjener 
 - Fjenderne skal kunne bevæge sig
 - Hvis spilleren rammer fjenderne skal spilleren dø... 
 - Man skal kunne genstarte spillet ved at trykke på en knap
