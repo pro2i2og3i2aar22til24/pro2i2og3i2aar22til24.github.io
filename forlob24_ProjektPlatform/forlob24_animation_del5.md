@@ -78,3 +78,24 @@ Det er nu vigtigt at i implementere animationen i jeres spil, dette gøres bedst
 animationen ved at lave et objekt af klassen.
 
 Når jeres animation kører igennem et objekt er det meget nemmere at kopiere koden over i jeres spil!
+
+Efter at have omskrevet koden til OOP, ser det såden ud (jeg har ikke vist koden til klassen). Nu er det lige til at putte ind i Player-klassen ;-) :
+
+```java
+Animation a;
+
+void setup(){
+  size(500,500);
+  a = new Animation();
+}
+
+void draw(){
+  clear();
+  a.display(mouseX,mouseY);
+}
+
+
+void mousePressed(){
+  a.reverseAnmation();
+}
+```
