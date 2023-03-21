@@ -83,4 +83,5 @@ Mvh underviseren selv Anders J.R. Petersen
 [forløb 24 : *Del 1 : Intro til plaformer projektet*](forlob24_ProjektPlatform/forlob24_intro_projekt_platform.md)  
 [forløb 24 : *Del 2 : Byg tiles-klasse og fil*](forlob24_ProjektPlatform/forlob24_tiles_del2.md)    
 [forløb 24 : *Del 3 : Byg coins-klasse, generer-coins og indbyg point*](forlob24_ProjektPlatform/forlob24_coins_del3.md)    
-[forløb 24 : *Del 4 : Byg fjende-klasse og indlæs fjender fra tekstfilen*](forlob24_ProjektPlatform/forlob24_enemies_del4.md)       
+[forløb 24 : *Del 4 : Byg fjende-klasse og indlæs fjender fra tekstfilen*](forlob24_ProjektPlatform/forlob24_enemies_del4.md)          
+[forløb 24 : *Del 5 : Lav animation*](forlob24_ProjektPlatform/forlob24_animation_del5.md)       
