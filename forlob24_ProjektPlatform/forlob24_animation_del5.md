@@ -46,7 +46,8 @@ void draw() {
     if (column<3){ column++; } else { column=0; row++; }    
     if (row==2)  { row=0;    }
     if (row==1 && column==2) { row=0; column=0; }
-    x = (column)*wFrame-25;
+        //Tallet 25 er korigering fordi tegningerne på mit spritsheet er for langt til venstre!
+    x = (column)*wFrame-25;  
     y = (row)*hFrame;
     
   }
