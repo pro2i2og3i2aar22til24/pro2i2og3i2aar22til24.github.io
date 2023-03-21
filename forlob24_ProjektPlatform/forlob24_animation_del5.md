@@ -96,7 +96,7 @@ void draw(){
 
 
 void mousePressed(){
-  a.reverseAnmation();
+  a.reverseFactor = -a.reverseFactor;
 }
 ```
 
