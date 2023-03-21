@@ -96,7 +96,7 @@ void draw(){
 
 
 void mousePressed(){
-  a.reverseFactor = -a.reverseFactor;
+  a.reverseFactor = -a.reverseFactor; // hvis vi løber til venstre bør denne være -1 og hvis til højre +1
 }
 ```
 
