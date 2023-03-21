@@ -70,3 +70,11 @@ void mousePressed(){
 ## Se følgende video, der viser hvordan mit program virker:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pE8wsABvaIA" title="testAnimation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+## Implementer i jeres spil
+
+Det er nu vigtigt at i implementere animationen i jeres spil, dette gøres bedst ved at omskrive koden ovenfor til en klasse i et sperat program, og forsøge at køre 
+animationen ved at lave et objekt af klassen.
+
+Når jeres animation kører igennem et objekt er det meget nemmere at kopiere koden over i jeres spil!
