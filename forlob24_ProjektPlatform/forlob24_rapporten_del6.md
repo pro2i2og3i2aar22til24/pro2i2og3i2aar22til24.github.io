@@ -26,7 +26,7 @@ I skal have mindst et klassediagram. Her er et bud på hvordan i kan tegne jeres
 
 <img src="klasseDiagram.png" width="50%">
 
-## Aktivitetsdiagram for platformer-spillet ( næste gang ... )
+## Aktivitetsdiagram for platformer-spillet ( mere næste gang ... )
 
 I bør have flere aktivitetsdiagrammer og/eller flowcharts. F.eks. kan i de anvendes til at beskrive:
 
@@ -34,6 +34,9 @@ I bør have flere aktivitetsdiagrammer og/eller flowcharts. F.eks. kan i de anve
 - *tile-kollision og tyngdekraft* : hvordan fungerer koden når man hopper og rammer en tile
 - *animation* : ... 
 
-## Pseudokode for platformer-spillet ( næste gang ...)
+## Pseudokode for platformer-spillet ( mere næste næste gang ...)
 
-Man kunne anvende pseudokode til at beskrive indlæsningen af *map filen* og generering af banen.
+I bør anvende pseudokode når i skal beskrive algoritmeagtige dele af jeres program. F.eks. kunne i anvende pseudokode til:
+
+- *map-generering* : generering af banen. Hvordan bliver jeres teksfil fortolket og lavet om til tile-objekter eller lignende.
+- ...
