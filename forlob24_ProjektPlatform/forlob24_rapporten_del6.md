@@ -16,6 +16,8 @@ Omfang 5 til 8 normalsiders tekst, eksklusiv billeder og bilag.
 - **konklusion** : *udfordringer, potentielle forbedringer og/eller efterfølgender version*
 - **bilag** : *programmets kode og andet relevant*
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Tekniske diagrammer 
 
 Overordnet findes der to forskellige kategorier af diagrammer: **struktur-diagrammer** og **adfærds-diagrammer**.     
