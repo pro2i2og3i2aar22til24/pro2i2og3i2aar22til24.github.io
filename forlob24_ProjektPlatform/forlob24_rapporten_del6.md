@@ -26,7 +26,7 @@ Der skal være et klassediagram over hele programmet! Her er et bud på hvordan 
 
 <img src="klasseDiagram.png" width="50%">
 
-## Aktivitetsdiagram for platformer-spillet ( mere næste gang ... )
+## Aktivitetsdiagrammer for platformer-spillet ( mere næste gang ... )
 
 I bør have flere aktivitetsdiagrammer og/eller flowcharts. F.eks. kan i de anvendes til at beskrive:
 
