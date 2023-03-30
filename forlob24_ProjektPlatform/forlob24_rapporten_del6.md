@@ -31,6 +31,7 @@ Man kan tegne diagrammerne i hånden, eller anvende et værktøj. Jeg har selv b
 
 Her er et bud på hvordan i kan tegne jeres klassediagram:
 ![klassediagram](klasseDiagram.png)
+<img src="klasseDiagram.png" alt= “” width="value" height="value">
 
 ## Aktivitetsdiagram for platformer-spillet ( næste gang ... )
 
