@@ -6,15 +6,15 @@ Indholdet der beskrives her er det samme som i eksamensprojektet
 
 Omfang 5 til 8 normalsiders tekst, eksklusiv billeder og bilag.
 
-- forside : *relevant information vedrørende afleveringen*
-- kort abstract : 'så man kort kan orientere som om opgavens indhold*
-- problemformulering : *kortfattet præcisering af problem der undersøges/løses*
-- kravspecifikation og designspecifikation : *kravspec. er liste over funktionskrav, designspec. er visualisering design krav*
-- funktionsbeskrivelse : *ikke-teknisk gennemgang af det endelige produkts skærmlayout og funktionalitet*
-- dokumentation af programmet : *teknisk beskrivelse af programmet med dertilhørende diagrammer*
-- test af programmet : *overholder programmet kravspec., eventuelt performance og/eller brugertest*
-- konklusion : *udfordringer, potentielle forbedringer og/eller efterfølgender version*
-- bilag : *programmets kode og andet relevant*
+- **forside** : *relevant information vedrørende afleveringen*
+- **kort abstract** : *så man kort kan orientere som om opgavens indhold*
+- **problemformulering** : *kortfattet præcisering af problem der undersøges/løses*
+- **kravspecifikation og designspecifikation** : *kravspec. er liste over funktionskrav, designspec. er visualisering design krav*
+- **funktionsbeskrivelse** : *ikke-teknisk gennemgang af det endelige produkts skærmlayout og funktionalitet*
+- **dokumentation af programmet** : *teknisk beskrivelse af programmet med dertilhørende diagrammer*
+- **test af programmet** : *overholder programmet kravspec., eventuelt performance og/eller brugertest*
+- **konklusion** : *udfordringer, potentielle forbedringer og/eller efterfølgender version*
+- **bilag** : *programmets kode og andet relevant*
 
 ## Tekniske diagrammer 
 
@@ -31,9 +31,9 @@ I skal have mindst et klassediagram. Her er et bud på hvordan i kan tegne jeres
 
 I bør have flere aktivitetsdiagrammer og/eller flowcharts. F.eks. kan i de anvendes til at beskrive:
 
-- *ovordnet spil-flow* : diagram over spillets flow og tilstande 
+- *skærm-flow* : diagram over spillets flow. startskærm, til spille-skærm osv.
 - *tile-kollision og tyngdekraft* : hvordan fungerer koden når man hopper og rammer en tile
-- *animation* : hvordan 
+- *animation* : ... 
 
 ## Pseudokode for platformer-spillet ( næste gang ...)
 
