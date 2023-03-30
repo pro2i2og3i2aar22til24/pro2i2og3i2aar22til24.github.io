@@ -28,6 +28,8 @@ Til at dokumentere platformerspillet skal i anvende følgende:
 - aktivitets-diagram eller flow-chart
 - pseudokode
 
+Kan i gætte hvilke typer diagram klassediagram og flowcharts tilhører?
+
 
 Man kan tegne diagrammerne i hånden, eller anvende et værktøj. Jeg har selv brugt: 
 [www.smartdraw.com](www.smartdraw.com)
@@ -40,10 +42,12 @@ Her er et bud på hvordan i kan tegne jeres klassediagram
 
 ### Aktivitetsdiagram for platformer-spillet ( næste gang ... )
 
-I bør som minimum have aktivitetsdiagrammer og/eller flowcharts for følgende dele af spillet
+I bør have aktivitetsdiagrammer og/eller flowcharts for følgende dele af spillet
 
 - *ovordnet spil-flow* : diagram over spillets flow og tilstande 
 - *tile-kollision og tyngdekraft* : hvordan fungerer koden når man hopper og rammer en tile
 - *animation* : hvordan 
 
 ### Pseudokode for platformer-spillet ( næste gang ...)
+
+Man kunne anvende pseudokode til at beskrive indlæsningen af *map filen* og generering af banen
