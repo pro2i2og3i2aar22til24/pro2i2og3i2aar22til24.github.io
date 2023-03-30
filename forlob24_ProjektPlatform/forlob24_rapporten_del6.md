@@ -18,23 +18,18 @@ Omfang 5 til 8 normalsiders tekst, eksklusiv billeder og bilag.
 
 ## Tekniske diagrammer 
 
-Det er meget vigtigt at få dokumenteret programmet vha. diagrammer. overordnet findes der to forskellige kategorier af programmer:
-**struktur-diagrammer** og **adfærds-diagrammer**
+Overordnet findes der to forskellige kategorier af diagrammer: **struktur-diagrammer** og **adfærds-diagrammer**
 
-Til at dokumentere platformerspillet skal i anvende følgende: klassediagram, aktivitets-diagram, flow-charts og pseudokode
-Kan i gætte hvilke typer diagram klassediagram og flowcharts tilhører?
-
-Man kan tegne diagrammerne i hånden, eller anvende et værktøj. Jeg har selv brugt: 
-[www.smartdraw.com](www.smartdraw.com)
+Man kan tegne diagrammerne i hånden, eller anvende et værktøj. Jeg har selv brugt: [www.smartdraw.com](www.smartdraw.com)
 
 ## Klassediagrammet for platformer-spillet 
+I skal have mindst et klassediagram. Her er et bud på hvordan i kan tegne jeres klassediagram:
 
-Her er et bud på hvordan i kan tegne jeres klassediagram:
 <img src="klasseDiagram.png" width="50%">
 
 ## Aktivitetsdiagram for platformer-spillet ( næste gang ... )
 
-I bør have aktivitetsdiagrammer og/eller flowcharts for følgende dele af spillet
+I bør have flere aktivitetsdiagrammer og/eller flowcharts. F.eks. kan i de anvendes til at beskrive:
 
 - *ovordnet spil-flow* : diagram over spillets flow og tilstande 
 - *tile-kollision og tyngdekraft* : hvordan fungerer koden når man hopper og rammer en tile
@@ -42,4 +37,4 @@ I bør have aktivitetsdiagrammer og/eller flowcharts for følgende dele af spill
 
 ## Pseudokode for platformer-spillet ( næste gang ...)
 
-Man kunne anvende pseudokode til at beskrive indlæsningen af *map filen* og generering af banen
+Man kunne anvende pseudokode til at beskrive indlæsningen af *map filen* og generering af banen.
