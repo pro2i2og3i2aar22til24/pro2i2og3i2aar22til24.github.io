@@ -22,7 +22,7 @@ Overordnet findes der to forskellige kategorier af diagrammer: **struktur-diagra
 Man kan tegne diagrammerne i hånden, eller anvende et værktøj. Jeg har selv brugt: [www.smartdraw.com](www.smartdraw.com)
 
 ## Klassediagrammet for platformer-spillet 
-I skal have mindst et klassediagram. Her er et bud på hvordan i kan tegne jeres klassediagram:
+Der skal være et klassediagram over hele programmet! Her er et bud på hvordan i kan tegne jeres klassediagram:
 
 <img src="klasseDiagram.png" width="50%">
 
