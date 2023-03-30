@@ -85,5 +85,4 @@ Mvh underviseren selv Anders J.R. Petersen
 [forløb 24 : *Del 3 : Byg coins-klasse, generer-coins og indbyg point*](forlob24_ProjektPlatform/forlob24_coins_del3.md)    
 [forløb 24 : *Del 4 : Byg fjende-klasse og indlæs fjender fra tekstfilen*](forlob24_ProjektPlatform/forlob24_enemies_del4.md)          
 [forløb 24 : *Del 5 : Lav animation*](forlob24_ProjektPlatform/forlob24_animation_del5.md)       
-[forløb 24 : *Del 6 : Rapporten*](forlob24_ProjektPlatform/forlob24_rapporten_del6.md)       
-[forløb 24 : *Del 6.1 : Klassediagram for platformeren*](forlob24_ProjektPlatform/forlob24_rapporten_del6.md)       
+[forløb 24 : *Del 6 : Rapporten*](forlob24_ProjektPlatform/forlob24_rapporten_del6.md)
