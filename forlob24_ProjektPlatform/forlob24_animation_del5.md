@@ -1,4 +1,4 @@
-# Trin 4: ANIMATION
+# Trin 5: ANIMATION
 
 ## Nye krav til programmet:
 
