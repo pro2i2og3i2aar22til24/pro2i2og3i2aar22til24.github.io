@@ -88,4 +88,4 @@ Mvh underviseren selv Anders J.R. Petersen
 [forløb 24 : *Del 6 : Rapporten*](forlob24_ProjektPlatform/forlob24_rapporten_del6.md)
 
 ### Infografik - studieretnings case 
-[forløb 25 : Modulplan](forlob25_SRC/forlob25_src_intro.md)
+[forløb 25 : Information om src](forlob25_SRC/forlob25_src_intro.md)
