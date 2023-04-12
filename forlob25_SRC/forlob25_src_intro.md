@@ -22,6 +22,8 @@ Der følgende krav til det infografik-programmet:
 
 [internethandel.csv](internethandel.csv) : tøj, sport- og fritidsudstyr internetkøb inden for sidste år efter produkt, type og tid
 
+find andet data her : https://www.dst.dk/da/Statistik/emner
+
 -----------------------------------------------------------------------------------------------
 
 ## EKSEMPEL:
