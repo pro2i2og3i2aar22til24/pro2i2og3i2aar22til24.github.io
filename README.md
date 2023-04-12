@@ -86,3 +86,6 @@ Mvh underviseren selv Anders J.R. Petersen
 [forløb 24 : *Del 4 : Byg fjende-klasse og indlæs fjender fra tekstfilen*](forlob24_ProjektPlatform/forlob24_enemies_del4.md)          
 [forløb 24 : *Del 5 : Lav animation*](forlob24_ProjektPlatform/forlob24_animation_del5.md)       
 [forløb 24 : *Del 6 : Rapporten*](forlob24_ProjektPlatform/forlob24_rapporten_del6.md)
+
+### Infografik - studieretnings case 
+[forløb 25 : Modulplan](forlob25_SRC/forlob25_src_intro.md)
