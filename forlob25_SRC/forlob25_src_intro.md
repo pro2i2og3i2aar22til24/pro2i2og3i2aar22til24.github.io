@@ -1,8 +1,8 @@
 # SRC - infografik 
 
-Studieretningscasen er en fordybelse og undersøgelse af et specifikt infografik-design ved hjælp af jeres to studieretningsfag "kommunikation og it" og "programmering".   
-I skal aflevere en rapport og afslutningsvis præsentere jeres vigtigste konklusioner i en mundtlig prøve.
-I får en samlet karakter for rapport og mundtlig præstation.  
+Studieretningscasen er en fordybelse og undersøgelse af et specifikt infografik-design ved hjælp af jeres to studieretningsfag "kommunikation og it" og "programmering". I skal aflevere en rapport og afslutningsvis præsentere jeres vigtigste konklusioner i en mundtlig prøve.  
+    
+Der gives en samlet karakter for rapport og mundtlig præstation.  
 
 
 ## Krav til koden
