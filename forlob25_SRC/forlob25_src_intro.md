@@ -11,6 +11,7 @@ Der er følgende krav til infografik-programmet:
 
 - koden skal skrives i processing
 - i skal anvende rigtig data fra en fil, f.eks. csv eller txt
+- i skal anvende en objektorienteret programopbygning
 - grafiken skal være interaktiv 
 - der skal indgå animationer
 
@@ -40,7 +41,8 @@ Vigtigt : vær opmærksom på at denne løsning ikke er baseret på nogen målgr
 
 ### Kode 
 
-Koden nedenfor henter og behandler data fra "uddanelse.csv", så den senere kan bruges i infografik-koden:
+Koden nedenfor henter og behandler data fra "uddanelse.csv", så den senere kan bruges i infografik-koden.   
+De to arrays "drenge" og "piger" indeholder objekter af klassen Data. Ved at gemme objekterne i et array kan man anvende et loop til at hente hvert enkelt objekt og efterfølgende f.eks. tegne søjler i et søjlediagram: 
 
 ```java
 int selectedData = 1;//drenge =1, piger = 2, alle = 3
