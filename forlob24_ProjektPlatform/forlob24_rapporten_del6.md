@@ -28,7 +28,7 @@ Der skal være et klassediagram over hele programmet! Her er et bud på hvordan 
 
 <img src="klasseDiagram.png" width="50%">
 
-## Sekvens diagrammer 
+## Sekvens diagram
 Som alternativ til flowcharts kan man anvende sekvens-diagrammer. Disse kan vise aktive objekter og dertilhørende funktions-kald.  
 Nedenfor ses et eksempel på et sekvensdiagram over kollisioner med fjender:
 
@@ -40,17 +40,12 @@ F.eks. ved kollisions-detektionen mellem firkanter og punkter, se her (kilde : h
 
 <img src="punkt_boks.png" width="50%">
 
-## Aktivitetsdiagrammer for platformer-spillet ( mere næste gang ... )
 
-I bør have flere aktivitetsdiagrammer og/eller flowcharts. F.eks. kan i de anvendes til at beskrive:
-
-- *skærm-flow* : diagram over spillets flow. startskærm, til spille-skærm osv.
-- *tile-kollision og tyngdekraft* : hvordan fungerer koden når man hopper og rammer en tile
-- *animation* : ... 
-
-## Pseudokode for platformer-spillet ( mere næste næste gang ...)
+## Pseudokode for platformer-spillet ( næste næste gang ...)
 
 I bør anvende pseudokode når i skal beskrive algoritmeagtige dele af jeres program. F.eks. kunne i anvende pseudokode til:
 
 - *map-generering* : generering af banen. Hvordan bliver jeres teksfil fortolket og lavet om til tile-objekter eller lignende.
 - ...
+
+## Flowcharts for platformer-spillet ( måske næste gang ... )
