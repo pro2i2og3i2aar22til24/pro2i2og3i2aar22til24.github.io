@@ -28,6 +28,18 @@ Der skal være et klassediagram over hele programmet! Her er et bud på hvordan 
 
 <img src="klasseDiagram.png" width="50%">
 
+## Sekvens diagrammer 
+Som alternativ til flowcharts kan man anvende sekvens-diagrammer. Disse kan vise aktive objekter og dertilhørende funktions-kald.  
+Nedenfor ses et eksempel på et sekvensdiagram over kollisioner med fjender:
+
+<img src="sequence_diagram.png" width="50%">
+
+## Alternative diagrammer og tegninger
+Det kan være nødvendigt at tegne eller opfinde egne diagrammer for at illustrere en del af programmet. 
+F.eks. ved kollisions-detektionen imellem firkanter, se her:
+
+<img src="punkt_boks.png" width="50%">
+
 ## Aktivitetsdiagrammer for platformer-spillet ( mere næste gang ... )
 
 I bør have flere aktivitetsdiagrammer og/eller flowcharts. F.eks. kan i de anvendes til at beskrive:
