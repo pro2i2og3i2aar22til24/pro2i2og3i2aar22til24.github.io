@@ -1,7 +1,7 @@
 # SRC - infografik 
 
 Studieretningscasen er en fordybelse og undersøgelse af et specifikt infografik-design ved hjælp af jeres to studieretningsfag "kommunikation og it" og "programmering". I skal aflevere en rapport og afslutningsvis præsentere jeres vigtigste konklusioner i en mundtlig prøve.  
-    
+
 Der gives en samlet karakter for rapport og mundtlig præstation.  
 
 
@@ -27,6 +27,13 @@ find andet data her : https://www.dst.dk/da/Statistik/emner
 -----------------------------------------------------------------------------------------------
 
 ## EKSEMPEL:
+
+Nedenfor ses et eksempel på et infografikporgram, der anvender data-filen "uddannelse.csv".   
+Programmet viser et søjlediagram for hvor mange piger/drenge i aldersgruppen 18-25 år, der enten har færdiggjort en ungdomsuddannelse eller er igang med det. 
+Ved at trykke på 1 eller 2 kan man vælge henholdsvis at se histogrammet for piger eller drenge. 
+Selve diagrammet er animeret, så det langsomt vokser frem fra bunden af skærmen.
+
+Vigtigt : vær opmærksom på at denne løsning ikke er baseret på nogen målgruppe. 
 
 ### Færdigt program
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GCRt13MC7rE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
