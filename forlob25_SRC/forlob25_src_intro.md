@@ -1,11 +1,11 @@
 # SRC - infografik 
 
 Studieretningscasen er en fordybelse og undersøgelse af et specifikt infografik-design ved hjælp af jeres to studieretningsfag "kommunikation og it" og "programmering".   
-I skal aflevere en rapport og afslutningsvis præsenterer jeres vigtigste konklusion i en mundtlig prøve.
+I skal aflevere en rapport og afslutningsvis præsentere jeres vigtigste konklusioner i en mundtlig prøve.
 I får en samlet karakter for rapport og mundtlig præstation.  
 
 
-## krav til koden
+## Krav til koden
 
 Der følgende krav til det infografik-programmet:
 
@@ -14,12 +14,17 @@ Der følgende krav til det infografik-programmet:
 - grafiken skal være interaktiv 
 - der skal indgå animationer
 
+## Forslag til data
+
+
+
 -----------------------------------------------------------------------------------------------
 
 ## EKSEMPEL:
-## eksempel på datafil
+## Datafil
 
-Dette er et eksempel på en brugbar data-fil, navngivet "uddannelse.csv", hentet fra "dansk statistik":
+Dette er et eksempel på en brugbar data-fil, der viser optaget på de danske ungdomsuddannelser i årene 2015 til 2021.     
+Filen er hentet fra "Dansk Statistik":
 
 ```
 "18 - 25 �riges ungdomsuddannelser efter k�n, uddannelsesstatus og tid"
@@ -40,9 +45,9 @@ Dette er et eksempel på en brugbar data-fil, navngivet "uddannelse.csv", hentet
 "http://dst.dk/ext/uddannelse/Uddannelsestabeller "
 ```
 
-### eksempel på program-kode
+### Kode 
 
-Koden nedenfor henter og behandler data fra "uddanelse.csv", så den senere kan bruges til programmering af selve infografikken:
+Koden nedenfor henter og behandler data fra "uddanelse.csv", så den senere kan bruges i infografik-koden:
 
 ```java
 int selectedData = 1;//drenge =1, piger = 2, alle = 3
@@ -89,5 +94,5 @@ void setup() {
 }
 ```
 
-### eksempel på færdigt program
+### Færdigt program
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GCRt13MC7rE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
