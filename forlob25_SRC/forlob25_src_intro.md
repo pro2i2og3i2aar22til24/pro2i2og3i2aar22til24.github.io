@@ -16,7 +16,11 @@ Der følgende krav til det infografik-programmet:
 
 ## Forslag til data
 
-[uddannelse.csv](uddannelse.csv)
+[uddannelse.csv](uddannelse.csv) : 18 - 25 åriges ungdomsuddannelser efter køn, uddannelsesstatus og tid  
+
+[indkomst.csv](indkomst.csv) : løn efter lønkomponenter, lønmodtagergruppe, aflønningsform, sektor, køn, uddannelse og tid
+
+[internethandel.csv](internethandel.csv) : tøj, sport- og fritidsudstyr internetkøb inden for sidste år efter produkt, type og tid
 
 -----------------------------------------------------------------------------------------------
 
