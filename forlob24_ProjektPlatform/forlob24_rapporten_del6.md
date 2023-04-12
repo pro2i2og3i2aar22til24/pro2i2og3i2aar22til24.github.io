@@ -21,7 +21,7 @@ Omfang 5 til 8 normalsiders tekst, eksklusiv billeder og bilag.
 ## Tekniske diagrammer 
 
 Overordnet findes der to forskellige kategorier af diagrammer: **struktur-diagrammer** og **adfærds-diagrammer**.     
-Man kan tegne diagrammerne i hånden, eller anvende et værktøj. Jeg har selv brugt: [www.smartdraw.com](www.smartdraw.com)
+Man kan tegne diagrammerne i hånden, eller anvende et værktøj. Jeg har selv brugt: [https://www.smartdraw.com/](https://www.smartdraw.com/)
 
 ## Klassediagrammet for platformer-spillet 
 Der skal være et klassediagram over hele programmet! Her er et bud på hvordan i kan tegne jeres klassediagram:
