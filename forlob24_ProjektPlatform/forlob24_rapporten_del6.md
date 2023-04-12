@@ -30,7 +30,8 @@ Der skal være et klassediagram over hele programmet! Her er et bud på hvordan 
 
 ## Sekvens diagram
 Som alternativ til flowcharts kan man anvende sekvens-diagrammer. Disse kan vise aktive objekter og dertilhørende funktions-kald.  
-Nedenfor ses et eksempel på et sekvensdiagram over kollisioner med fjender:
+Nedenfor ses et eksempel på et sekvensdiagram over kollisioner med fjender.   
+Se eventuelt følgende video for mere info: https://www.youtube.com/watch?v=pCK6prSq8aw.
 
 <img src="sequence_diagram.png" width="50%">
 
