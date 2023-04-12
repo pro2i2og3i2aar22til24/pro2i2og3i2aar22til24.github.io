@@ -16,12 +16,12 @@ Der følgende krav til det infografik-programmet:
 
 ## Forslag til data
 
-
+[uddannelse.csv](uddannelse.csv)
 
 -----------------------------------------------------------------------------------------------
 
 ## EKSEMPEL:
-## Datafil
+### Datafil
 
 Dette er et eksempel på en brugbar data-fil, der viser optaget på de danske ungdomsuddannelser i årene 2015 til 2021.     
 Filen er hentet fra "Dansk Statistik":
