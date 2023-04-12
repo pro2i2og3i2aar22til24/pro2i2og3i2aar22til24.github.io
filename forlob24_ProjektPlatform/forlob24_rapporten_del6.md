@@ -36,7 +36,7 @@ Nedenfor ses et eksempel på et sekvensdiagram over kollisioner med fjender:
 
 ## Alternative diagrammer og tegninger
 Det kan være nødvendigt at tegne eller opfinde egne diagrammer for at illustrere en del af programmet. 
-F.eks. ved kollisions-detektionen imellem firkanter, se her:
+F.eks. ved kollisions-detektionen mellem firkanter og punkter, se her (kilde : https://happycoding.io/tutorials/processing/collision-detection):
 
 <img src="punkt_boks.png" width="50%">
 
