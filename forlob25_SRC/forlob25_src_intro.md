@@ -1,13 +1,22 @@
-# infografik - en studieretnings case
+# SRC - infografik 
 
-## krav
+Studieretningscasen er en fordybelse og undersøgelse af et specifikt infografik-design ved hjælp af jeres to studieretningsfag "kommunikation og it" og "programmering".   
+I skal aflevere en rapport og afslutningsvis præsenterer jeres vigtigste konklusion i en mundtlig prøve.
+I får en samlet karakter for rapport og mundtlig præstation.  
 
-Infografik kan være mange ting, derfor er der følgende krav til det program i skal designe i programmering:
+
+## krav til koden
+
+Der følgende krav til det infografik-programmet:
+
 - koden skal skrives i processing
 - i skal anvende rigtig data fra en fil, f.eks. csv eller txt
 - grafiken skal være interaktiv 
 - der skal indgå animationer
 
+-----------------------------------------------------------------------------------------------
+
+## EKSEMPEL:
 ## eksempel på datafil
 
 Dette er et eksempel på en brugbar data-fil, navngivet "uddannelse.csv", hentet fra "dansk statistik":
@@ -81,5 +90,4 @@ void setup() {
 ```
 
 ### eksempel på færdigt program
-
-<iframe width="560" height="315" src="https://youtu.be/GCRt13MC7rE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GCRt13MC7rE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
