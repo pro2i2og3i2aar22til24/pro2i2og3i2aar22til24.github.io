@@ -44,9 +44,19 @@ F.eks. ved kollisions-detektionen mellem firkanter og punkter, se her (kilde : h
 
 ## Pseudokode for platformer-spillet ( næste næste gang ...)
 
-I bør anvende pseudokode når i skal beskrive algoritmeagtige dele af jeres program. F.eks. kunne i anvende pseudokode til:
+I bør anvende pseudokode når i skal beskrive algoritmeagtige dele af jeres program. F.eks. kunne i anvende pseudokode til  *map-generering* : generering af banen. Hvordan bliver jeres teksfil fortolket og lavet om til tile-objekter eller lignende.
 
-- *map-generering* : generering af banen. Hvordan bliver jeres teksfil fortolket og lavet om til tile-objekter eller lignende.
-- ...
+Nedenfor kan i se mit bud på en pseudokode, der beskriver map-genereringen:
+
+´´´
+indlæs alle linjer fra filen "tiles.txt"
+    vælge første linje
+        Split linjen op i enkelte symboler eller mellemrum
+            vælg  
+
+
+´´´
+
+
 
 ## Flowcharts for platformer-spillet ( måske næste gang ... )
