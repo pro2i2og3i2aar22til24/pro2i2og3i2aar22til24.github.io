@@ -21,7 +21,8 @@ Omfang 5 til 8 normalsiders tekst, eksklusiv billeder og bilag.
 ## Tekniske diagrammer 
 
 Overordnet findes der to forskellige kategorier af diagrammer: **struktur-diagrammer** og **adfærds-diagrammer**.     
-Man kan tegne diagrammerne i hånden, eller anvende et værktøj. Jeg har selv brugt: [https://www.smartdraw.com/](https://www.smartdraw.com/)
+Man kan tegne diagrammerne i hånden, eller anvende et værktøj.   
+Jeg har selv brugt: [https://www.smartdraw.com/](https://www.smartdraw.com/). Men desværre koster smartdraw penge!!
 
 ## Klassediagrammet for platformer-spillet 
 Der skal være et klassediagram over hele programmet! Her er et bud på hvordan i kan tegne jeres klassediagram:
@@ -42,18 +43,27 @@ F.eks. ved kollisions-detektionen mellem firkanter og punkter, se her (kilde : h
 <img src="punkt_boks.png" width="50%">
 
 
-## Pseudokode for platformer-spillet ( næste næste gang ...)
-
-I bør anvende pseudokode når i skal beskrive algoritmeagtige dele af jeres program. F.eks. kunne i anvende pseudokode til  *map-generering* : generering af banen. Hvordan bliver jeres teksfil fortolket og lavet om til tile-objekter eller lignende.
+## Pseudokode for platformer-spillet
+I bør anvende pseudokode når i skal beskrive algoritmeagtige dele af jeres program.   
+F.eks. kunne i anvende pseudokode til  *map-generering* : generering af banen. Hvordan bliver jeres teksfil fortolket og lavet om til tile-objekter eller lignende.
 
 Nedenfor kan i se mit bud på en pseudokode, der beskriver map-genereringen:
 
 ´´´
-indlæs alle linjer fra filen "tiles.txt"
+indlæs linjer fra filen "tiles.txt"
+    
     vælge første linje
-        Split linjen op i enkelte symboler eller mellemrum
-            vælg  
+       
+       løkke-1: adder Y med 20 pixel
+            Split linjen op i enkelte symboler
+               
+               vælg første symbol
 
+               løkke-2: adder X med 20 pixel,   
+                    hvis symbolet er "1" lav tile på plads (X,Y)
+                    gentag "løkke-2" med næste symbol, hvis der er flere symboler/mellemrum
+            
+            gentag "løkke-1" med næste linje, hvis der er flere linjer ...
 
 ´´´
 
