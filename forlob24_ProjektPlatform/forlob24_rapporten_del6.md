@@ -44,7 +44,8 @@ F.eks. ved kollisions-detektionen mellem firkanter og punkter, se her (kilde : h
 
 
 ## Pseudokode for platformer-spillet
-I bør anvende pseudokode når i skal beskrive algoritmeagtige dele af jeres program.   
+I bør anvende pseudokode når i skal beskrive algoritmeagtige dele af jeres program.     
+Pseudokode er ikke standardiseret - og ideen er ganske enkelt at man skriver koden i almindeligt sprog uden at følge en bestemt syntaks.   
 F.eks. kunne i anvende pseudokode til  *map-generering* : generering af banen. Hvordan bliver jeres teksfil fortolket og lavet om til tile-objekter eller lignende.
 
 Nedenfor kan i se mit bud på en pseudokode, der beskriver map-genereringen:
@@ -69,4 +70,6 @@ indlæs linjer fra filen "tiles.txt"
 
 
 
-## Flowcharts for platformer-spillet ( måske næste gang ... )
+## Flowcharts for platformer-spillet
+Denne diagramtype er meget generel og kan bruges til at beksrive mange forskellige dele af programmet, både fra et teknisk og et mindre teknisk perspektiv.   
+Det er dog meget vigtigt at i anvender den rigtige standard, se her : [forløb 23 : *flowcharts info*](forlob23_dokumentation/forlob23_info_flowchart.md)
