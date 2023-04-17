@@ -28,7 +28,7 @@ find andet data her : https://www.dst.dk/da/Statistik/emner
 
 Nedenfor ses et eksempel på et infografikporgram, der anvender data-filen "uddannelse.csv".   
 Programmet viser et søjlediagram for hvor mange piger/drenge i aldersgruppen 18-25 år, der enten har færdiggjort en ungdomsuddannelse eller er igang med det. 
-Ved at trykke på 1 eller 2 kan man vælge henholdsvis at se histogrammet for piger eller drenge. 
+Ved at trykke på K eller M kan man vælge henholdsvis at se histogrammet for piger eller drenge. 
 Selve diagrammet er animeret, så det langsomt vokser frem fra bunden af skærmen.
 
 Vigtigt : vær opmærksom på at denne løsning ikke er baseret på nogen målgruppe. 
