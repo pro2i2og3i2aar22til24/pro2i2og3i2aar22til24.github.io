@@ -17,11 +17,8 @@ Der er følgende krav til infografik-programmet:
 
 ## Forslag til data
 
-[uddannelse.csv](uddannelse.csv) : 18 - 25 åriges ungdomsuddannelser efter køn, uddannelsesstatus og tid  
+[uddannelse.txt](uddannelse.txt) : 18 - 25 åriges ungdomsuddannelser efter køn, uddannelsesstatus og tid  
 
-[indkomst.csv](indkomst.csv) : løn efter lønkomponenter, lønmodtagergruppe, aflønningsform, sektor, køn, uddannelse og tid
-
-[internethandel.csv](internethandel.csv) : tøj, sport- og fritidsudstyr internetkøb inden for sidste år efter produkt, type og tid
 
 find andet data her : https://www.dst.dk/da/Statistik/emner
 
@@ -41,50 +38,47 @@ Vigtigt : vær opmærksom på at denne løsning ikke er baseret på nogen målgr
 
 ### Kode 
 
-Koden nedenfor henter og behandler data fra "uddanelse.csv", så den senere kan bruges i infografik-koden.   
-De to arrays "drenge" og "piger" indeholder objekter af klassen Data. Ved at gemme objekterne i et array kan man anvende et loop til at hente hvert enkelt objekt og efterfølgende f.eks. tegne søjler i et søjlediagram: 
+Koden nedenfor henter og behandler data fra "uddanelse.txt", så den senere kan bruges i infografik-koden.   
+De to arrays "drenge" og "piger" indeholder objekter af klassen Data. Ved at gemme objekterne i en ArrayList kan man anvende et loop til at hente hvert enkelt objekt og efterfølgende f.eks. tegne søjler i et søjlediagram: 
 
 ```java
-int selectedData = 1;//drenge =1, piger = 2, alle = 3
+ArrayList<Data> dataListe = new ArrayList<Data>();
+String selected = "K";  
+int animationFrame = 0;  
 
-Data[] drenge = new Data[17];
-Data[] piger  = new Data[17];
-
-class Data {
-  String aarstal; 
-  float total, studenter, elever, andet;  
-  
-  Data(String y) {
-    aarstal = y;
-  }
-  
-  float procent() {   
-    return 100*(studenter + elever)/total;
-  }
+class Data{
+   String kon;   int aar; float done, elev, andet;
+   int statusProcent(){return int(100*(done+elev)/(done+elev+andet));} //uddannet eller i uddannelse
 }
 
-void setup() {
-  String[]   linjer  = loadStrings("uddannelse.csv");
-
-  for (int linjeNr=0; linjeNr<linjer.length; linjeNr++) {
-    String[] words = linjer[linjeNr].split(",");
-
-    for (int kolonne=2; kolonne<19; kolonne++) {
-      if (linjeNr==2) { 
-        drenge[kolonne-2]  = new Data(words[kolonne]);
-        piger[kolonne-2]   = new Data(words[kolonne]);
-      }  
-      if (linjeNr==4)  drenge[kolonne-2].total    = Integer.parseInt(words[kolonne]);
-      if (linjeNr==5)  drenge[kolonne-2].studenter= Integer.parseInt(words[kolonne]);
-      if (linjeNr==6)  drenge[kolonne-2].elever   = Integer.parseInt(words[kolonne]);
-      if (linjeNr==7)  drenge[kolonne-2].andet    = Integer.parseInt(words[kolonne]);
-
-      if (linjeNr==9)  piger[kolonne-2].total     = Integer.parseInt(words[kolonne]); 
-      if (linjeNr==10) piger[kolonne-2].studenter = Integer.parseInt(words[kolonne]);            
-      if (linjeNr==11) piger[kolonne-2].elever    = Integer.parseInt(words[kolonne]);
-      if (linjeNr==12) piger[kolonne-2].andet     = Integer.parseInt(words[kolonne]);
-    }
+void setup(){
+  String[] linjer = loadStrings("uddannelse.txt");
+ 
+  for(int i=1 ; i<linjer.length ; i++){
+    String[] linjeData = linjer[i].split("\t");
+    Data data      = new Data();
+    data.kon       = linjeData[2]; 
+    data.aar       = Integer.parseInt(linjeData[0]);
+    data.done      = Integer.parseInt(linjeData[3]);
+    data.elev      = Integer.parseInt(linjeData[4]);
+    data.andet     = Integer.parseInt(linjeData[5]);
+    dataListe.add(data);
   }
-  size(500, 500);
+  size(500,500);
+}
+
+void draw(){
+ clear();
+ float y=3;    animationFrame++;
+ fill(255);  text("GENNEMFØRT ELLER IGANG MED UNGDOMSUDDANNELSE 2005-2021 18-21 ÅR",20,20);
+ fill(255);  text("VALGT KØN = " + selected,20,40); 
+  if(keyPressed){ selected = key+""; selected = selected.toUpperCase(); animationFrame = 0;} //Tryk på "K" eller "M"
+  for(Data d : dataListe){
+    if(d.kon.contains(selected)){
+      fill(255,animationFrame);  rect(20,20*y,(d.statusProcent()-60)*10,20);
+      fill(0,animationFrame);    text(d.aar + " : " +d.statusProcent()+"%",24,20*(y+1)-4);
+      y++;
+    }  
+  }
 }
 ```
