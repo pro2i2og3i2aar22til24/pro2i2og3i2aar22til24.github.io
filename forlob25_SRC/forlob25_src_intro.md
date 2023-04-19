@@ -28,7 +28,7 @@ Find andet data på statistikbanke.dk, se her hvordan:
 
 ## EKSEMPEL:
 
-Nedenfor ses et eksempel på et infografikporgram, der anvender data-filen "uddannelse.csv".   
+Nedenfor ses et eksempel på et infografikporgram, der anvender data-filen "uddannelse.txt".   
 Programmet viser et søjlediagram for hvor mange piger/drenge i aldersgruppen 18-25 år, der enten har færdiggjort en ungdomsuddannelse eller er igang med det. 
 Ved at trykke på K eller M kan man vælge henholdsvis at se histogrammet for piger eller drenge. 
 Selve diagrammet er animeret, så det starter med at være gennemsigtigt og bliver langsomt tydligere.
