@@ -19,8 +19,10 @@ Der er følgende krav til infografik-programmet:
 
 [uddannelse.txt](uddannelse.txt) : 18 - 25 åriges ungdomsuddannelser efter køn, uddannelsesstatus og tid  
 
+Find andet data på statistikbanke.dk, se her hvordan:
 
-find andet data her : https://www.dst.dk/da/Statistik/emner
+<iframe width="560" height="315" src="https://www.youtube.com/embed/36tCXzs0e7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 -----------------------------------------------------------------------------------------------
 
