@@ -25,6 +25,10 @@ Dette er kun forslag til kilder, i skal selvfølgelig helst supplere med flere e
 - Om polymorfi : Javabog af Jakob Nordfalk kap 5.2
 - Se : javabog.dk
 
+### Programmet skal i bilag
+
+Selvom i ikke bliver direkte bedømt på jeres program, skal det alligevel i bilag. Det virker useriøst kun at påstå man har designet et fuldt funktionelt program, men ikke at medtage det i sin helhed.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Krav til koden og programmet
@@ -104,3 +108,14 @@ void draw(){
   }
 }
 ```
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+## Hvad med chatGPT i programmering?
+
+Anvendes chatGPT i programmering, skal man skrive i rapporten hvordan og hvor den er blevet anvendt,- ellers betragtes det som snyd.   
+Desuden forventes det at i forstår alt kode, der indgår i rapporten, så pas på.
+
+Hvis man overhovedet anvender chatGPT foreslår jeg, at man skriver koden selv og hovedsageligt anvender den til at fejlfinde.
+
+I de fleste andre fag er chatGPT fuldstændig forbudt!
