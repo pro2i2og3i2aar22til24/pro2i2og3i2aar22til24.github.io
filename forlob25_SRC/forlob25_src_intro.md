@@ -9,7 +9,7 @@ Der gives en samlet karakter for rapport og mundtlig præstation.
 Helt konkret er der to underspørgsmål i opgaveformuleringen hvor i direkte skal anvende programmeringsfaget.
 
 **Gør rede for objektorienterede nøglebegreber (redegørende niveau)**:     
-Dette første underspørgsmål er det laveste taksonomiske niveau. Her skal udvælge vigtige begreber indenfor objektorienteret programmering og forklare dem. Det er en god ide at udvælge noget i rent faktsik bruger i designet af jeres program. I skal selvfølgelig have kilder der underbygger jeres påstande.
+Dette første underspørgsmål er det laveste taksonomiske niveau. Her skal i udvælge vigtige begreber indenfor objektorienteret programmering og forklare dem. Det er en god ide at udvælge noget i rent faktsik bruger i designet af jeres program. I skal selvfølgelig have kilder, der underbygger jeres påstande.
 
 **Brug forundersøgelse, jeres viden om interaktionsdesign og det objektorienterede paradigme til at designe en interaktiv infografik... (anvendelse/analyse niveau)**:          
 Det andet spørgsmål er beskrivelse og design af jeres program. Her er diagrammer selvfølgelig også en vigtig ting (se platformer-forløbet).
