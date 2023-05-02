@@ -65,7 +65,7 @@ Selve diagrammet er animeret, så det starter med at være gennemsigtigt og bliv
 
 ### Kode 
 
-***Vigtigt : vær opmærksom på at den viste kode er meget simpel. Den indeholder kun en klasse, og viser hverken brugen af nedarvning eller polymorfi***
+***Vigtigt : vær opmærksom på at den viste kode er meget simpel. Den indeholder kun en klasse og viser hverken brugen af nedarvning eller polymorfi***
 
 Koden nedenfor henter og behandler data fra "uddanelse.txt", så den senere kan bruges i infografik-koden.   
 De to arrays "drenge" og "piger" indeholder objekter af klassen Data. Ved at gemme objekterne i en ArrayList kan man anvende et loop til at hente hvert enkelt objekt og efterfølgende f.eks. tegne søjler i et søjlediagram: 
