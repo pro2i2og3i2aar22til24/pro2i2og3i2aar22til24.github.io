@@ -4,6 +4,24 @@ Studieretningscasen er en fordybelse og undersøgelse af et specifikt infografik
 
 Der gives en samlet karakter for rapport og mundtlig præstation.  
 
+## Programmering i rapporten
+
+Helt konkret er der to underspørgsmål i opgaveformuleringen hvor i direkte skal anvende programmeringsfaget.
+
+**Gør rede for objektorienterede nøglebegreber (redegørende niveau)**:     
+Dette første underspørgsmål er det laveste taksonomiske niveau. Her skal udvælge vigtige begreber indenfor objektorienteret programmering og forklare dem. Det er en god ide at udvælge noget i rent faktsik bruger i designet af jeres program. I skal selvfølgelig have kilder der underbygger jeres påstande.
+
+**Brug forundersøgelse, jeres viden om interaktionsdesign og det objektorienterede paradigme til at designe en interaktiv infografik... (anvendelse/analyse niveau)**:          
+Det andet spørgsmål er beskrivelse og design af jeres program. Her er diagrammer selvfølgelig også en vigtig ting (se platformer-forløbet).
+
+## Forslag til kilder i programmering
+
+Dette er kun forslag til kilder, i skal selvfølgelig helst supplere med flere eller vælge helt andre. 
+
+- Om klasser og objekter : Javabog af Jakob Nordfalk kap 3.1
+- Om nedarvning : Javabog af Jakob Nordfalk kap 5.1
+- Om polymorfi : Javabog af Jakob Nordfalk kap 5.2
+- Se : javabog.dk
 
 ## Krav til koden
 
@@ -13,7 +31,7 @@ Der er følgende krav til infografik-programmet:
 - i skal anvende rigtig data fra en fil, f.eks. csv eller txt
 - i skal anvende en objektorienteret programopbygning
 - grafiken skal være interaktiv 
-- der skal indgå animationer
+- der bør indgå animationer
 
 ## Forslag til data
 
