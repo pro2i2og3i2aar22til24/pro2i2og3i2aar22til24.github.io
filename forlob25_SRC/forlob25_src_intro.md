@@ -4,6 +4,8 @@ Studieretningscasen er en fordybelse og undersøgelse af et specifikt infografik
 
 Der gives en samlet karakter for rapport og mundtlig præstation.  
 
+----------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Programmering i rapporten
 
 Helt konkret er der to underspørgsmål i opgaveformuleringen hvor i direkte skal anvende programmeringsfaget.
@@ -14,7 +16,7 @@ Dette første underspørgsmål er det laveste taksonomiske niveau. Her skal i ud
 **Brug forundersøgelse, jeres viden om interaktionsdesign og det objektorienterede paradigme til at designe en interaktiv infografik... (anvendelse/analyse niveau)**:          
 Det andet spørgsmål er beskrivelse og design af jeres program. Her er diagrammer selvfølgelig også en vigtig ting (se platformer-forløbet).
 
-## Forslag til kilder i programmering
+### Forslag til kilder i programmering
 
 Dette er kun forslag til kilder, i skal selvfølgelig helst supplere med flere eller vælge helt andre. 
 
@@ -23,7 +25,9 @@ Dette er kun forslag til kilder, i skal selvfølgelig helst supplere med flere e
 - Om polymorfi : Javabog af Jakob Nordfalk kap 5.2
 - Se : javabog.dk
 
-## Krav til koden
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+## Krav til koden og programmet
 
 Der er følgende krav til infografik-programmet:
 
@@ -33,7 +37,7 @@ Der er følgende krav til infografik-programmet:
 - grafiken skal være interaktiv 
 - der bør indgå animationer
 
-## Forslag til data
+### Forslag til data
 
 [uddannelse.txt](uddannelse.txt) : 18 - 25 åriges ungdomsuddannelser efter køn, uddannelsesstatus og tid  
 
@@ -42,9 +46,7 @@ Find andet data på statistikbanken.dk, se her hvordan:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/36tCXzs0e7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
------------------------------------------------------------------------------------------------
-
-## EKSEMPEL:
+### Eksempel
 
 Nedenfor ses et eksempel på et infografikporgram, der anvender data-filen "uddannelse.txt".   
 Programmet viser et søjlediagram for hvor mange piger/drenge i aldersgruppen 18-25 år, der enten har færdiggjort en ungdomsuddannelse eller er igang med det. 
