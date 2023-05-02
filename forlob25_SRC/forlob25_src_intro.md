@@ -27,7 +27,7 @@ Dette er kun forslag til kilder, i skal selvfølgelig helst supplere med flere e
 
 ### Programmet skal i bilag
 
-Selvom i ikke bliver direkte bedømt på jeres program, skal det alligevel i bilag. Det virker useriøst kun at påstå man har designet et fuldt funktionelt program, men ikke at medtage det i sin helhed.
+Sel vom i ikke bliver direkte bedømt på jeres program, skal det alligevel i bilag. Det virker useriøst kun at påstå man har designet et fuldt funktionelt program, men ikke at medtage det i sin helhed.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
