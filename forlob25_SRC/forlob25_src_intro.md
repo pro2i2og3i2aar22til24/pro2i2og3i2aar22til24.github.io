@@ -52,17 +52,20 @@ Find andet data på statistikbanken.dk, se her hvordan:
 
 ### Eksempel
 
+***Vigtigt : vær opmærksom på at denne løsning ikke er baseret på nogen målgruppe.***
+
 Nedenfor ses et eksempel på et infografikporgram, der anvender data-filen "uddannelse.txt".   
 Programmet viser et søjlediagram for hvor mange piger/drenge i aldersgruppen 18-25 år, der enten har færdiggjort en ungdomsuddannelse eller er igang med det. 
 Ved at trykke på K eller M kan man vælge henholdsvis at se histogrammet for piger eller drenge. 
 Selve diagrammet er animeret, så det starter med at være gennemsigtigt og bliver langsomt tydligere.
-
-Vigtigt : vær opmærksom på at denne løsning ikke er baseret på nogen målgruppe. 
+ 
 
 ### Færdigt program
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LTdeRkDg3SQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Kode 
+
+***Vigtigt : vær opmærksom på at den viste kode er meget simpel. Den indeholder kun en klasse, og viser ikke viser brugen af nedarvning og polymorfi***
 
 Koden nedenfor henter og behandler data fra "uddanelse.txt", så den senere kan bruges i infografik-koden.   
 De to arrays "drenge" og "piger" indeholder objekter af klassen Data. Ved at gemme objekterne i en ArrayList kan man anvende et loop til at hente hvert enkelt objekt og efterfølgende f.eks. tegne søjler i et søjlediagram: 
