@@ -31,3 +31,14 @@
 - metode-kroppen
 - "kalde"
 -...
+
+## Objektorienteret programmering
+- klasser
+- objekter
+- konstruktører
+- nedarvning
+- komposition
+- polymorfi
+- referencer
+- ...
+
