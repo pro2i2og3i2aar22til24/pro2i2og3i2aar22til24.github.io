@@ -1,0 +1,37 @@
+"Løn efter lønkomponenter, lønmodtagergruppe, aflønningsform, sektor,"
+"køn, uddannelse og tid"
+
+" "," "," "," "," "," ","2015","2016","2017","2018","2019","2020","2021"
+"STANDARDBEREGNET MÅNEDSFORTJENESTE"
+" ","Lønmodtagergrupper i alt"
+" "," ","Time- og fastlønnede i alt"
+" "," "," ","Sektorer i alt"
+" "," "," "," ","Mænd"
+" "," "," "," "," ","H1001 Ingen uddannelse",30662.93,31557.10,29168.96,29483.12,30330.01,31600.03,32937.34
+" "," "," "," "," ","H20 Gymnasiale uddannelser",38479.53,38353.66,38250.10,38676.15,38938.97,38903.57,39414.25
+" "," "," "," "," ","H5097 Videregående uddannelser uden nærmere angivelse, MVU",..,..,38451.24,39834.77,40150.86,42069.44,43430.01
+" "," "," "," "," ","H8080 Ph.d. og forskeruddannelser",60014.74,60408.95,60781.35,61988.22,63306.71,64573.91,66617.56
+" "," "," "," ","Kvinder"
+" "," "," "," "," ","H1001 Ingen uddannelse",26407.46,26996.11,26617.14,26603.86,27245.41,28399.10,29061.64
+" "," "," "," "," ","H20 Gymnasiale uddannelser",31303.82,31248.64,31325.93,31756.05,32079.73,32405.79,32663.88
+" "," "," "," "," ","H5097 Videregående uddannelser uden nærmere angivelse, MVU",..,..,32042.26,32823.39,33617.18,35154.69,36040.54
+" "," "," "," "," ","H8080 Ph.d. og forskeruddannelser",55710.08,55975.41,56198.71,58243.37,59361.28,60317.61,62102.89
+
+"Der er opdaget en fejl i produktionen for referenceåret 2020, som "
+"betyder, at datagrundlaget vedr. fravær i den statslige sektor er "
+"mangelfuld. Fejlen er rettet den 29/11/2022 i referenceår 2020 og "
+"bevirker generelt set, at fraværsbetalinger pr. præsteret time og "
+"fortjenesten pr. præsteret time er øget.   "
+"  "
+"Der er opdaget en fejl i produktionen vedrørende discokoder for de "
+"øverste direktører i den offentlige sektor. Fejlen er opstået i "
+"overgangen til den nye discokode klassifikation disco-08 i 2010. Som "
+"følge heraf, har nogle af de øverste direktører ikke indgået i "
+"datagrundlaget for lønstrukturstatistikken i den offentlige sektor. "
+"De påvirkede discokoder omfatter 111100, 111200, 111400, 112010 og "
+"112020. Fejlen er rettet i referenceåret 2021 og bevirke bl.a. en "
+"stigning i den standardberegnede timefortjeneste, fortjenesten pr. "
+"præsteret time samt antal fuldtidsbeskæftigede. Opretningen af fejlen "
+"medfører et databrud mellem 2020 og 2021 for de øverste direktører i "
+"den offentlige. "
+
