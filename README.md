@@ -10,7 +10,7 @@ Mvh underviseren selv Anders J.R. Petersen
 ---
 ## 3G: Forløb og undervisningbeskrivelse 2023/2024
 
-### Forløb 1: Repetition af sidste års pensum (grundlæggende programmering) - og udarbejdelse af plancher/plakater
+### Forløb 1: Rep. af sidste år og udarbejdelse af plancher/plakater
 
 **varighed:** 
 
