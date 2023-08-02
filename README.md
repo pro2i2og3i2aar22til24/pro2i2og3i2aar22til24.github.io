@@ -31,10 +31,32 @@ plakaterne skal indeholde:
 - gode eksempler
 - alle fagtermer
 
-**emner og grupper:**
+**emner:**
 
-- data
-- for og while loops : 
+Det vil sandsynligvis forekomme overlap på plakaterne. Det gør ikke noget. 
+- 1: variabler og datatyper
+- 2: forskellen på referencebaserede typer og værdibaserede typer
+- 3: for og while loops
+- 4: if statements og betingelser
+- 5: arrays og arraylister
+- 6: opreratorer både logiske og aritmetiske
+- 7: funktioner og metoder
+- 8: klasser og objekter
+- 9: reference polymorfi med polymorifi med overloading
+- 10: komposition, nedarvning og override
+
+**grupper:**
+
+ - Gruppe 1 - Tobias Qvistgaard, August Eklund, Anas Al-Atrash
+ - Gruppe 2 - William Fogh, Simon Toftemark, Thomas Carstensen
+ - Gruppe 3 - Max Rasmussen, Peter Hæstrup, Mei Skaaning
+ - Gruppe 4 - Ruben Egelund, Oskar Schweitz, Marius Andersen
+ - Gruppe 5 - Jonathan Borgholm, Marinus Christensen, Sofie Lybech
+ - Gruppe 6 - Simone Boesen, Boaz Jager, Oliver Wahl
+ - Gruppe 7 - Lucas Jensen, Rebecca Bigum, William Lerche
+ - Gruppe 8 - Ersan Ökmen, Oscar Thoft-Christensen, Anas Al-Hummadi
+ - Gruppe 9 - Thor Kaas, Magnus Forsberg, Magnus Byrne
+ - Gruppe 10 - Emil Gotlieb, Patrick Duus
 
 **forløbsplan:**
 
