@@ -10,7 +10,7 @@ Mvh underviseren selv Anders J.R. Petersen
 ---
 ## 3G: Forløb og undervisningbeskrivelse 2023/2024
 
-### Forløb 1: Repetition af sidste års pensum (det grundlæggende programmering) - og udarbejdelse af plancher/plakater
+### Forløb 1: Repetition af sidste års pensum (grundlæggende programmering) - og udarbejdelse af plancher/plakater
 
 **varighed:** d.11/8 fredag, mandag d.14/8 og d.18/8 fredag, ialt 5 moduler </br>
 
@@ -18,9 +18,19 @@ Mvh underviseren selv Anders J.R. Petersen
 Når plancherne/plakaterne er færdige præsenterer vi grupperne hver deres plakat for klassen     
 Efterfølgende tager vi en test og ser om vores nye plakater/plancher gør en forskel på karaktergennemsnittet :-)
 
-**Forløbsplan:**
+**plancher/plakater:** Gør jeres bedste for at lave et flot produkt (i kan jo også gøre brug af jeres kom-it færdigheder), vi skal jo forhåbentlig kunne kigge på de her placher resten af året!
+Hvert emne forventes belyst med kreative og meningsfulde tegninger og eksempler. Desuden skal alle tænkelige fagtermer indgå tydeligt  
+plakaterne skal indeholde:
+- tydelige og meningsfulde tegninger
+- gode eksempler
+- alle fagtermer
+
+**emner og grupper:**
+For og while loops : 
+
+**forløbsplan:**
 - fredag d.11/8: introduktion / og arbejd i grupper
-- mandag d.14/8: arbejde i grupper
+- mandag d.14/8: arbejde i grupper / præsentation for undertegnede (jeres lærer)
 - fredag d.18/8: præsentation for de andre i klassen
 - næste gang: test!!
 
