@@ -1,5 +1,8 @@
 ### Forløb 1: Rep. af sidste år og udarbejdelse af plancher/plakater
 
+![plaket eksempel](poster1.png)
+
+
 **varighed:** 
 
 d.11/8 fredag, mandag d.14/8 og d.18/8 fredag, ialt 5 moduler
@@ -17,7 +20,7 @@ Gør jeres bedste for at lave et flot produkt (i kan jo også gøre brug af jere
 Hvert emne forventes belyst med kreative og meningsfulde tegninger og eksempler. Desuden skal alle tænkelige fagtermer indgå tydeligt  
 
 
-Her et eksempel på et "eksempel":
+Her et eksempel på et "for-loop eksempel":
 
 ![for2](for2.png)
 
