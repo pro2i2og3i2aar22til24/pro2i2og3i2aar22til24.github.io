@@ -15,10 +15,13 @@ Efterfølgende tager vi en test og ser om vores nye plakater/plancher gør en fo
 
 Gør jeres bedste for at lave et flot produkt (i kan jo også gøre brug af jeres kom-it færdigheder), vi skal jo forhåbentlig kunne kigge på de her placher resten af året!
 Hvert emne forventes belyst med kreative og meningsfulde tegninger og eksempler. Desuden skal alle tænkelige fagtermer indgå tydeligt  
-plakaterne skal indeholde:
 
-![for](for_a.png)
 
+Her et eksempel på et "eksempel":
+
+![for2](for2.png)
+
+Plakaterne skal indeholde:
 - tydelige og meningsfulde tegninger
 - gode eksempler
 - alle fagtermer
