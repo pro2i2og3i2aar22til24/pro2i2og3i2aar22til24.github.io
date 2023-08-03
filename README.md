@@ -12,7 +12,7 @@ Mvh underviseren selv Anders J.R. Petersen
 
 [forløb 1 - *repetition og udarbejdelse af plakater og plancher*](forlob1_repetition/forlob1_rep.md)
 
-[forløb 2 - *test 1*]()
+[test 1]()
 
 [forløb 3 - *dry refaktorering*]()
 
