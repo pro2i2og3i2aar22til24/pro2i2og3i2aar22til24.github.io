@@ -17,7 +17,7 @@ Gør jeres bedste for at lave et flot produkt (i kan jo også gøre brug af jere
 Hvert emne forventes belyst med kreative og meningsfulde tegninger og eksempler. Desuden skal alle tænkelige fagtermer indgå tydeligt  
 plakaterne skal indeholde:
 
-![for1](for1.png)
+![for](for_a.png)
 
 - tydelige og meningsfulde tegninger
 - gode eksempler
