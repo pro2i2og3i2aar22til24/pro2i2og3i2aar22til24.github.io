@@ -14,8 +14,8 @@ Mvh underviseren selv Anders J.R. Petersen
 
 [test 1]()
 
-[forløb 3 - *dry refaktorering*]()
+[forløb 3 - *Metoder i programmering 1 - refaktorering med DRY*]()
 
-[forløb 4 - *debug*]()
+[forløb 4 - *Metoder i programmering 2 - systematisk fejlfinding og debugging*]()
 
 ---
