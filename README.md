@@ -18,6 +18,6 @@ Mvh underviseren selv Anders J.R. Petersen
 
 [forløb 4 - *Metoder i programmering 2 - Systematisk fejlfinding og debugging*]()
 
-[forløb 4 - *Metoder i programmering 3 - Systematisk fejlfinding og debugging*]()
+[forløb 4 - *Metoder i programmering 3 - Konventioner og clean code*]()
 
 ---
