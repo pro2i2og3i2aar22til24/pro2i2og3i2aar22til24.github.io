@@ -14,10 +14,24 @@ Mvh underviseren selv Anders J.R. Petersen
 
 [test 1]()
 
+---
+
 [forløb 3 - *Metoder i programmering 1 - Refaktorering med DRY*]()
 
 [forløb 4 - *Metoder i programmering 2 - Systematisk fejlfinding og debugging*]()
 
-[forløb 4 - *Metoder i programmering 3 - Konventioner og clean code*]()
+[forløb 5 - *Metoder i programmering 3 - Konventioner og clean code*]()
+
+[forløb 6 - *Lav programmer fra bunden*]()
 
 ---
+
+[forløb 6 - *Intro til dom / html / css*]()
+
+
+
+udviklings værktøj : visualstudio code + live server
+
+publicerings værktøj : github pages
+
+
