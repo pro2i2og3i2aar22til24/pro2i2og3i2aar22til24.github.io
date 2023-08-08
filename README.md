@@ -11,7 +11,7 @@ Mvh underviseren selv Anders J.R. Petersen
 ---
 ## 3G: Forløb og undervisningbeskrivelse 2023/2024
 
-| Beskrivelse      | Varighed |
+| Introforløb beskrivelse      | Varighed |
 | ----------- | ----------- |
 | [forløb 1 - *repetition og udarbejdelse af plakater og plancher*](forlob1_repetition/forlob1_rep.md)      | 4 moduler       |
 | [test 1]()   | 1 modul        |
@@ -19,11 +19,11 @@ Mvh underviseren selv Anders J.R. Petersen
 
 ---
 
-[forløb 3 - *Metoder i programmering 1 - Refaktorering med DRY*]()
-
-[forløb 4 - *Metoder i programmering 2 - Systematisk fejlfinding og debugging*]()
-
-[forløb 5 - *Metoder i programmering 3 - Konventioner og clean code*]()
+| Forløb i metoder og konventioner                                                  | Varighed |
+| -----------                                                                       | ----------- |
+| [forløb 3 - *Metoder i programmering 1 - Refaktorering med DRY*]()                | 2 moduler |
+| [forløb 4 - *Metoder i programmering 2 - Systematisk fejlfinding og debugging*]() | 2 moduler |
+| [forløb 5 - *Metoder i programmering 3 - Konventioner og clean code*]()           | 2 moduler |
 
 [forløb 6 - *Lav programmer fra bunden*]()
 
