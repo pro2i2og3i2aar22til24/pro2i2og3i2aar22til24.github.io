@@ -11,10 +11,12 @@ Mvh underviseren selv Anders J.R. Petersen
 ## 3G: Forløb og undervisningbeskrivelse 2023/2024
 
 [forløb 1 - *repetition og udarbejdelse af plakater og plancher*](forlob1_repetition/forlob1_rep.md)
-4 moduler
+
+Varighed : 4 moduler
 
 [test 1]()
-1 modul
+
+Verighed : 1 modul
 
 ---
 
