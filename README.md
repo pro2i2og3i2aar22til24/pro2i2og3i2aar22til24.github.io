@@ -15,7 +15,6 @@ Mvh underviseren selv Anders J.R. Petersen
 | Repetition                                                                                                                | Varighed      |
 | [forløb 1 - *repetition og udarbejdelse af plakater og plancher              .*](forlob1_repetition/forlob1_rep.md)       | 4 moduler     |
 | [test 1]()                                                                                                                | 1 modul       |
-
 |  Metoder og konventioner                                                          | Varighed      |
 | [forløb 3 - *Metoder i programmering 1 - Refaktorering med DRY*]()                | 2 moduler     |
 | [forløb 4 - *Metoder i programmering 2 - Systematisk fejlfinding og debugging*]() | 2 moduler     |
