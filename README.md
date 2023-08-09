@@ -6,10 +6,10 @@ Mvh underviseren selv Anders J.R. Petersen
 
 ---
 
-## [2G: Forløb og undervisningsbeskrivelse 2022/2023 (link)](forlob_2i2/README_2i2.md)    
+## [2G: skoleåret 2022/2023 (link)](forlob_2i2/README_2i2.md)    
 
 ---
-## 3G: Forløb og undervisningbeskrivelse 2023/2024
+## 3G: skoleåret 2023/2024
 |                                                                                                                           |               |
 | -----------                                                                                                               | -----------   |
 | Repetition                                                                                                                |               |
