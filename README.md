@@ -13,7 +13,7 @@ Mvh underviseren selv Anders J.R. Petersen
 
 | Repetition                                                                                                | Varighed      |
 | -----------                                                                                               | -----------   |
-| [forløb 1 - *repetition og udarbejdelse af plakater og plancher*](forlob1_repetition/forlob1_rep.md)      | 4 moduler     |
+| [forløb 1 - *repetition og udarbejdelse af plakater og plancher              .*](forlob1_repetition/forlob1_rep.md)      | 4 moduler     |
 | [test 1]()                                                                                                | 1 modul       |
 
 
