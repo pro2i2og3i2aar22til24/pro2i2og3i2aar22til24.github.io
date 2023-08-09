@@ -1,4 +1,4 @@
-# 2G og 3G: Forløb og undervisningsbeskrivelse 2022/2023/2024
+# Programmering B - 3i2
 
 Her kan du finde forløb med tilhørende materiale, opgaver og alt andet vi arbejder og har arbejdet med på holdet i både 2G og 3G.
 
