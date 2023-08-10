@@ -33,7 +33,6 @@ Mvh underviseren selv Anders J.R. Petersen
 [^1]: teknikfagsuge
 [^2]: udviklings værktøj er "visualstudio code" og  plugin "live server" / publicerings værktøj, github pages
 
-
 ---
 
 
