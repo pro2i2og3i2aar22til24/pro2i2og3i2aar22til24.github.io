@@ -24,12 +24,10 @@ Mvh underviseren selv Anders J.R. Petersen
 | forløb 6 - Lav programmer fra bunden                                                                                      | 6 moduler     |
 | test2                                                                                                                     | 1 modul       |
 | intro til sop                                                                                                             |               |
-| **Webprogrammering**                                                                                                      |               |
+| **Webprogrammering[^1]**                                                                                                      |               |
 | forløb 7 - Intro til dom/html/css                                                                                         | 3 moduler     |
 
-udviklings værktøj : visualstudio code + live server
-
-publicerings værktøj : github pages
+[^1]: udviklings værktøj er "visualstudio code" og  plugin "live server" / publicerings værktøj, github pages
 
 
 ---
