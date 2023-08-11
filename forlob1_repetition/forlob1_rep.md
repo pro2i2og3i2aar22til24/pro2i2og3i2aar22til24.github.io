@@ -24,11 +24,13 @@ Plakaterne skal indeholde:
 - gode eksempler
 - fagtermer
 
+Hvis gruppen er færdig med en planche/plakat - kontakt da mig så får i en ny opgave
+
 **emner:**
 
 Det vil sandsynligvis forekomme overlap på plakaterne. Det gør ikke noget. 
 - 1: variabler og datatyper
-- 2: forskellen på referencebaserede typer og værdibaserede typer
+- 2: forskellen på referencebaserede typer og værdibaserede typer (ekstra opgave : hvad betyder "pass by value" og "pass by reference" og hvad gør Processing?)
 - 3: for og while loops
 - 4: if statements og betingelser
 - 5: arrays og arraylister
@@ -41,8 +43,8 @@ Det vil sandsynligvis forekomme overlap på plakaterne. Det gør ikke noget.
 **grupper:**
 
  - Gruppe 1 - Tobias Qvistgaard, August Eklund, Anas Al-Atrash
- - Gruppe 2 - William Fogh, Simon Toftemark, Thomas Carstensen
- - Gruppe 3 - Max Rasmussen, Peter Hæstrup, Mei Skaaning
+ - Gruppe 2 - Max Rasmussen, Peter Hæstrup, Mei Skaaning
+ - Gruppe 3 - William Fogh, Simon Toftemark, Thomas Carstensen
  - Gruppe 4 - Ruben Egelund, Oskar Schweitz, Marius Andersen
  - Gruppe 5 - Jonathan Borgholm, Marinus Christensen, Sofie Lybech
  - Gruppe 6 - Simone Boesen, Boaz Jager, Oliver Wahl
