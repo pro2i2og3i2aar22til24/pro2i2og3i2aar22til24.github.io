@@ -4,7 +4,7 @@ Dette er en udfordrende opgave, og det er muligt, at det ikke er opnåeligt at f
 
 Opgaven består i at skabe et lille puslespil, hvor man skal flytte rundt på en opdelt billede ved at skubbe firkanter. For bedre forståelse, kan videoen nedenfor ses:
 
-[Se video](https://www.youtube.com/embed/0l1NlJ-ujDc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0l1NlJ-ujDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Her er et link til billedet af solen:   
 [sol.png](sol.png)
