@@ -1,27 +1,24 @@
-# Ekstra opgave : billed-slider
+# Ekstraopgave: Billedslider
 
-Dette er en svær opgave, og det er ikke sikkert man når helt i mål, men bare man får lavet en lille del af opgaven og tænkt lidt over problemstillingen er det helt acceptabelt.   
+Dette er en udfordrende opgave, og det er muligt, at det ikke er opnåeligt at fuldføre den i sin helhed. Det er derfor helt acceptabelt at opnå en del af opgaven og tænke grundigt over problemet.
 
+Opgaven består i at skabe et lille puslespil, hvor man skal flytte rundt på en opdelt billede ved at skubbe firkanter. For bedre forståelse, kan videoen nedenfor ses:
 
-
-Opgaven er at lave et lille puzzle-spil hvor man skal kunne skubbe rundt på et billede der er delt op i firkanter. Det er måske nemmere at forstå hvis man ser videoen nedenfor:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0l1NlJ-ujDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Se video](https://www.youtube.com/embed/0l1NlJ-ujDc)
 
 Her er et link til billedet af solen:   
 [sol.png](sol.png)
 
+---
 
------
+Formålet med denne opgave er at udvikle og demonstrere flere kodefærdigheder (inden testen). Det er derfor en god idé at tænke i objektorienteret programmering.    
+Herunder er et forslag til, hvordan du kan starte på opgaven:
 
-Dette er selvfølgelig en øvelse i så mange kodefærdigheder som i kan,- derfor skal i prøve at tænke objektorienteret.   
-Her nedenfor har jeg skrevet et forslag til hvordan i starter på opgaven:
+1. Begynd med at vise billedet i dit program.
 
-- Prøv først at vise billedet i jeres program
+2. Efterfølgende, brug lidt tid på at eksperimentere med at kopiere en del af billedet over til et nyt billede. Her er et eksempel på kode:
 
-- Brug derefter lidt tid på at se om i kan kopiere en del af billedet over i et nyt billede. Her lidt eksempelkode:
-
-```
+```java
 PImage originalImage;  // Input billede
 PImage croppedImage;   // Det beskårne billede
 
@@ -42,16 +39,16 @@ void setup() {
 }
 ```
 
-- Lav nu en klasse, f.eks. kaldet "Part", der skal fungere som placeholder for de forskellige dele af billedet.
+3. Lav en klasse, f.eks. kaldet "Part," som fungerer som en pladsholder for de forskellige dele af billedet.
 
-- Afprøv klassen...
+4. Afprøv klassen...
 
-- Lav et loop der hakker dit billede op i dele og gemmer det i et array eller en ArrayList
+5. Implementer en løkke, der opdeler dit billede i Part objekter og gemmer dem i et array eller en ArrayList.
 
-- Afprøv om du kan tegne de enkelte billeddele, der ligger i listen vha. et for-loop
+6. Udforsk om du kan tegne de individuelle billeddele fra listen ved hjælp af en for-løkke.
 
-- Indbyg en mekanik i klassen så den kan tegne en hvid firkant istedet for billedet ... dette kan udgøre den tomme rubrik
+7. Implementer mekanikken i klassen, så den kan tegne en hvid firkant i stedet for det faktiske billede ... dette kan repræsentere den tomme plads.
 
-- Nu skal du mousePress funktionen - den skal bytte ud på positionen imellem den brik du trykker på og den tomme plads
+8. Tilføj nu funktionen `mousePressed()`. Denne funktion skal ombytte positionen mellem den brik, der blev klikket på, og den tomme plads.
 
-God fornøjelse
+Håber, du får fornøjelse af opgaven!
