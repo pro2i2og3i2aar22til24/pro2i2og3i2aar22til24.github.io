@@ -16,7 +16,7 @@ Mvh underviseren selv Anders J.R. Petersen
 | ------------------------------- | ---------------------------------------------------------------------------------------------------- | ------- | --------------- | ----- |
 | **Repetition**                  | [forløb 1 - *Repetition og plakater*](forlob1_repetition/forlob1_rep.md)                             | 4       | 32-33           | aug   |
 |                                 | [forløb 2 - *Ekstra opgave - billedslider*](forlob2_slider_extra/forlob2_slider_extra.md)            | 1       | 33              |       |
-|                                 | [TEST NR.1](forlob3/forlob3_test1.md)                                                                 |         | 34              |       |
+|                                 | [TEST NR.1](forlob3_test1/forlob3_test1.md)                                                          |         | 34              |       |
 | **Metoder og konventioner[^1]** | intro til sop (fælles med kom/it d.24/8)                                                             |         | 34              |       |
 |                                 | forløb 3 - Refaktorering med DRY/KISS                                                                | 3       | 34              |       |
 |                                 | forløb 4 - Fejlfinding og debugging                                                                  | 3       | 35              |       |
