@@ -18,16 +18,16 @@ Mvh underviseren selv Anders J.R. Petersen
 |                                 | [forløb 2 - *Ekstra opgave - billedslider*](forlob2_slider_extra/forlob2_slider_extra.md)            | 1       | 33              |       |
 |                                 | [TEST NR.1](forlob3_test1/forlob3_test1.md)                                                          |         | 34              |       |
 | **Metoder og konventioner[^1]** | intro til sop (fælles med kom/it d.24/8)                                                             |         | 34              |       |
-|                                 | forløb 3 - Refaktorering med DRY/KISS                                                                | 3       | 34              |       |
-|                                 | forløb 4 - Fejlfinding og debugging                                                                  | 3       | 35              |       |
-|                                 | forløb 5 - Konventioner og clean code                                                                | 3       | 36              | sep   |
-|                                 | forløb 6 - Lav programmer fra bunden                                                                 | 9       | 37-40[^2]       | okt   |
+|                                 | [forløb 4 - Refaktorering med DRY/KISS](forlob4_metode_dry/forlob4.md)                               | 3       | 34              |       |
+|                                 | forløb 5 - Fejlfinding og debugging                                                                  | 3       | 35              |       |
+|                                 | forløb 6 - Konventioner og clean code                                                                | 3       | 36              | sep   |
+|                                 | forløb 7 - Lav programmer fra bunden                                                                 | 9       | 37-40[^2]       | okt   |
 |                                 | TEST NR.2                                                                                            |         | 41              |       |
-| **Webprogrammering[^3]**        | forløb 7 - dom/html                                                                                  | 3       | 43              |       |
-|                                 | forløb 8 - css                                                                                       | 3       | 44              | nov   |
-|                                 | forløb 9 - js                                                                                        | 3       | 45              |       |
-|                                 | forløb 10 - api                                                                                      | 3       | 46              |       |
-|                                 | forløb 11 - Lav website med api                                                                      | 6       | 47-48           | dec   |
+| **Webprogrammering[^3]**        | forløb 9 - dom/html                                                                                  | 3       | 43              |       |
+|                                 | forløb 10 - css                                                                                       | 3       | 44              | nov   |
+|                                 | forløb 11 - js                                                                                        | 3       | 45              |       |
+|                                 | forløb 12 - api                                                                                      | 3       | 46              |       |
+|                                 | forløb 13 - Lav website med api                                                                      | 6       | 47-48           | dec   |
 |                                 | TEST NR.3                                                                                            |         | 48              |       |
 | **SOP**                         | 10 skrivedage til sop                                                                                |         | 49-50           |       |
 | **Designmønstre i oop**         |                                                                                                      | 15      | 2-5             | feb   |
