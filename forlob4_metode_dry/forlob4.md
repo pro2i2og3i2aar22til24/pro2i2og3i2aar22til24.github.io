@@ -27,9 +27,9 @@ Denne opgave sigter mod at udvikle dine færdigheder i at genkende gentagelser i
 
 ## Ekstra opgaver
 
-- Forsøg at implementere en mekanisme for at begrænse antallet af skud for spilleren.
-- Forsøg at implementere en "ammunitionskasse" mekanisme, som lejlighedsvis giver spilleren mulighed for at få ekstra skud.
 - Når du analyserer programmets ydeevne, vil du bemærke, at udvikleren har organiseret spilobjekter i forskellige lister, såsom "fjendeskud", "fjender", "spillerskud" og selvfølgelig "spilleren". Dette organisatoriske valg påvirker naturligvis ydeevnen, men på hvilken måde?
-Ved vurdering af ydeevnen fokuseres der typisk på løkker, især indlejrede løkker, da beregninger inden for disse løkker hurtigt kan medføre betydelig tidsforbrug. Forsøg at beregne/estimere, hvor mange gange der foretages kontrol af spilobjekter for "død" tilstand som følge af skud eller kollisioner med andre objekter. (I din beregning skal du anvende seperate variable for størrelsen på de forskellige lister)
+Ved vurdering af ydeevnen fokuseres der typisk på løkker, især indlejrede løkker, da beregninger inden for disse løkker hurtigt kan medføre betydelig tidsforbrug. Forsøg at beregne/estimere, hvor mange gange der foretages kontrol af om objekter skal sættes i "død" tilstand,- altså som følge af skud eller kollisioner med andre objekter! (I din beregning skal du anvende seperate variable for størrelsen på de forskellige lister)
 - Alternativt kunne en mere kompakt kodestruktur benyttes, hvor alle spilobjekter gemmes i én omfattende liste. Forsøg at beregne/estimere, hvor mange gange spilobjekter kontrolleres for "død" tilstand ved dette alternative design, hvor objekterne ramt af skud eller kollisioner med hinanden også tages i betragtning.
 - Vis med et taleksempel, hvilken metode der er "hurtigst"...
+- Forsøg at implementere en mekanisme for at begrænse antallet af skud for spilleren.
+- Forsøg at implementere en "ammunitionskasse" mekanisme, som lejlighedsvis giver spilleren mulighed for at få ekstra skud.
