@@ -16,6 +16,10 @@ Læg mærke til:
 - IKKE ET PRODUKT, men en teoretisk opgave der også indeholder bearbejdelse af noget empiri
 - HØJESTE NIVEAU og NYT STOF, skal indgå i opgaven
 
+------------------------------------------------------------------
+
+## [SOP EKSEMPLER FRA TIDLIGERE ÅR](sop_eksempler.md)
+
 --------------------------------------------------------------
 
 ## sop og programmering
@@ -38,7 +42,3 @@ I selve opgaven skal man illustrere sine overvejelser med forklarende tekst, men
 
 ### SOP i ddu og prog: (altid nogen, der insisterer på at vælge det)
 - dårlig ide - fagene minder for meget om hinanden
-
-------------------------------------------------------------------
-
-## [SOP EKSEMPLER](sop_eksempler.md)
