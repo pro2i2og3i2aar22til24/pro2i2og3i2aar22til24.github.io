@@ -19,7 +19,7 @@ Mvh underviseren selv Anders J.R. Petersen
 |                                 | [TEST NR.1](forlob3_test1/forlob3_test1.md)                                                          |         | 34              |       |
 | **Metoder og konventioner[^1]** | intro til sop (fælles med kom/it d.24/8)                                                             |         | 34              |       |
 |                                 | [forløb 4 - Refaktorering med DRY/KISS](forlob4_metode_dry/forlob4.md)                               | 3       | 34-35           |       |
-|                                 | [Om SOP og programmering](forlob5_sop/forlob5_sop.md)                                                | 3       | 35              |       |
+|                                 | [Om SOP og programmering](forlob5_sop/forlob5_sop.md)                                                | 1/2     | 35              |       |
 |                                 | forløb 5 - Fejlfinding og debugging                                                                  | 3       | 35              |       |
 |                                 | forløb 6 - Konventioner og clean code                                                                | 3       | 36              | sep   |
 |                                 | forløb 7 - Lav programmer fra bunden                                                                 | 9       | 37-40[^2]       | okt   |
