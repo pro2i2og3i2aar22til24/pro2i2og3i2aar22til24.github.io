@@ -11,6 +11,8 @@ Dette fører os til princippet ***D.R.Y: Don't Repeat Yourself.***
 
 ## Opgaven 
 
+![Skydespil](skydespil.png)
+
 Et  tidligere eksamensprojekt skal rettes, så det ikke indeholder uhensigtsmæssige gentagelser.
 
 Eksamensprojektet skal rettes/refaktoreres således det ikke indeholder disse kodegentagelser. Men det er vigtigt ikke at skrive et helt nyt program fra bunden, der gør det samme med bedre kode! Dette er nemlig en øvelse i at forbedre kode ved at genkende "gentagelser" og udbedrer dem vha. nedarvning, poymorfi og introduktion af hjælper-funktioner.
