@@ -20,3 +20,4 @@ Men hvordan løser man problemet med kodegentagelse? Vi har faktisk to meget sma
 
 [Opgave 1 - refaktering af skydespil](opgave_skydespil.md)
 
+[Opgave 2 - refaktorering af brandmandsspillet](opgave_brandmandsspil.md)
