@@ -1,5 +1,9 @@
+```java
 // Dette er et forsøg på at løse opgave 4
 // https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+//
+// 1.) Vi skal returnere hvor mange forkellige tal, dvs. "unikke", der er i "nums" 
+// 2.) Vi skal bytte de første elementer i "nums" ud med de "unikke"
 //
 // Men koden virker ikke! 
 // Lad os prøve at finde ud af hvorfor vha. debuggeren - kopier koden over i processing
@@ -27,3 +31,4 @@ void setup(){
         
         return result;
     }
+    ```
