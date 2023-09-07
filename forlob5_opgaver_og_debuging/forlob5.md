@@ -1,7 +1,7 @@
 # Opgaver og debugging
 
 Jeg har taget et par opgaver fra den competetitive programmeringsplatform : [https://leetcode.com/problemset/all/](https://leetcode.com/problemset/all/)   
-Ideen er at skal kode løsningerne i processing og først uploade dem til leetcode.com når tænker i er færdige med at løse en opgave.
+Prøv at kode løsningerne i processing og først uploade dem til leetcode.com når tænker i er færdige med at løse en opgave.
 
 Samtidigt vil jeg prøve at introducere debuggeren i processing. 
 Prøv at anvende den hvis i har problemer med at fejlfinde i jeres kode.   
@@ -24,3 +24,5 @@ Hints:
 En simpel, ikke smartest er at gemme de elementer der der er unikke i en unik-list og konstant se om det næste element forekommer i unik-listen... 
 
 ## Opgave 5 : [https://leetcode.com/problems/merge-two-sorted-lists/](https://leetcode.com/problems/merge-two-sorted-lists/)
+Hint:
+Kompliceret opgave med en Linked-list .. Linked-list kigger vi nok først rigtig på engang efter jul
