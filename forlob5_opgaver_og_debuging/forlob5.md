@@ -7,7 +7,7 @@ Samtidigt vil jeg prøve at introducere debuggeren i processing.
 Prøv at anvende den hvis i har problemer med at fejlfinde i jeres kode.   
 
 ### Eksempel på debugging mode:
-[kopier dette løsningsforsøg over i jeres processing - så finder vi fejlen sammen](opgave_eksempel_debug.pde)
+[kopier dette løsningsforsøg over i jeres processing - så finder vi fejlen sammen](opgave_eksempel_debug.md)
 
 --------------------------
 
