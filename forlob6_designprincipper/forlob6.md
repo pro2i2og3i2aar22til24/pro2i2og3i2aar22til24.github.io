@@ -8,7 +8,7 @@ Dette har igennem tiden ført til mange forksellige sprog, paragdigmer, konventi
 
 Men inden for bestemt udviklingsmetoder er der enkelte regler og konventioner der er bred enighed om fungerer virkelig godt.
 
-## Objektorienterede designprincipper - 2 af de vigtigste
+### Objektorienterede designprincipper - 2 af de vigtigste
 Inden for objektorienteret programmering er to af de vigtigste design-principper, de stræber begge imod et smart fleksibelt design:
 
 - Favor composition over inheritance
@@ -16,7 +16,7 @@ Inden for objektorienteret programmering er to af de vigtigste design-principper
 
 [hvis det har interesse er her en oversigt over 10 meget vigtige oop-designprincipper](https://hackernoon.com/10-oop-design-principles-every-programmer-should-know-f187436caf65) 
 
-## Clean code konventioner - 2 af de vigtigste
+### Clean code konventioner - 2 af de vigtigste
 Læsbar kode er som sagt ligeledes utrolig vigtigt. Her af nogle af de vigtigste clean-code regler:
 
 - Give meaningful names to variables, functions, classes, and other entities in the code.
@@ -26,7 +26,7 @@ Læsbar kode er som sagt ligeledes utrolig vigtigt. Her af nogle af de vigtigste
 
 --------------------------------------------------------
 
-## Vælg en af følgende to opgaver:
+### Vælg en af følgende to opgaver:
 
 1. Anvend dine ovenstående konventioner og principper til at forbedre en af de to eksamensprojekter fra sidst
 2. Lav et mini-projekt/program, hvor du anvender ovenstående konventioner og principper til at simulere et økosystem med forskellige væsner lavet som "autonome agenter" eller med "cellular automata".  
