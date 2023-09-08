@@ -14,8 +14,8 @@ Inden for visse udviklingsmetoder er der dog bred enighed om visse regler og kon
 
 Inden for objektorienteret programmering er der to centrale designprincipper, der stræber efter et smidigt og fleksibelt design:
 
-- program to an interface, not implementations: Skriv kode, der afhænger af abstraktioner (interfaces) snarere end specifikke implementeringer.
-- favor composition over inheritance: Foretræk sammensætning af klasser over at bruge arv.
+- ***program to an interface, not implementations: Skriv kode, der afhænger af abstraktioner (interfaces) snarere end specifikke implementeringer.***
+- ***favor composition over inheritance: Foretræk sammensætning af klasser over at bruge arv.***
 
 [link: blog med et eksempel](https://dmitripavlutin.com/interface-vs-implementation/)     
 [link: 10 oop-designprincipper](https://hackernoon.com/10-oop-design-principles-every-programmer-should-know-f187436caf65) 
@@ -27,8 +27,8 @@ Inden for objektorienteret programmering er der to centrale designprincipper, de
 
 Læsbar kode er afgørende, og her er nogle af de vigtigste clean-code regler:
 
-giv meningsfulde navne til variabler, funktioner, klasser og andre enheder i koden.
-skab funktioner, der er små og udfører kun én opgave (og klasser, der har et enkelt "ansvar").
+- ***giv meningsfulde navne til variabler, funktioner, klasser og andre enheder i koden.***
+- ***skab funktioner, der er små og udfører kun én opgave (og klasser, der har et enkelt "ansvar").***
 
 [link: robert c. martin's bog 'clean code'](https://csiitian.blog/clean-code-by-robert-c-martin-book-summary-32690db5e75b)
 
