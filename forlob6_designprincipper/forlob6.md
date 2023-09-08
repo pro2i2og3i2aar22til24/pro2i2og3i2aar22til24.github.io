@@ -9,6 +9,9 @@ Dette har ført til forskellige sprog, paradigmer og regelsæt. Dog er der ikke 
 Inden for visse udviklingsmetoder er der dog bred enighed om visse regler og konventioner, der har vist sig at fungere godt.
 
 ### Objektorienterede designprincipper - to vigtige eksempler
+
+![](diagram-04.svg)
+
 Inden for objektorienteret programmering er der to centrale designprincipper, der stræber efter et smidigt og fleksibelt design:
 
 - program to an interface, not implementations: Skriv kode, der afhænger af abstraktioner (interfaces) snarere end specifikke implementeringer.
@@ -16,6 +19,7 @@ Inden for objektorienteret programmering er der to centrale designprincipper, de
 
 [link: blog med et eksempel](https://dmitripavlutin.com/interface-vs-implementation/)     
 [link: 10 oop-designprincipper](https://hackernoon.com/10-oop-design-principles-every-programmer-should-know-f187436caf65) 
+
 
 ### Clean Code Konventioner - to Vigtige Eksempler
 Læsbar kode er afgørende, og her er nogle af de vigtigste clean-code regler:
