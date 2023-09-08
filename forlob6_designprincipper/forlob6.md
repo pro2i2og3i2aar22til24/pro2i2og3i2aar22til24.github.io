@@ -22,6 +22,9 @@ Inden for objektorienteret programmering er der to centrale designprincipper, de
 
 
 ### Clean Code Konventioner - to Vigtige Eksempler
+
+![](cleancode_graph.png)
+
 Læsbar kode er afgørende, og her er nogle af de vigtigste clean-code regler:
 
 giv meningsfulde navne til variabler, funktioner, klasser og andre enheder i koden.
