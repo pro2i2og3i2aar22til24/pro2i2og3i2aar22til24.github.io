@@ -11,8 +11,10 @@ Men inden for bestemt udviklingsmetoder er der enkelte regler og konventioner de
 ### Objektorienterede designprincipper - 2 af de vigtigste
 Inden for objektorienteret programmering er to af de vigtigste design-principper, de stræber begge imod et smart fleksibelt design:
 
-- Favor composition over inheritance
 - Program to an interface, not implementations
+- Favor composition over inheritance 
+
+[https://dmitripavlutin.com/interface-vs-implementation/](https://dmitripavlutin.com/interface-vs-implementation/)
 
 [hvis det har interesse er her en oversigt over 10 meget vigtige oop-designprincipper](https://hackernoon.com/10-oop-design-principles-every-programmer-should-know-f187436caf65) 
 
@@ -26,10 +28,8 @@ Læsbar kode er som sagt ligeledes utrolig vigtigt. Her af nogle af de vigtigste
 
 --------------------------------------------------------
 
-### Vælg en af følgende to opgaver:
+### Lav følgende opgave:
 
-1. Anvend dine ovenstående konventioner og principper til at forbedre en af de to eksamensprojekter fra sidst
-2. Lav et mini-projekt/program, hvor du anvender ovenstående konventioner og principper til at simulere et økosystem med forskellige væsner lavet som "autonome agenter" eller med "cellular automata".  
+- Anvend dine ovenstående konventioner og principper til at forbedre en af de to eksamensprojekter fra sidst
 
-Materiale om autonome agenter : [https://natureofcode.com/book/chapter-6-autonomous-agents/](https://natureofcode.com/book/chapter-6-autonomous-agents/)      
-Materiale om cellular automata : [https://natureofcode.com/book/chapter-7-cellular-automata/](https://natureofcode.com/book/chapter-7-cellular-automata/)
+- Hvis du allerede er færdig med dette kan du alternativt lave et mini-projekt/program, hvor du anvender ovenstående konventioner og principper til at simulere et økosystem med forskellige væsner lavet som "autonome agenter" eller med "cellular automata".  
