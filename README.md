@@ -21,7 +21,7 @@ Mvh underviseren selv Anders J.R. Petersen
 |                                 | [Om SOP og programmering](forlob5_sop/forlob5_sop.md)                                                | 1/2     | 35              |       |
 |                                 | [forløb 5 - Opgaver og debug](forlob5_opgaver_og_debuging/forlob5.md)                                | 1       | 36              | sep   |
 |                                 | [forløb 6 - Principper og konventioner](forlob6_designprincipper/forlob6.md)                         | 1       | 36              |       |
-|                                 | forløb 7 - Lav programmer fra bunden                                                                 | 9       | 37-40[^2]       | okt   |
+|                                 | [forløb 7 - Lav programmer fra bunden](forlob7_programmer_fra_bunden/forlob7.md)                     | 9       | 37-40[^2]       | okt   |
 |                                 | TEST NR.2                                                                                            |         | 41              |       |
 | **Webprogrammering[^3]**        | forløb 9 - dom/html                                                                                  | 3       | 43              |       |
 |                                 | forløb 10 - css                                                                                      | 3       | 44              | nov   |
