@@ -12,7 +12,7 @@
 4. ***Aflevering:*** inden fredag d.13/10 kl.23:00 (lige før efterårsferien)
 
 ### Vælg imellem en af følgende opgaver:
-- En simpel og intuitiv brugergrænseflade, der kan oversætte tekst imellem "braille", "morse alfabet" og "almindelige bogstaver".
+- En simpel og intuitiv brugergrænseflade, der kan oversætte tekst imellem "morse alfabet" og "almindelige bogstaver" (eventuelt også ""braille")
 - En simpel og intuitiv brugergrænseflade, der kan beregne Lix-tallet for en given tekst.
 - Et billedpuslespil med en enkel og intuitiv brugergrænseflade.
 - Hvis I har en anden idé, I gerne vil arbejde med, så kontakt mig for godkendelse og yderligere diskussion.
