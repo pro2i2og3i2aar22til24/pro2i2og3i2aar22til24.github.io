@@ -17,9 +17,11 @@ Inden for objektorienteret programmering er der to centrale designprincipper, de
 - ***program to an interface, not implementations: Skriv kode, der afhænger af abstraktioner (interfaces) snarere end specifikke implementeringer.***
 - ***favor composition over inheritance: Foretræk sammensætning af klasser over at bruge arv.***
 
+
+[eksempel : her er et eksempel der anvender begge ovenstående design-principper](eksempel_oop_design.md)
+
 [link: blog med et eksempel](https://dmitripavlutin.com/interface-vs-implementation/)     
 [link: 10 oop-designprincipper](https://hackernoon.com/10-oop-design-principles-every-programmer-should-know-f187436caf65) 
-
 
 ### Clean Code Konventioner - to Vigtige Eksempler
 
