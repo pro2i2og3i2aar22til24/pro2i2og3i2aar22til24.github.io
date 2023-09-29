@@ -1,6 +1,6 @@
 # Opgaver og debugging nr.2
 Vi skal forsøge at lave forskellige opgaver fra: https://www.hackerearth.com/
-Prøv eventuelt at kode løsningerne i processing og først uploade dem til leetcode.com når tænker i er færdige med at løse en opgave.
+Prøv eventuelt at kode løsningerne i processing og uploade dem når i tænker i er færdige med at løse en opgave.
 Brug også debuggeren ligesom i "opgaver og debugging" fra sidst, hvis det er nødvendigt.
 
 ## Inputet og output
