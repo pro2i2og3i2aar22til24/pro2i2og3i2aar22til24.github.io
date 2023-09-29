@@ -8,8 +8,10 @@ Alle opgaver kræver at i håndterer input som er en såkaldt "test case" og "ou
 Den nemmeste måde at håndtere forskellige typer input og outputtet er følgende:
 
 ```java
-//Denne linje er vigtig - for ellers kan man ikke anvende Scanner-klassen
+
 import java.util.*;
+//Denne linje er vigtig - ellers kan man ikke anvende Scanner-klassen
+
 
 class TestClass {
     public static void main(String args[] ) throws Exception {
@@ -44,7 +46,8 @@ class TestClass {
 
 ## Opgaver i "Basic Programming"
 
-Skriv om løsningerne i jeres log-bog:
+Skriv evt. om løsningerne i jeres log-bog:
+
 
 [opgave 1 - palindrome](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/palindrome-check-2/)
 
@@ -56,3 +59,5 @@ Skriv om løsningerne i jeres log-bog:
 
 
 [opgave 4 - cartag](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/cartag-948c2b02/)
+
+[opgave 5 - singer](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/favourite-singer-a18e086a/)
