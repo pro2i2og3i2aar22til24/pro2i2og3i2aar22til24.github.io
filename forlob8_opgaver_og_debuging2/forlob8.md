@@ -27,7 +27,7 @@ class TestClass {
 
         //Eller skriv denne linje hvis du vil indlæse
         //en hel linje fra inputtet ind som en String
-        Sring linjeAfTekst = in.nextLine();
+        String linjeAfTekst = in.nextLine();
 
         //De enkelte tegn kan nu trækkes ud vha. charAt();
         //her hentes første tegn 
