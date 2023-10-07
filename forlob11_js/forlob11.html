@@ -6,6 +6,7 @@
     <title>Gyroskop og Orientering Målinger</title>
 </head>
 <body>
+
     <h1>Gyroskop og Orientering Målinger</h1>
     <div id="gyro-data">
         <p id="alpha-value">Alpha: </p>
@@ -33,5 +34,26 @@
             document.getElementById('gyro-data').textContent = 'Gyroskop og orienteringsmålinger understøttes ikke på denne enhed.';
         }
     </script>
+
+    <P>-----------------------------------------------------------------------------------------------------------------------------------------</P>
+
+    <h4>NOTER TIL OVENSTÅENDE</h4>
+
+    <ol>
+        <li>Ovenstående simple måling af enhedens orientering er kun mulig med https . 
+            Dvs. enten skal man installere sitet på f.eks. "github-pages" eller også skal man installere cerifikater til at få "live server" med https!!!!</li>
+        <li>For at installere "https" på "live server" kan man anvende forskellige værktøjer til at oprette cerifikater f.eks. "openssl"</li>
+        <li>Mac - kommandolinje :
+            <ol>
+                <li>Installer "homebrew" : <b>/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"</b></li>
+                <li>Installer "openssl" via homebrew :<b> brew install openssl@1.1</b></li>
+                <li>Generer certifikat og nøgle : <b>openssl req -x509 -newkey rsa:4096 -keyout key.pem -out cert.pem -days 365</b></li>
+                <li>Læg filerne i projektmappen</li>
+                <li>Konfigurationsfilen skal ændres - det gøres ved at vælge din extension og vælge konfigureation - gå til https enable, og vælg stierne til cert og key fil</li>
+                <li>Nu burde man kunne åbne i https ;-) !!!</li>
+            </ol>
+        </li>
+    </ol>
+
 </body>
 </html>
