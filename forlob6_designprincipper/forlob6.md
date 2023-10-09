@@ -4,9 +4,8 @@ Når man skriver funktionel kode, er to centrale mål:
 - ***Læsbar kode:*** Koden bør være nem at forstå.
 - ***Fleksibel kode:*** Koden bør være let at ændre.
 
-Dette har ført til forskellige sprog, paradigmer og regelsæt. Dog er der ikke altid enighed blandt programmører om den bedste metode.
-
-Inden for visse udviklingsmetoder er der dog bred enighed om visse regler og konventioner, der har vist sig at fungere godt.
+Dette har ført til forskellige paradigmer og regelsæt. Dog er der ikke altid enighed blandt programmører om den bedste metode.
+Inden for visse udviklingsmetoder, såsom oop, er der dog bred enighed om visse regler og konventioner, der har vist sig at fungere godt.
 
 -------------------------------------------------------------------------------------------------------------------------------
 
