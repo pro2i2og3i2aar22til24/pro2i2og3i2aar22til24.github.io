@@ -14,18 +14,23 @@ Inden for visse udviklingsmetoder er der dog bred enighed om visse regler og kon
 
 Inden for objektorienteret programmering er der to centrale designprincipper, der stræber efter et smidigt og fleksibelt design:
 
-- ***program to an interface, not implementations: Skriv kode, der afhænger af abstraktioner (interfaces) snarere end specifikke implementeringer.***
-- ***favor composition over inheritance: Foretræk sammensætning af klasser over at bruge arv.***
+## Princip 1 : program to an interface, not implementations: 
+### Skriv kode, der afhænger af abstraktioner (interfaces) snarere end specifikke implementeringer.***
 
-[link: blog med et eksempel](https://dmitripavlutin.com/interface-vs-implementation/)     
-[link: 10 oop-designprincipper](https://hackernoon.com/10-oop-design-principles-every-programmer-should-know-f187436caf65) 
+[***Diagram over hvordan interfaces anvendes i javas Collection bibliteket***](pic_CollectionsInterfaces.png)
+
+
+## Princip 2 : favor composition over inheritance:
+### Foretræk sammensætning af klasser vha. komposition istedet for at bruge arv.***
+
+[***Skitse af forskellen imellem "composition" og "inheritance"***](pic_IvsC.png)
 
 ***Kode-eksempel på anvendelse af de to principper:***   
 [eksempel : her er et eksempel på en "knap", der anvender begge ovenstående design-principper](kode_eksempel_oop_design.md)
 
-[***Diagram over hvordan interfaces anvendes i javas Collection bibliteket***](pic_CollectionsInterfaces.png)
+[link: blog med et eksempel](https://dmitripavlutin.com/interface-vs-implementation/)     
+[link: 10 oop-designprincipper](https://hackernoon.com/10-oop-design-principles-every-programmer-should-know-f187436caf65) 
 
-[***Skitse af forskellen imellem "composition" og "inheritance"***](pic_IvsC.png)
 
 ### Clean Code Konventioner - to Vigtige Eksempler
 
