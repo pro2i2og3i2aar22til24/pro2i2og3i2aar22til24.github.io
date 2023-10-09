@@ -25,14 +25,19 @@ Inden for objektorienteret programmering er der to centrale designprincipper, de
 
 [***Skitse af forskellen imellem "composition" og "inheritance"***](pic_IvsC.png)
 
+
+-------------------------------------------------------------------------------------------------------------------------------
+
 ***Kode-eksempel på anvendelse af de to principper:***   
 [eksempel : her er et eksempel på en "knap", der anvender begge ovenstående design-principper](kode_eksempel_oop_design.md)
 
 [link: blog med et eksempel](https://dmitripavlutin.com/interface-vs-implementation/)     
 [link: 10 oop-designprincipper](https://hackernoon.com/10-oop-design-principles-every-programmer-should-know-f187436caf65) 
 
+-------------------------------------------------------------------------------------------------------------------------------
 
-### Clean Code Konventioner - to Vigtige Eksempler
+
+## Clean Code Konventioner - to Vigtige Eksempler
 
 ![](pic_cleancode_graph.png)
 
