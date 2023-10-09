@@ -50,6 +50,8 @@ Læsbar kode er afgørende. Indenfor "clean code" er der mange forksellige konve
 - ***giv meningsfulde navne til variabler, funktioner, klasser og andre enheder i koden.***
 - ***skab funktioner, der er små og udfører kun én opgave (og klasser, der har et enkelt "ansvar").***
 
+![](pic_naming.png)
+
 [link: robert c. martin's bog 'clean code'](https://csiitian.blog/clean-code-by-robert-c-martin-book-summary-32690db5e75b)
 
 
