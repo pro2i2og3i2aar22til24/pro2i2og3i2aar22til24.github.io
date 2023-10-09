@@ -8,9 +8,9 @@ Dette har ført til forskellige sprog, paradigmer og regelsæt. Dog er der ikke 
 
 Inden for visse udviklingsmetoder er der dog bred enighed om visse regler og konventioner, der har vist sig at fungere godt.
 
-## Programmeringsprincipper : oop-designprincipper - to vigtige principper
+## Programmeringsprincipper
 
-Inden for objektorienteret programmering er der to centrale designprincipper, der stræber efter et smidigt og fleksibelt design:
+Inden for objektorienteret programmering er der mange designprincipper. Vi kigger her på to centrale designprincipper der stræber efter et smidigt og fleksibelt design:
 
 ### Princip 1 : program to an interface, not implementations: 
 #### Skriv kode, der afhænger af abstraktioner (interfaces) snarere end specifikke implementeringer.
@@ -35,11 +35,11 @@ Inden for objektorienteret programmering er der to centrale designprincipper, de
 -------------------------------------------------------------------------------------------------------------------------------
 
 
-## Konventioner : clean code - to vigtige regler
+## Konventioner
 
 ![](pic_cleancode_graph.png)
 
-Læsbar kode er afgørende, og her er nogle af de vigtigste clean-code regler:
+Læsbar kode er afgørende. Indenfor "clean code" er der mange forksellige konventioner, der stræber imod mere læsbar kode. Her er to af de vigtigste:
 
 - ***giv meningsfulde navne til variabler, funktioner, klasser og andre enheder i koden.***
 - ***skab funktioner, der er små og udfører kun én opgave (og klasser, der har et enkelt "ansvar").***
