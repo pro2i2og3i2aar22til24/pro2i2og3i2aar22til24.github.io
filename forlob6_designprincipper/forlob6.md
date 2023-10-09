@@ -8,6 +8,8 @@ Dette har ført til forskellige sprog, paradigmer og regelsæt. Dog er der ikke 
 
 Inden for visse udviklingsmetoder er der dog bred enighed om visse regler og konventioner, der har vist sig at fungere godt.
 
+-------------------------------------------------------------------------------------------------------------------------------
+
 ## Programmeringsprincipper
 
 Inden for objektorienteret programmering er der mange designprincipper. Vi kigger her på to centrale designprincipper der stræber efter et smidigt og fleksibelt design:
@@ -29,7 +31,12 @@ Inden for objektorienteret programmering er der mange designprincipper. Vi kigge
 ***Kode-eksempel på anvendelse af de to principper:***   
 [eksempel : her er et eksempel på en "knap", der anvender begge ovenstående design-principper](kode_eksempel_oop_design.md)
 
+
+***Blog, med et eksempel på komposition istedet for nedarvning:***     
 [link: blog med et eksempel](https://dmitripavlutin.com/interface-vs-implementation/)     
+
+
+***Diverse forskellige designprincipper:***     
 [link: 10 oop-designprincipper](https://hackernoon.com/10-oop-design-principles-every-programmer-should-know-f187436caf65) 
 
 -------------------------------------------------------------------------------------------------------------------------------
@@ -45,6 +52,7 @@ Læsbar kode er afgørende. Indenfor "clean code" er der mange forksellige konve
 - ***skab funktioner, der er små og udfører kun én opgave (og klasser, der har et enkelt "ansvar").***
 
 [link: robert c. martin's bog 'clean code'](https://csiitian.blog/clean-code-by-robert-c-martin-book-summary-32690db5e75b)
+
 
 --------------------------------------------------------
 
