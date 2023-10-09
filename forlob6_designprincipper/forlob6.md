@@ -8,7 +8,7 @@ Dette har ført til forskellige sprog, paradigmer og regelsæt. Dog er der ikke 
 
 Inden for visse udviklingsmetoder er der dog bred enighed om visse regler og konventioner, der har vist sig at fungere godt.
 
-## Objektorienterede designprincipper - to vigtige principper
+## Programmeringsprincipper : oop-designprincipper - to vigtige principper
 
 Inden for objektorienteret programmering er der to centrale designprincipper, der stræber efter et smidigt og fleksibelt design:
 
@@ -35,7 +35,7 @@ Inden for objektorienteret programmering er der to centrale designprincipper, de
 -------------------------------------------------------------------------------------------------------------------------------
 
 
-## Clean Code Konventioner - to vigtige regler
+## Konventioner : clean code - to vigtige regler
 
 ![](pic_cleancode_graph.png)
 
