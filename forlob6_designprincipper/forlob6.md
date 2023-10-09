@@ -8,18 +8,18 @@ Dette har ført til forskellige sprog, paradigmer og regelsæt. Dog er der ikke 
 
 Inden for visse udviklingsmetoder er der dog bred enighed om visse regler og konventioner, der har vist sig at fungere godt.
 
-### Objektorienterede designprincipper - to vigtige eksempler
+## Objektorienterede designprincipper - to vigtige principper
 
 Inden for objektorienteret programmering er der to centrale designprincipper, der stræber efter et smidigt og fleksibelt design:
 
-## Princip 1 : program to an interface, not implementations: 
-### Skriv kode, der afhænger af abstraktioner (interfaces) snarere end specifikke implementeringer.***
+### Princip 1 : program to an interface, not implementations: 
+#### Skriv kode, der afhænger af abstraktioner (interfaces) snarere end specifikke implementeringer.
 
 ![***Diagram over hvordan interfaces anvendes i javas Collection bibliteket***](pic_CollectionsInterfaces.png)
 
 
-## Princip 2 : favor composition over inheritance:
-### Foretræk sammensætning af klasser vha. komposition istedet for at bruge arv.***
+### Princip 2 : favor composition over inheritance:
+#### Foretræk sammensætning af klasser vha. komposition istedet for at bruge arv.
 
 ![***Skitse af forskellen imellem "composition" og "inheritance"***](pic_IvsC.png)
 
@@ -35,7 +35,7 @@ Inden for objektorienteret programmering er der to centrale designprincipper, de
 -------------------------------------------------------------------------------------------------------------------------------
 
 
-## Clean Code Konventioner - to Vigtige Eksempler
+## Clean Code Konventioner - to vigtige regler
 
 ![](pic_cleancode_graph.png)
 
