@@ -10,20 +10,18 @@ Inden for visse udviklingsmetoder er der dog bred enighed om visse regler og kon
 
 ### Objektorienterede designprincipper - to vigtige eksempler
 
-![](pic_diagram-04.svg)
-
 Inden for objektorienteret programmering er der to centrale designprincipper, der stræber efter et smidigt og fleksibelt design:
 
 ## Princip 1 : program to an interface, not implementations: 
 ### Skriv kode, der afhænger af abstraktioner (interfaces) snarere end specifikke implementeringer.***
 
-[***Diagram over hvordan interfaces anvendes i javas Collection bibliteket***](pic_CollectionsInterfaces.png)
+![***Diagram over hvordan interfaces anvendes i javas Collection bibliteket***](pic_CollectionsInterfaces.png)
 
 
 ## Princip 2 : favor composition over inheritance:
 ### Foretræk sammensætning af klasser vha. komposition istedet for at bruge arv.***
 
-[***Skitse af forskellen imellem "composition" og "inheritance"***](pic_IvsC.png)
+![***Skitse af forskellen imellem "composition" og "inheritance"***](pic_IvsC.png)
 
 
 -------------------------------------------------------------------------------------------------------------------------------
