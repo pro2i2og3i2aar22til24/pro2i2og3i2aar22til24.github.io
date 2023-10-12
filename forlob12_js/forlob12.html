@@ -1,36 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gyroskop og Orientering Målinger</title>
+    <title>Forløb 12 - Javascript programmering </title>
 </head>
+
 <body>
 
     <h1>Forløb 12 - Javascript programmering </h1>
+    <p>Nedenstående sider er lavet vha. html og scripting sproget javascript - det skal i øgeså prøve ;-)</p>
+    <ul>
+        <li><a href="testOrientation.html">device orientation - se på telefonen</a></li>
+    </ul>
 
-    <p>Prøv at åbne denne side på jeres telefon - i kan nu se data for "device orientation".
-    Dette er programmert vha. scripting sproget javascript - det skal i øgeså prøve i dette forløb ;-)</p>
 
-    <button onclick="window.location.href = 'test_orientation.html';">Device orientation program</button>
-
-    <h4>NOTER TIL OVENSTÅENDE</h4>
-
-    <ol>
-        <li>Ovenstående simple måling af enhedens orientering er kun mulig med https . 
-            Dvs. enten skal man installere sitet på f.eks. "github-pages" eller også skal man installere cerifikater til at få "live server" med https!!!!</li>
-        <li>For at installere "https" på "live server" kan man anvende forskellige værktøjer til at oprette cerifikater f.eks. "openssl"</li>
-        <li>Mac - kommandolinje :
-            <ol>
-                <li>Installer "homebrew" : <b>/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"</b></li>
-                <li>Installer "openssl" via homebrew :<b> brew install openssl@1.1</b></li>
-                <li>Generer certifikat og nøgle : <b>openssl req -x509 -newkey rsa:4096 -keyout key.pem -out cert.pem -days 365</b></li>
-                <li>Læg filerne i projektmappen</li>
-                <li>Konfigurationsfilen skal ændres - det gøres ved at vælge din extension og vælge konfigureation - gå til https enable, og vælg stierne til cert og key fil</li>
-                <li>Nu burde man kunne åbne i https ;-) !!!</li>
-            </ol>
-        </li>
-    </ol>
+    <h4>Ekstra : kør https fra live-server og test tlf. sensorer</h4>
+    <ul>
+        <li><a href="vejldningHTTPS.html">læs vejledning</a></li>
+    </ul>
 
 </body>
+
 </html>
