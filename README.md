@@ -24,9 +24,9 @@ Mvh underviseren selv Anders J.R. Petersen
 |                                 | [forløb 7 - Lav programmer fra bunden](forlob7_programmer_fra_bunden/forlob7.md)                     | 9       | 37-40[^2]       | okt   |
 |                                 | [forløb 8 - Opgaver og debug 2](forlob8_opgaver_og_debuging2/forlob8.md)                             | ?       | 40              |       |
 |                                 | TEST NR.2                                                                                            |         | 41              |       |
-| **Webprogrammering[^3]**        | forløb 9 - dom/html                                                                                  | 3       | 43              |       |
-|                                 | forløb 10 - css                                                                                      | 3       | 44              | nov   |
-|                                 | forløb 11 - js                                                                                       | 3       | 45              |       |
+| **Webprogrammering[^3]**        | [forløb 9 - setup til webudvikling](forlob9/forlob9.html)                                            | 3       | 43              |       |
+|                                 | [forløb 10 - html](forlob10/forlob10.html)                                                           | 3       | 44              | nov   |
+|                                 | [forløb 11 - css](forlob11/forlob11.html)                                                            | 3       | 45              |       |
 |                                 | forløb 12 - api                                                                                      | 3       | 46              |       |
 |                                 | forløb 13 - Lav website med api                                                                      | 6       | 47-48           | dec   |
 |                                 | TEST NR.3                                                                                            |         | 48              |       |
