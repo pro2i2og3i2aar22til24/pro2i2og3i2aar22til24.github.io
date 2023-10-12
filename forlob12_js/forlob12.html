@@ -22,10 +22,10 @@
         <p id="alpha-value">Alpha: </p>
         <p id="beta-value">Beta: </p>
         <p id="gamma-value">Gamma: </p>
+        <button onclick='requestOrientationPermission();'>Request orientation permission</button>
     </div>
 
     <script>
-        DeviceOrientationEvent.requestPermission();
         // Tjek om enheden understøtter gyroskop og orientering API'en
         if (window.DeviceOrientationEvent) {
             // Lyt efter deviceorientation-begivenheder
@@ -44,6 +44,18 @@
             // Hvis gyroskop og orientering ikke understøttes, vis en fejlmeddelelse
             document.getElementById('gyro-data').textContent = 'Gyroskop og orienteringsmålinger understøttes ikke på denne enhed.';
         }
+
+        function requestOrientationPermission(){
+        DeviceOrientationEvent.requestPermission()
+        .then(response => {
+            if (response == 'granted') {
+                window.addEventListener('deviceorientation', (e) => {
+                    // do something with e
+                })
+            }
+        })
+        .catch(console.error)
+    }
     </script>
 
     <P>-----------------------------------------------------------------------------------------------------------------------------------------</P>
