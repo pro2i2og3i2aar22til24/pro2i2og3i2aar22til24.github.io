@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raw Accelerometer Data</title>
+</head>
+<body>
+    <h1>Raw Accelerometer Data</h1>
+    <p id="accelerometer-data">Accelerometer data (including gravity): X: 0, Y: 0, Z: 0</p>
+
+    <script>
+        // Lyt til accelerometerdata
+        window.addEventListener("devicemotion", function (event) {
+            const accelerometerData = event.accelerationIncludingGravity;
+            const accelerometerElement = document.getElementById("accelerometer-data");
+            accelerometerElement.innerText = `Accelerometer data (including gravity): X: ${accelerometerData.x}, Y: ${accelerometerData.y}, Z: ${accelerometerData.z}`;
+        });
+    </script>
+</body>
+</html>

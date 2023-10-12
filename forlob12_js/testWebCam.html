@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webcam Test</title>
+</head>
+<body>
+    <h1>Webcam Test</h1>
+    <video id="webcam" autoplay></video>
+
+    <script>
+        // Få adgang til webcam og vis video i <video> elementet
+        const videoElement = document.getElementById("webcam");
+
+        navigator.mediaDevices
+            .getUserMedia({ video: true }) // Få adgang til video
+            .then(function (stream) {
+                videoElement.srcObject = stream;
+            })
+            .catch(function (error) {
+                console.error("Fejl ved adgang til webcam:", error);
+            });
+    </script>
+</body>
+</html>

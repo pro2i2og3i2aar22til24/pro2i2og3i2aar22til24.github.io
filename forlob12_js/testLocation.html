@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Geolocation Example</title>
+</head>
+
+<body>
+
+    <p>Når du bruger geolocation API'en på en enhed uden GPS,
+        vil den normalt bruge WiFi-netværkspositionering og IP-adresseopslag 
+        til at estimere din placering. Dette er ikke lige så præcist som GPS, 
+        men det kan give en omtrentlig placering</p>
+    <ul>
+        <li><p>Breddegrad:</p><p id="latitude"></p></li>
+        <li><p>Længdegrad:</p><p id="longitude"></p></li>
+        <li><p>By:</p><p id="city"></p></li>
+    </ul>
+    
+    
+    
+
+    <script>
+        function getLocation() {
+            if ("geolocation" in navigator) {
+                // Geolocation er tilgængelig
+                navigator.geolocation.getCurrentPosition(function (position) {
+                    var latitude = position.coords.latitude;
+                    var longitude = position.coords.longitude;
+
+                    document.getElementById("latitude").textContent = latitude;
+                    document.getElementById("longitude").textContent = longitude;
+
+                    // Kald en funktion for at hente byen baseret på bredde- og længdegrad
+                    getCityName(latitude, longitude);
+                });
+            } else {
+                // Geolocation er ikke tilgængelig
+                alert("Geolocation er ikke tilgængelig i din browser.");
+            }
+        }
+
+        //her bruger jeg https://nominatim.openstreetmap.org/
+        function getCityName(latitude, longitude) {
+            var nominatimApiUrl = `https://nominatim.openstreetmap.org/reverse?lat=${latitude}&lon=${longitude}&format=json`;
+
+            fetch(nominatimApiUrl)
+                .then(response => response.json())
+                .then(data => {
+                    if (data.display_name) {
+                        var city = data.display_name;
+                        document.getElementById("city").textContent = city;
+                    } else {
+                        document.getElementById("city").textContent = "By ikke fundet";
+                    }
+                })
+                .catch(error => {
+                    document.getElementById("city").textContent = "Fejl ved placeringssøgning";
+                    console.error(error);
+                });
+        }
+
+        getLocation();
+    </script>
+</body>
+
+</html>

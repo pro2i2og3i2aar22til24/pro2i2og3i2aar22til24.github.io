@@ -13,7 +13,11 @@
         <li>For at installere "https" på "live server" kan man anvende forskellige værktøjer til at oprette cerifikater f.eks. "openssl"</li>
         <li>Mac - kommandolinje :
             <ol>
-                <li>Installer "homebrew" : <b>/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"</b></li>
+                <li>Installer "homebrew" :
+                    <ul>
+                        <li><b>/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"</b></li>
+                    </ul>
+                </li>
                 <li>Installer "openssl" via homebrew :<b> brew install openssl@1.1</b></li>
                 <li>Generer certifikat og nøgle : <b>openssl req -x509 -newkey rsa:4096 -keyout key.pem -out cert.pem -days 365</b></li>
                 <li>Læg filerne i projektmappen</li>
