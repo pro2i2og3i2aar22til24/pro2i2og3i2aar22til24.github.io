@@ -25,6 +25,7 @@
     </div>
 
     <script>
+        DeviceOrientationEvent.requestPermission();
         // Tjek om enheden understøtter gyroskop og orientering API'en
         if (window.DeviceOrientationEvent) {
             // Lyt efter deviceorientation-begivenheder
