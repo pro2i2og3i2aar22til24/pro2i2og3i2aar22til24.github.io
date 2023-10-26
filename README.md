@@ -25,7 +25,7 @@ Mvh underviseren selv Anders J.R. Petersen
 |                                 | [forløb 8 - Opgaver og debug 2](forlob8_opgaver_og_debuging2/forlob8.md)                             | ?       | 40              |       |
 |                                 | TEST NR.2                                                                                            |         | 41              |       |
 | **Webprogrammering[^3]**        | [forløb 9 - setup til webudvikling](forlob9_setup/forlob9.html)                                      | 3       | 43              |       |
-|                                 | [forløb 10 - html](forlob10_html/)                                                                   | 3       | 44              | nov   |
+|                                 | forløb 10 - html                                                                                     | 3       | 44              | nov   |
 |                                 | forløb 11 - css                                                                                      | 3       | 45              |       |
 |                                 | forløb 12 - js                                                                                       | 3       | 46              |       |
 |                                 | forløb 13 - Lav website med api                                                                      | 6       | 47-48           | dec   |
