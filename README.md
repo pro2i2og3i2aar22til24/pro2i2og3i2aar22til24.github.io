@@ -31,7 +31,8 @@ Mvh underviseren selv Anders J.R. Petersen
 |                                 | forløb 13 - Lav website med api                                                                      | 6       | 47-48           | dec   |
 |                                 | TEST NR.3                                                                                            |         | 48              |       |
 | **SOP**                         | 10 skrivedage til sop                                                                                |         | 49-50           |       |
-| **Designmønstre i oop**         |                                                                                                      | 15      | 2-5             | feb   |
+|                                 |                                                                                                      |         |                 |       |
+| **Algoritmer**                  |                                                                                                      | 15      | 2-5             | feb   |
 |                                 | TEST NR.4                                                                                            |         | 5               |       |
 | **Eksamensprojektet**           | intro og projektvalg                                                                                 | 6       | 7-8             |       |
 |                                 | projektarbejde                                                                                       | 20      | 9-15            | mar   |
