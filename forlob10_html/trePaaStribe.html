@@ -1,0 +1,51 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        td{
+            border: 1px solid black;
+            height: 100px;
+            width: 100px;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <td id="a">s</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+    <script>
+        let xSturn= false; 
+        const cells = document.getElementsByTagName("td");
+        for(let i=0; i < cells.length ; i++){           
+            cells[i].id = "id"+i;
+            cells[i].addEventListener("click", function(){ handleIt(cells[i])});
+        }
+
+        function handleIt(event){
+            xSturn = !xSturn;
+            if(xSturn)
+                event.innerHTML = "X";
+            else
+                event.innerHTML = "O";
+            console.log("hej"+ event.target);
+        }
+
+</script>
+</body>
+</html>
