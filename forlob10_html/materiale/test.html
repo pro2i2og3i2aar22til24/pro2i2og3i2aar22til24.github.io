@@ -1,0 +1,22 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <iframe src="https://editor.p5js.org/ajrp2008/full/OARl1_7st"></iframe> 
+    <script>
+                       //document.getElementsByClassName("nav preview-nav")[0].remove(); 
+    
+
+            let myPromise = new Promise(function(res) {
+                setTimeout(function(){ res(); }, 10000);
+            });
+
+            myPromise.then(function(value) {
+                console.log(document.getElementsByTagName("iframe")[0].getElementsByClassName("nav preview-nav")[0]);
+            });
+    </script>    
+</body>
+</html>
