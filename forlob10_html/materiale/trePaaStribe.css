@@ -2,9 +2,10 @@ body{
     background-color:darkslategrey;
     color: aliceblue;
     vertical-align: middle;
-    al
 }
-
+button{
+    margin: 10px;
+}
 table, td{
     border: 1px solid white;
     text-align: center;

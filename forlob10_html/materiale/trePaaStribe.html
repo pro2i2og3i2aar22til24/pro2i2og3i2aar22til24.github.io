@@ -7,10 +7,22 @@
 </head>
 
 <body>
+
+    <h2>Tre paa stribe opgaven, 2. del</h2>
+    <ol>
+        <li>Lav et bedre layout med lige store felter og centrering af tekst</li>
+        <li>Lav to spillernavne indtastningsfelter (der gemmer spillernes navne)</li>
+        <li>Lav funktion der viser/afgør, hvem der vinder</li>
+        <li>Lav scoreboard, der viser viser hvor mange gange hver spiller har vundet</li>
+        <li>Lav knap der rydder spillet for O'er og X'er</li>
+        <li>Lav knap til reset af score </li>
+        <li>Frivilligt: lav en ai-modstander</li>
+    </ol>
+    
+    <h3>Løsning</h3>
     <table>
-        <p id="Spiller 1">Spiller 1: Skriv dit navn her</p>
-        <p id="Spiller 2">Spiller 2: skriv dit navn her</p>
-        <p id="vinder">hvem vinder?</p>
+        <p id="Spiller X">Spiller X: Skriv dit navn her</p>
+        <p id="Spiller O">Spiller O: skriv dit navn her</p>
         <tr>
             <td></td>
             <td></td>
@@ -27,6 +39,10 @@
             <td></td>
         </tr>
     </table>
+    <button id="resetGame" onclick="resetGame()">Ryd spillet</button>
+    <button id="resetScore" onclick="resetScore()">Reset Score</button>
+    <p id="score"></p>
+    <p id="vinder">hvem vinder?</p>
     
     <script src="treePaaStribe.js">
 

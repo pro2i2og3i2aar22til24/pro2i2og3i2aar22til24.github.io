@@ -1,18 +1,26 @@
-document.getElementById("Spiller 1").addEventListener("click",insertName);
-document.getElementById("Spiller 2").addEventListener("click",insertName);
+document.getElementById("Spiller X").addEventListener("click",insertName);
+document.getElementById("Spiller O").addEventListener("click",insertName);
 
 let xSturn= false; 
+let scoreX = 0;
+let scoreY = 0;
+
 const cells = document.getElementsByTagName("td");
 for(let i=0; i < cells.length ; i++){           
     cells[i].id = "id"+i;
     cells[i].addEventListener("click", function(){ handleIt(cells[i])});
 }
 
-
 // INSERT NAME FUNCTION
 function insertName(event){
-    event.target.innerHTML = "Spiller :" + " <input id = 'input"+ event.target.id +"'></input>";
-    document.getElementById("input"+event.target.id).addEventListener("keypress",handleEnter);
+    let inp = document.createElement("input");
+    inp.id = "input"+ event.target.id;
+    inp.addEventListener("keypress",handleEnter);
+    event.target.innerHTML = "";
+    event.target.appendChild(inp);
+
+    //event.target.innerHTML = "Spiller :" + " <input id = 'input"+ event.target.id +"'></input>";
+    //document.getElementById("input"+event.target.id).addEventListener("keypress",handleEnter);
 }
 
 // ENTER NAME DONE
@@ -44,8 +52,32 @@ function hvemVinder(){
 
 
     if(r1 || r2 ){
-         document.getElementById("vinder").innerHTML = xSturn ? "X vinder" : "O vinder";
+        if(xSturn){
+            document.getElementById("vinder").innerHTML = "X vinder";
+            scoreX++;
+            document.getElementById("score").innerHTML = "X="+scoreX + " O="+scoreY;
+        }else{
+            document.getElementById("vinder").innerHTML = "O vinder";
+            scoreY++;
+            document.getElementById("score").innerHTML = "X="+scoreX + " O="+scoreY;
+        }
     }else{
         document.getElementById("vinder").innerHTML = "hvem vinder?";
     }
+}
+
+//RESET GAME
+function resetGame(){
+    let cells = document.getElementsByTagName("td");
+    for(let i=0 ; i< cells.length ; i++){
+        cells[i].innerHTML = "";
+    }
+    document.getElementById("vinder").innerHTML ="hvem vinder?"
+}
+
+function resetScore(){
+    scoreX=0;
+    scoreY=0;
+    document.getElementById("score").innerHTML = "";
+    document.getElementById("vinder").innerHTML ="hvem vinder?"
 }
