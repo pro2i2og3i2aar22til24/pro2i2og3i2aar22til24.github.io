@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    body{
+        height: 2000px;
+    }
+    #AndersAnd{
+        position:absolute;
+        top: 3%;
+        right:5%;
+        opacity: 0.5;
+    }
+    #AndersAnd:hover {
+        opacity: 1.0;
+    }
+    #JoakimAnd{
+        position:relative;
+        top:50px;
+        left:200px;
+    }
+    #overskrift{
+        border: 3px solid rgb(49, 45, 3);
+        padding: 10px;
+    }
+    .minParagraf{
+        font-size: 2vw;
+        border: 3px solid rgb(48, 47, 44);
+        padding: 10px;
+    }
+</style>
+</head>
+<body>
+    <h2 id="overskrift">Positioner: Anders And har absolut position - 3 % fra toppen og 5 % fra højre side </h2>
+    <p class="minParagraf">Joakim von And har relativ position - forskudt 50 pixel ned og 200 pixel til højre</p>
+    <img src="donaldDuck.jpg" width="200" height="200" id="AndersAnd"></img>
+    <img src="JoakimAnd.jpg" id="JoakimAnd"></img>
+    <img src="Mickey.jpg" style="position: fixed; top: 35%; right:40%;" id=""></img>
+    <p style="position: fixed;">Mickey har fixed position (ligesom denne paragraf)</p>
+
+<!-- Først element får id "overskrift", og næste element får class "minParagraf"
+Dette kaldes style-scriptet via #overskrift og .minParagraf
+Og så får de tildelt værdier!
+-->
+</body>
+</html>

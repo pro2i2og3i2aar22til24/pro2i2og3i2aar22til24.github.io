@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        body{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color:rgb(27, 15, 1);
+    }
+        .item1 {grid-area: header;}
+        .item7 {grid-area: extra;}
+
+        .minContainer {
+            background-color: rgb(42, 47, 23);
+            display: grid;
+            grid-template-areas:
+            /*header-elementet fylder to */
+            /*extra-elementet fylder en og er rykket op */
+            /* prikkerne repræsenterer de unavngivne elementer i griddet */
+            /* bemærk at der SKAL være et mellemrum imellem prikkerne*/
+            'header header . . extra';
+            gap: 10px;
+            padding: 10px;
+        }
+
+        .minContainer>div {
+            background-color: rgba(218, 212, 15, 0.8);
+            text-align: center;
+            padding: 10px;
+            font-size: 30px;
+            border-radius: 5px;
+        }
+        p {
+            background-color: rgb(98, 94, 13);
+            color: antiquewhite;
+            font-weight: bold;
+            font-size: x-large;
+            text-align: center;
+            padding: 10px;
+            border-radius: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- minContainer er grid-container
+    hver item er element i griddet -->
+    <div class="minContainer">
+        <p class="item1">Header</p>
+        <div class="item2">Menu</div>
+        <div class="item3">Main</div>
+        <div class="item4">Right</div>
+        <div class="item5">Footer</div>
+        <div class="item6">Foot</div>
+        <div class="item7">Extra</div>
+    </div>
+</body>
+</html>

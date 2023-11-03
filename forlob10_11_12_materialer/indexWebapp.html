@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.7.0/p5.min.js" integrity="sha512-bcfltY+lNLlNxz38yBBm/HLaUB1gTV6I0e+fahbF9pS6roIdzUytozWdnFV8ZnM6cSAG5EbmO0ag0a/fLZSG4Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Testside</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <style>
+         body {
+            margin: 0;
+            padding: 0;
+            background-color: lightgray;
+            }
+            main{
+                width: 100%;
+                height: 100%;
+            }
+        #beholder{
+        }
+        /* sætter css-regler for h1 inde i div-sektion med id'et bevægelse */
+        #beholder h1{
+            text-align: center;
+            background-color: rgb(212, 104, 131);
+            padding: 10px;
+            margin: 0;
+            border-bottom: 7px solid rgb(57, 32, 32);
+        }
+    </style>
+</head>
+<body>
+<div id="beholder">
+    <h1>Bevæg dig elev!</h1>
+</div>
+<!-- <her kan man referere sin js-fil, fx -->
+<script src='webAccel.js'></script>
+</body>
+</html>

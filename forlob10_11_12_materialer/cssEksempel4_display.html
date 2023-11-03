@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    .minParagrafCentreret{
+        margin: auto;
+        width: 60%;
+    }
+    #overskrift{
+        color: blue;
+        border: 3px solid rgb(49, 45, 3);
+        padding: 10px;
+    }
+    .minParagraf{
+        color: rgb(109, 133, 15);
+        border: 3px solid rgb(48, 47, 44);
+        padding: 10px;
+        display: inline;
+    }
+    .minUsynligeParagraf{
+        border: 3px solid rgb(48, 47, 44);
+        padding: 10px;
+        display:none;
+    }
+    .minSkjulteParagraf{
+        border: 3px solid rgb(48, 47, 44);
+        padding: 10px;
+        visibility: hidden;
+    }
+</style>
+</head>
+<body>
+    <p class="minParagrafCentreret">Denne paragraf har blokvisning - default for p-elementer - men er givet auto-margin og derfor centreret</p>
+    <p id="overskrift">Og denne har også blokvisning!</h2>
+    <p class="minParagraf">Men denne paragraf er givet inline-display</p>
+    <p class="minParagraf"> Og det er denne også - så de vises på samme linje, in-line</p>
+    <p class="minUsynligeParagraf">Denne paragraf vises ikke, pga. display none</p>
+    <p >Ovenfor er der en usynlig paragraf, men den tager ikke plads i dokumentets flow</p>
+    <p class="minSkjulteParagraf">Denne paragraf vises ikke, pga. visibility hidden</p>
+    <p >Ovenfor er der en skjult paragraf, og den tager plads i dokumentets flow</p>
+</body>
+</html>

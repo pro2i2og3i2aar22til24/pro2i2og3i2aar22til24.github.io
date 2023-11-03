@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <!-- vi kan linke til js-kode sådan -->
+    <!-- <script src='main.js'></script> -->
+    <style>
+        h1 {
+            /* for at margin skal virke, skal elementets width være defineret*/
+            width: 20%;
+            /* 100px sætter top og bund margin i pixels*/
+            /* auto sætter højre og venstre margin ligeligt fordelt */
+            margin: 100px auto;
+            /* border sætter jo kant om elementet, og padding luften til kanten  */
+            border: 10px solid yellow;
+            padding: 40px;
+            border-radius: 30px;
+            background-color: rgb(30, 30, 19);
+            color: rgb(222, 221, 216);
+            box-shadow:  0 6px 15px 0 rgba(0, 0, 0, 0.4), 0 6px 15px 0 rgba(0, 0, 0, 0.4);
+        }
+    </style>
+    </head>
+    
+    <body>
+<h1>Dette er et h1-tag: Velkommen til js!</h1>
+    
+<script> 
+    // vi lægger javascript i bunden af body
+    console.log("Værdien er nu: " + adgangMulig);
+
+    // forskellen på let & const
+    let minAlder = 10;
+    const minFødselsdag = 1009;
+    minAlder++;
+    //minFødselsdag = 2412; slet udkommenteringen, hvilken fejlmelding giver det?
+    
+    // forskellen på let, const & det gamle var
+    if(minAlder>8){
+        let adgang = true;
+        var adgangMulig = true;
+    }
+    
+    // var er ikke block-scoped - det findes globalt
+    console.log("Værdien af adgang mulig er nu: " + adgangMulig);
+    console.log(adgang);
+</script>
+</body>
+</html>
