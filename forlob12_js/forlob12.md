@@ -15,11 +15,12 @@ For at få afprøvet et website, der tilgår accelerometerdata på jeres telefon
 2. [https://stackblitz.com/](https://stackblitz.com/) : Dette er en af mange online editorer, hvor man kan lave et website baseret på direkte html, css og js.
 
 ### DeviceOrientation kode eksempel
-Her vises kun den kode der skal skives i p5js, da det er akkurat den samme kode, der skal skrives i på et almindeligt website der ikke bruger p5js.
+Her vises kun den kode der skal skives i p5js, da det er akkurat den samme kode, der skal skrives i på et almindeligt website der ikke bruger p5js:
+
+- [Accelerometer eksempel i p5js editoren](https://editor.p5js.org/ajrp2008/sketches/kG8I24Qe0)
 
 Vigtigt : I skal flytte koden over til jeres egen konto for at bruge den ;-)
-[Accelerometer eksempel i p5js editoren](https://editor.p5js.org/ajrp2008/sketches/kG8I24Qe0)
 
 ### Materiale:
-[p5js](https://p5js.org/)
-[DeviceMotionEvent](https://developer.mozilla.org/en-US/docs/Web/API/DeviceMotionEvent)
+- [p5js](https://p5js.org/)
+- [DeviceMotionEvent](https://developer.mozilla.org/en-US/docs/Web/API/DeviceMotionEvent)
