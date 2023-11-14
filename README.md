@@ -27,7 +27,7 @@ Mvh underviseren selv Anders J.R. Petersen
 | **Webprogrammering[^3]**        | [forløb 9 - setup til webudvikling](forlob9_setup/forlob9.html)                                      | 3       | 43              |       |
 |                                 | [forløb 10 - html](forlob10_html/forlob10.html)                                                      | 3       | 44              | nov   |
 |                                 | [forløb 11 - css](forlob11_css/forlob11.html)                                                        | 3       | 45              |       |
-|                                 | [forløb 12 - js](forlob12_js/forlob12.md)                                                            | 9       | 46-47-48        |       |
+|                                 | [forløb 12 - js](forlob12_js/forlob12.md)                                                            | 9       | 46-48           |       |
 |                                 | TEST NR.3                                                                                            |         | 48              |       |
 | **SOP**                         | 10 skrivedage til sop                                                                                |         | 49-50           |       |
 |                                 |                                                                                                      |         |                 |       |

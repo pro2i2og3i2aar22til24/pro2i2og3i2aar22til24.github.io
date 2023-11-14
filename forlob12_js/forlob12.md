@@ -16,4 +16,4 @@ For at få afprøvet et website, der tilgår accelerometerdata på jeres telefon
 
 ### Eksampler
 
-For at tilgå en telefons 
+[TestAcc](TestAcc/index.html)
