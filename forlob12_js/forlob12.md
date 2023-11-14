@@ -19,7 +19,9 @@ For at få afprøvet et website, der tilgår accelerometerdata på jeres telefon
 ### DeviceOrientation kode eksempel
 Her vises kun den kode der skal skives i p5js, da det er akkurat den samme kode, der skal skrives på et website der ikke bruger p5js:
 
+
 - [Accelerometer eksempel i p5js editoren](https://editor.p5js.org/ajrp2008/sketches/kG8I24Qe0)
+- [Afprøning af accelerometer eksempel](https://editor.p5js.org/ajrp2008/full/kG8I24Qe0)
 
 Vigtigt : I skal flytte koden over til jeres egen konto for at bruge den ;-)
 
