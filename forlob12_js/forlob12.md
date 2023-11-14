@@ -1,5 +1,3 @@
-<div style="background-color: blue;">
-
 # Forlob 12 - js
 ## Lav et website, der anvender din mobiltelefons accelerometer-data
 
@@ -27,4 +25,3 @@ Vigtigt : I skal flytte koden over til jeres egen konto for at bruge den ;-)
 - [p5js](https://p5js.org/)
 - [DeviceMotionEvent](https://developer.mozilla.org/en-US/docs/Web/API/DeviceMotionEvent)
 
-</div>
