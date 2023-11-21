@@ -7,3 +7,4 @@ Undervejs vil der være små oplæg om js forksellige muligheder og virkemåde.
 
 [Om class i javascript](forlob12_class.md)
 
+[Om arrays og 'moderne programmerings-metoder' i javascript](forlob12_declerative_arrays.md)

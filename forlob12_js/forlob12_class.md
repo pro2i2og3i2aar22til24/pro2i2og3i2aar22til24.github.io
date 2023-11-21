@@ -1,4 +1,4 @@
-# Forløb 12  - class
+# Forløb 12  - class i javascript
 
 Se her:
 [https://p5js.org/reference/#/p5/class](https://p5js.org/reference/#/p5/class)
