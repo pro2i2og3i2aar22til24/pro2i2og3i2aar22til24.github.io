@@ -1,0 +1,112 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sortering med indbygget-sort</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+    <h1>Sortering med indbygget sortering</h1>
+    <div id="data"></div>
+    <canvas id="myChart" width="500" height="500"></canvas>
+
+    <script>
+        //lav et array der indeholder 3000000 tilfældige tal mellem 1 og 1000
+
+        let arr0 = Array.from({ length: 3000000 }, (x,i) => i+1);
+        //jeg kan ikke se dette i konsollen??
+        
+        console.log("wtf");
+
+        //soterer arrayet med javascript sindbyggede sort og gemmer tiden det tager at sortere arrayet i variabler
+        let t6 = binarySearch(arr0.slice(0,  600000), 60);
+        let t7 = binarySearch(arr0.slice(0, 1200000), 110);
+        let t8 = binarySearch(arr0.slice(0, 1800000), 100);
+        let t9 = binarySearch(arr0.slice(0, 2400000), 900);
+        let t10= binarySearch(arr0.slice(0, 30000000), 200);
+
+        // //lav et chart med tiderne
+        // let ctx = document.getElementById("myChart").getContext("2d");
+        // let myChart = new Chart(ctx, {
+        //     type: 'line',
+        //     data: {
+        //         labels: ['Label 1', 'Label 2', 'Label 3', 'Label 4', 'Label 5'],
+        //         datasets: [
+        //             {
+        //                 label: 'indbygget sort',
+        //                 data: [t6, t7, t8, t9, t10], // Eksempel: Omvendt rækkefølge for den anden graf
+        //                 borderColor: 'rgba(255, 0, 0, 1)', // Rød farve for den anden graf
+        //                 borderWidth: 1
+        //             }]
+        //     },
+        //     options: {
+        //         responsive: false, // Gør chartet ikke responsivt
+        //         maintainAspectRatio: false, // Gør chartet ikke fastholder aspect ratio
+        //         scales: {
+        //             y: {
+        //                 beginAtZero: true
+        //             }
+        //         }
+        //     }
+        // });
+
+        //sortering med indbygget sort og udskrivning af tid
+        function binarySearch(arr_in, tal) {
+            //lav en kopi af arrayet
+            let arr = arr_in.slice();
+
+            
+
+            //find system tiden i milisekunder før sortering
+            let start = new Date().getTime();
+           // console.log("Vi er i binarysearch med arrayet ", arr);
+            //søg efter tal i arrayet med binary search
+            let found = false;
+            let min = 0;
+            let max = arr.length - 1;
+            let guess = 0;
+            while(!found) {
+                guess = Math.floor((max + min) / 2);
+            //    console.log(" guess-værdi " + arr[guess] + ", guess-plads " + guess + " min " + min + " max " + max);
+
+                if (tal == arr[guess]) {
+                    found = true;
+                }
+
+                if (max == guess || min == guess || max < min){
+                    break;
+                } 
+
+
+                if (arr[guess] > tal) {
+
+                    max = guess;
+                }
+                if (arr[guess] < tal) {
+                    min = guess;
+                }
+              //  console.log("arr[guess] > tal", " min = "+ min, "max = " + max, Math.floor((max + min) / 2));
+     
+            }
+
+            console.log("found: " + found," arr[guess]: " + arr[guess], " tal " + tal);
+
+            //find system tiden i milisekunder efter sortering
+            let end = new Date().getTime();
+
+            //udskriv tiden det tog at sortere arrayet i en p tag
+            let p = document.createElement("p");
+            p.innerHTML = "Det tog " + (end - start) + " milisekunder at søge i arrayet med længden " + arr.length + " med indbygget sort";
+            document.getElementById("data").appendChild(p);
+
+            //returner tiden det tog at sortere arrayet
+            return (end - start);
+        }
+
+    </script>
+
+</body>
+
+</html>

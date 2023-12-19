@@ -18,11 +18,11 @@
 
         //sorter arrayet med bubble sort med arrays på forskellige længder
         //og gem tiden det tager at sortere arrayet i variabler
-        let t1 = bubbleSortOgBeregnTid(arr0.slice(0,  6000000));
-        let t2 = bubbleSortOgBeregnTid(arr0.slice(0, 12000000));
-        let t3 = bubbleSortOgBeregnTid(arr0.slice(0, 18000000));
-        let t4 = bubbleSortOgBeregnTid(arr0.slice(0, 24000000));
-        let t5 = bubbleSortOgBeregnTid(arr0.slice(0, 30000000));
+        let t1 = beregnTid(arr0.slice(0,  6000000));
+        let t2 = beregnTid(arr0.slice(0, 12000000));
+        let t3 = beregnTid(arr0.slice(0, 18000000));
+        let t4 = beregnTid(arr0.slice(0, 24000000));
+        let t5 = beregnTid(arr0.slice(0, 30000000));
 
         //lav et chart med tiderne
         let ctx = document.getElementById("myChart").getContext("2d");
@@ -49,7 +49,7 @@
         });
 
         //sortering med bubble sort og udskrivning af tid
-        function bubbleSortOgBeregnTid(arr_in) {
+        function beregnTid(arr_in) {
 
             //lav en kopi af arrayet
             let arr = arr_in.slice();

@@ -13,8 +13,8 @@ Et algoritmemønster udtrykker en gentagelig, trin‐for‐trin løsning på tv�
 programmeringssprog – dvs. uafhængigt af den konkrete implementering i fx Java, C#, Python eller Javascript.
 
 #### Om kørselstiden
-En algoritme vokser på en specifik måde i forhold til forbrug af tid og rum/memory - ud fra antallet af input/muligheder/elementer.
-Man vil ofte gerne kunne definere en øvre grænse for en algoritmes forbrug – hvor slemt kan det blive, hvis man benytter denne algoritme?
+En algoritme vokser på en specifik måde i forhold til forbrug af tid og rum/memory - ud fra antallet af input/muligheder/elementer.     
+Man vil ofte gerne kunne definere en øvre grænse for en algoritmes forbrug – hvor slemt kan det blive, hvis man benytter denne algoritme?    
 Vi skal prøve at bygge et lille website, der beregner kørselstider for forskellige algoritmer: 
 
 ![](runtime.png)
@@ -31,7 +31,7 @@ Glædelig jul og god fornøjelse ;-)
 
 #### Opgave A : Koden, og vurdering af kørselstid
 
-[Anvende dette website som udgangspunkt : bubble.html](bubble.html)
+[Anvende dette website som udgangspunkt : maaling.html](maaling.html)
 
 A1. Hvilken kørselsfunktion er tættest på den du ser i målt på - bubble.html ?
 
@@ -41,7 +41,8 @@ A2. Kig på source-koden og vurder hvorfor kørselsfunktionen ser ud som den gø
 
 #### Opgave B : Sorterings-algoritme kørselstid
 
-B3. Implementer sorterings-metoden bubble-sort eller en anden sorteringsalgoritme (brug en kupi af bubble.html). Vælg meningsfulde input-arrays. Se animationen nedenfor: 
+B3. Implementer sorterings-metoden bubble-sort eller en anden sorteringsalgoritme (brug gerne en kopi af maaling.html).   
+Vælg meningsfulde input-arrays. Se animationen nedenfor: 
 
 ![](BubbleSort_Avg_case.gif)
 
@@ -54,7 +55,12 @@ B5. Kig på koden og vurder hvorfor kørselsfunktionen ser ud som den gør ?
 
 #### Opgave C : Binær søgning (i meget store arrays)
 
-C6. Forklar hvordan binær-søgning virker, imodsætning til lineær-søgning.
+Vigtigt :   
+Forudsætningen for at søge efter et bestemt tal i et array med binær eller lineær søgning er at arrayet er sorteret.   
+Men man kender ikke nogen af de værdier arrayet indeholder!
+
+C6. Forklar hvordan binær-søgning virker ved at kigge på animationen, imodsætning til lineær-søgning. 
+(søg eventuelt på nettet)
 
 ![](binary_search.gif)
 
