@@ -27,37 +27,42 @@ Hele dagens arbejde laves, gemmes og uploades til lectio-afleveringen "Algoritme
 I skal aflevere minimum opgave a,b og c.
 Glædelig jul og god fornøjelse ;-)
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Opgave A : Koden, og vurdering af kørselstid
 
 [Anvende dette website som udgangspunkt : bubble.html](bubble.html)
 
-1. Hvilken kørselsfunktion er tættest på den du ser i målt på - bubble.html ?
+A1 Hvilken kørselsfunktion er tættest på den du ser i målt på - bubble.html ?
 
-2. Kig på source-koden og vurder hvorfor kørselsfunktionen ser ud som den gør ?
+A2 Kig på source-koden og vurder hvorfor kørselsfunktionen ser ud som den gør ?
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Opgave B : Sorterings-algoritme kørselstid
 
-3. Implementer sorterings-metoden bubble-sort eller en anden sorteringsalgoritme (brug en kupi af bubble.html). Vælg meningsfulde input-arrays. Se animationen nedenfor: 
+B3 Implementer sorterings-metoden bubble-sort eller en anden sorteringsalgoritme (brug en kupi af bubble.html). Vælg meningsfulde input-arrays. Se animationen nedenfor: 
 
 ![](BubbleSort_Avg_case.gif)
 
 
-4. Hvilken kørselsfunktion ligger tættest på de data ser målt ?
+B4 Hvilken kørselsfunktion ligger tættest på de data ser målt ?
 
-5. Kig på koden og vurder hvorfor kørselsfunktionen ser ud som den gør ?
+B5 Kig på koden og vurder hvorfor kørselsfunktionen ser ud som den gør ?
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Opgave C : Binær søgning (i meget store arrays)
 
-6. Forklar hvordan binær-søgning virker, imodsætning til lineær-søgning.
+C6 Forklar hvordan binær-søgning virker, imodsætning til lineær-søgning.
 
 ![](binary_search.gif)
 
-7. Implementer input data, der består af tilfældige sorterede tal i tiltrækkelig store mængder 
+C7. Implementer input data, der består af tilfældige sorterede tal i tiltrækkelig store mængder 
+
+C8 Hvilken kørselsfunktion ligger tættest på de data ser målt ?
+
+C9 Kig på koden og vurder hvorfor kørselsfunktionen ser ud som den gør ?
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
