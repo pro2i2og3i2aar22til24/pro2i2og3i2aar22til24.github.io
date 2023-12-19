@@ -17,17 +17,52 @@ En algoritme vokser på en specifik måde i forhold til forbrug af tid og rum/me
 Man vil ofte gerne kunne definere en øvre grænse for en algoritmes forbrug – hvor slemt kan det blive, hvis man benytter denne algoritme?
 Vi skal prøve at bygge et lille website, der beregner kørselstider for forskellige algoritmer: 
 
+![](runtime.png)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Dagens opgave - målinger af kørselstid,- og tilnærmede funktioner 
 
-#### Opgave 1 : sortering af arrays med bubble-sort sortering-salgoritmen
+Hele dagens arbejde laves, gemmes og uploades til lectio-afleveringen "Algoritme-intro".
+I skal aflevere minimum opgave a,b og c.
+Glædelig jul og god fornøjelse ;-)
+
+
+#### Opgave A : Koden, og vurdering af kørselstid
+
+[Anvende dette website som udgangspunkt : bubble.html](bubble.html)
+
+1. Hvilken kørselsfunktion er tættest på den du ser i målt på - bubble.html ?
+
+2. Kig på source-koden og vurder hvorfor kørselsfunktionen ser ud som den gør ?
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### Opgave B : Sorterings-algoritme kørselstid
+
+3. Implementer sorterings-metoden bubble-sort eller en anden sorteringsalgoritme (brug en kupi af bubble.html). Vælg meningsfulde input-arrays. Se animationen nedenfor: 
 
 ![](BubbleSort_Avg_case.gif)
 
-[Du kan anvende dette website som udgangspunkt : bubble.html](bubble.html)
 
+4. Hvilken kørselsfunktion ligger tættest på de data ser målt ?
 
-#### Opgave 2: binær søgning i meget store arrays
+5. Kig på koden og vurder hvorfor kørselsfunktionen ser ud som den gør ?
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### Opgave C : Binær søgning (i meget store arrays)
+
+6. Forklar hvordan binær-søgning virker, imodsætning til lineær-søgning.
 
 ![](binary_search.gif)
 
-#### Opgave 3: udtænk og byg en hurtig måde at indsætte og finde tal i et meget stort array
+7. Implementer input data, der består af tilfældige sorterede tal i tiltrækkelig store mængder 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### Opgave D  Udtænk og byg en hurtig måde at indsætte og finde tal i et meget stort array
+
+Og implementer denne metode
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
