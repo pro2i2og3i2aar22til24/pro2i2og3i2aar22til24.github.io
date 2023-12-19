@@ -20,11 +20,14 @@ Vi skal prøve at bygge et lille website, der beregner kørselstider for forskel
 ## Dagens opgave - målinger af kørselstid,- og tilnærmede funktioner 
 
 #### Opgave 1 : sortering af arrays med bubble-sort sortering-salgoritmen
+
 ![](BubbleSort_Avg_case.gif)
+
 [Du kan anvende dette website som udgangspunkt : bubble.html](bubble.html)
 
 
 #### Opgave 2: binær søgning i meget store arrays
+
 ![](binary_search.gif)
 
 #### Opgave 3: udtænk og byg en hurtig måde at indsætte og finde tal i et meget stort array
