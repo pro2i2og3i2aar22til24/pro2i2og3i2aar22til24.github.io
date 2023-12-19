@@ -24,7 +24,7 @@ Vi skal prøve at bygge et lille website, der beregner kørselstider for forskel
 ## Dagens opgave - målinger af kørselstid,- og tilnærmede funktioner 
 
 Hele dagens arbejde laves, gemmes og uploades til lectio-afleveringen "Algoritme-intro".
-I skal aflevere minimum opgave a,b og c.
+I skal aflevere minimum opgave A,B og C.
 Glædelig jul og god fornøjelse ;-)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -33,41 +33,41 @@ Glædelig jul og god fornøjelse ;-)
 
 [Anvende dette website som udgangspunkt : bubble.html](bubble.html)
 
-A1 Hvilken kørselsfunktion er tættest på den du ser i målt på - bubble.html ?
+A1. Hvilken kørselsfunktion er tættest på den du ser i målt på - bubble.html ?
 
-A2 Kig på source-koden og vurder hvorfor kørselsfunktionen ser ud som den gør ?
+A2. Kig på source-koden og vurder hvorfor kørselsfunktionen ser ud som den gør ?
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Opgave B : Sorterings-algoritme kørselstid
 
-B3 Implementer sorterings-metoden bubble-sort eller en anden sorteringsalgoritme (brug en kupi af bubble.html). Vælg meningsfulde input-arrays. Se animationen nedenfor: 
+B3. Implementer sorterings-metoden bubble-sort eller en anden sorteringsalgoritme (brug en kupi af bubble.html). Vælg meningsfulde input-arrays. Se animationen nedenfor: 
 
 ![](BubbleSort_Avg_case.gif)
 
 
-B4 Hvilken kørselsfunktion ligger tættest på de data ser målt ?
+B4. Hvilken kørselsfunktion ligger tættest på de data i ser ?
 
-B5 Kig på koden og vurder hvorfor kørselsfunktionen ser ud som den gør ?
+B5. Kig på koden og vurder hvorfor kørselsfunktionen ser ud som den gør ?
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Opgave C : Binær søgning (i meget store arrays)
 
-C6 Forklar hvordan binær-søgning virker, imodsætning til lineær-søgning.
+C6. Forklar hvordan binær-søgning virker, imodsætning til lineær-søgning.
 
 ![](binary_search.gif)
 
 C7. Implementer input data, der består af tilfældige sorterede tal i tiltrækkelig store mængder 
 
-C8 Hvilken kørselsfunktion ligger tættest på de data ser målt ?
+C8. Hvilken kørselsfunktion ligger tættest på de data ser målt ?
 
-C9 Kig på koden og vurder hvorfor kørselsfunktionen ser ud som den gør ?
+C9. Kig på koden og vurder hvorfor kørselsfunktionen ser ud som den gør ?
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### Opgave D  Udtænk og byg en hurtig måde at indsætte og finde tal i et meget stort array
+#### Opgave D : Udtænk og byg en hurtig måde at indsætte og finde tal i et meget stort array
 
-Og implementer denne metode
+D10. Og implementer denne metode
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
