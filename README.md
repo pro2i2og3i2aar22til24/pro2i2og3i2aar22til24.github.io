@@ -29,14 +29,14 @@ Mvh underviseren selv Anders J.R. Petersen
 |                                 | [forløb 12 - js](forlob12_js/forlob12.md)                                                            | 9       | 46-48           |       |
 |                                 | [TEST NR.2](test2/test2.md)                                                                          |         | 48              |       |
 | **SOP**                         | 10 skrivedage til sop                                                                                |         | 49-50           |       |
-|                                 |                                                                                                      |         |                 |       |
-| **Algoritmer**                  |                                                                                                      | 15      | 2-5             | feb   |
-|                                 | TEST NR.4                                                                                            |         | 5               |       |
+| **Algoritmer**                  | [forløb 13 - intro til algoritmer](forlob13_algoritmer/forlob13.md)                                  | 3       | 51              | dec   |
+|                                 |                                                                                                      | 15      | 2-5             | feb   |
+|                                 | TEST NR.3                                                                                            |         | 5               |       |
 | **Eksamensprojektet**           | intro og projektvalg                                                                                 | 6       | 7-8             |       |
 |                                 | projektarbejde                                                                                       | 20      | 9-15            | mar   |
 |                                 | aflevering fredag d.12 april                                                                         |         | 15              | apr   |
-| **Algoritmer/Rekursion**        |                                                                                                      | ?       | 16-17           | maj   |
-|                                 | TEST NR.5                                                                                            |         | 17              |       |
+| **Algoritmer/Rekursion?**       |                                                                                                      | ?       | 16-17           | maj   |
+|                                 | TEST NR.4                                                                                            |         | 17              |       |
 | **Afsluttende årskarakter**     | gives - ikke offentliggjort, onsdag d.1 maj                                                          |         | 18              |       |
 | **Eksamenstræning**             |                                                                                                      | ?       | 19-20           |       |
 |                                 |                                                                                                      |         |                 |       |

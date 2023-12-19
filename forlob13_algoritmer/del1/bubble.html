@@ -1,0 +1,86 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sortering med bubble-sort</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+    <h1>Sortering med bubble-sort</h1>
+    <div id="data"></div>
+    <canvas id="myChart" width="500" height="500"></canvas>
+
+    <script>
+        //lav et array der indeholder 1000 tal fra 10000 til 1 ... worst case for bubble-sort
+        let arr0 = Array.from({ length: 30000 }, (x, i) => 1000 - i);
+
+        //sorter arrayet med bubble sort med arrays på forskellige længder
+        //og gem tiden det tager at sortere arrayet i variabler
+        let t1 = bubbleSortOgBeregnTid(arr0.slice(0, 6000));
+        let t2 = bubbleSortOgBeregnTid(arr0.slice(0, 12000));
+        let t3 = bubbleSortOgBeregnTid(arr0.slice(0, 18000));
+        let t4 = bubbleSortOgBeregnTid(arr0.slice(0, 24000));
+        let t5 = bubbleSortOgBeregnTid(arr0.slice(0, 300000));
+
+        //lav et chart med tiderne
+        let ctx = document.getElementById("myChart").getContext("2d");
+        let myChart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: ['Label 1', 'Label 2', 'Label 3', 'Label 4', 'Label 5'],
+                datasets: [{
+                    label: 'Graf',
+                    data: [t1, t2, t3, t4, t5],
+                    borderColor: 'rgba(75, 192, 192, 1)',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+
+        //sortering med bubble sort og udskrivning af tid
+        function bubbleSortOgBeregnTid(arr_in) {
+
+            //lav en kopi af arrayet
+            let arr = arr_in.slice();
+
+            //find system tiden i milisekunder før sortering
+            let start = new Date().getTime();
+
+            //anvend bubble sort til at sortere arrayet
+            //lav nested for loop der kører n*n gange, hvor n er læmgden af arrayet
+            for (let i = 0; i < arr.length; i++) {
+                for (let j = 0; j < arr.length; j++) {
+                    arr[i]=arr[j];
+                }
+            }
+
+            //find system tiden i milisekunder efter sortering
+            let end = new Date().getTime();
+
+            //udskriv tiden det tog at sortere arrayet i en p tag
+            let p = document.createElement("p");
+            p.innerHTML = "Det tog " + (end - start) + " milisekunder at sortere arrayet med længden " + arr.length + " med bubble sort";
+            document.getElementById("data").appendChild(p);
+
+            //returner tiden det tog at sortere arrayet
+            return (end - start);
+        }
+    </script>
+
+
+
+
+
+
+</body>
+
+</html>
