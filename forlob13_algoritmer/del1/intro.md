@@ -33,7 +33,7 @@ Glædelig jul og god fornøjelse ;-)
 
 [Anvende dette website som udgangspunkt : maaling.html](maaling.html)
 
-A1. Hvilken kørselsfunktion er tættest på den du ser i målt på - bubble.html ?
+A1. Hvilken kørselsfunktion er tættest på den du ser i målt på - maaling.html ?
 
 A2. Kig på source-koden og vurder hvorfor kørselsfunktionen ser ud som den gør ?
 
