@@ -3,12 +3,14 @@
 
 #### Om algoritmer
 Algoritmemønstre: definerede procedurer til at løse et problem.
+
 - At skulle finde et specifikt element i en samling af elementer
 - At se om der forbindelse imellem to punkter og finde den korteste eller billigste sti
 - At skulle sortere noget
 - At skulle finde det mest optimale træk
 - At skulle kryptere noget
 - At skulle tjekke om noget kolliderer
+
 Et algoritmemønster udtrykker en gentagelig, trin‐for‐trin løsning på tværs af
 programmeringssprog – dvs. uafhængigt af den konkrete implementering i fx Java, C#, Python eller Javascript.
 
