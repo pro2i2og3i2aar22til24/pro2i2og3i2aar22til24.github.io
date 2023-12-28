@@ -1,6 +1,6 @@
 # Forløb 13
 ## Algoritmer
 
-[intro til algoritmer - algoritmer og kørselstid](del1/intro.md)
+[Måling af tid : tidsfunktionen ved målinger og intro til algoritmer](del1/del1.md)
 
-[opgave i "find / add" i store filer (se algoritmer fra intro)](del2/beskrivelse.md)
+[Teoretisk tid : tidsfunktionen med teoreti og binære søgetræer](del2/del2.md)
