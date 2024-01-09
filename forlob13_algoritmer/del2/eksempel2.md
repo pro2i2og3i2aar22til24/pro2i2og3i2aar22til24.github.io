@@ -3,21 +3,19 @@
 I worst case koster dette lg(N) forsøg inden binærsøgning finder det rigtige tal!
 
 
-**forklaring**
+**Forklaring**
 
-Grunden er, at hver gang man gætter, halverer man intervallet af muligheder, indtil der kun er mindst et element tilbage i intervallet. 
+Grunden er, at hver gang man gætter, halverer man intervallet af muligheder, indtil der kun er et element tilbage i intervallet. 
 
 - første gange der ledes i intervallet er der altså n elementer
 - anden gang n/2
 - tredje gang n/4
 - osv.
 
-Dette skrives op som : n/2^k er det antal gange man har delt intervallet
+Dette skrives op som : **"antal elementer i interval" = n/2^k**, hvor k er det antal gange man har delt intervallet.
 
-Ialt giver følgende antal intervaller:
+Sidste gang vi deler vi deler intervallet er **1 = n/2^k**
 
-> n/2^0 + n/2^1 + n/2^2 + n/2^3 + ... + n/2^k , vi antager n/2^k = 1
-
-Spørgsmålet er nu, hvor mange gange vi gætter, dvs. halverer, dvs. hvad er \( k \)?
+Det er nu muligt at beregne antal gæt, dvs. k
 
 > n/2^k = 1 <=> n = 2^k <=> \log_2(n) = k
