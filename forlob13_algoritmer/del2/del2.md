@@ -29,11 +29,11 @@ Man kalder denne tilnærmede funktion tidsfunktionens Order of Growth!!!
 
 ## Opgave 1
 
-En typisk problemstilling der kræver en god algoritme: er at "gemme" og "hente" data fra meget store filer.  
-Udtænk en teoretisk plan for hvordan man kan lave et computerprogram, hvis filen består af tal der er linje-separerede.
+En typisk problemstilling der kræver en god algoritme: er at "gemme" og "finde" data i meget store filer.  
+Udtænk en teoretisk plan for hvordan man kan lave et computerprogram, hvor filen består af tal der er linje-separerede.
 
 - Beskriv hvordan programmet virker
-- Skriv pseudokode for dine to funktioner "gem" og "hent"
+- Skriv pseudokode for dine to funktioner "gem" og "find"
 - Analyser dig frem til order of growth for algoritmernes tidsfunktioner
 
 ---
