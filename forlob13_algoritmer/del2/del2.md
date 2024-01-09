@@ -40,7 +40,7 @@ Udtænk en teoretisk plan for hvordan man kan lave et computerprogram, hvis file
 
 ## Opgave 2
 
-En meget hurtig måde at løse problemet på er at vælge en anden datastruktur end listen.
+Der findes en datastruktur der i teorien fungerer hurtigere til at "gemme" og "hente" fra end listen.
 Nemlig: [Binary Search Trees](https://www.baeldung.com/cs/binary-search-trees)
 
 - Implementer et program, der anvender et binært søgetræ til at gemme og hente data fra.
