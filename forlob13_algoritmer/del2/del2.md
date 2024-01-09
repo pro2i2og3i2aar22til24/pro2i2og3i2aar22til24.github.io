@@ -29,19 +29,19 @@ Man kalder denne tilnærmede funktion tidsfunktionens Order of Growth!!!
 
 ## Opgave 1
 
-En typisk problemstilling der kræver en god algoritme: er at "gemme" og "finde" data i meget store filer.  
+En typisk problemstilling der kræver en god algoritme: er at "indsætte", "finde" og "save" data i meget store filer.  
 Udtænk en teoretisk plan for hvordan man kan lave et computerprogram, hvor filen består af tal der er linje-separerede.
 
 - Beskriv hvordan programmet virker
-- Skriv pseudokode for dine to funktioner "gem" og "find"
+- Skriv pseudokode for dine to funktioner "indsæt", "find" og "save"
 - Analyser dig frem til order of growth for algoritmernes tidsfunktioner
 
 ---
 
 ## Opgave 2
 
-Der findes en datastruktur der i teorien fungerer hurtigere til at "gemme" og "hente" fra end listen.
+Der findes en datastruktur, der i teorien fungerer hurtigere til at "indsæt" og "finde" i end listen.
 Nemlig: [Binary Search Trees](https://www.baeldung.com/cs/binary-search-trees)
 
-- Implementer et program, der anvender et binært søgetræ til at gemme og hente data fra.
-- Prøv ligeledes at udtænke en måde at gemme træet, f.eks. i en tekstfil
+- Implementer et program, der anvender et binært søgetræ til at "indsætte" og "finde" data i.
+- Prøv eventuelt at udtænke en måde at gemme træet, f.eks. i en tekstfil
