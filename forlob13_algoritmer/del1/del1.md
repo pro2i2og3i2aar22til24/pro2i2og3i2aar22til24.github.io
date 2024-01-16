@@ -1,5 +1,5 @@
-# Forløb 13 
-## Introduktion til algoritmer og kørselstiden
+# Forløb 13 Algoritmer
+## Del 1 :  Introduktion til algoritmer og kørselstiden
 
 #### Om algoritmer
 Algoritmemønstre: definerede procedurer til at løse et problem.

@@ -1,5 +1,5 @@
-# Forløb 13
-## Tidsfunktionen teoretisk og order of growth
+# Forløb 13 Alogoritmer
+## Del 2: Tidsfunktionen teoretisk og order of growth
 
 ---
 
