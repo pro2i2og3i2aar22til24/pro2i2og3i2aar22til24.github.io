@@ -45,3 +45,9 @@ Nemlig: [Binary Search Trees](https://www.baeldung.com/cs/binary-search-trees)
 
 - Implementer et program, der anvender et binært søgetræ til at "indsætte" og "finde" data i.
 - Prøv eventuelt at udtænke en måde at gemme træet, f.eks. i en tekstfil
+
+## Opgave 3 (frivillig)
+
+Hvis man kunne tænke sig at prøve en endnu bedre og mere avanceret datastruktur, så er "2-3trees" et godt bud.   
+Lav da istedet opgave 2 , bare med 2-3trees ;-)
+
