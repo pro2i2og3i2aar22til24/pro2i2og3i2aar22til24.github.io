@@ -3,15 +3,14 @@
 
 ---------------------------------
 
-## A : Bevis for at "order of growth" for søgetiden i det perfekt balancerede binære træ, i værste tilfælde er : log2(N)
+## A : Teoretisk bestemmelse af søgetiden for et balanceret binært træ
 
-![b tree](b_tree.png)
+![b_tree.png](b_tree.png)
 
-Som det ses bliver hvert "niveau" i træet dobbelt så stort som det forrige.  
 Det første niveau indeholder en node dvs. 2^0 = 1.   
 Det næste niveau 2^1 = 2.   
 Det næste niveau 2^2 = 4.
-Osv.
+osv.
 
 Dette kan omskrives til følgende, hvor N er antal noder i træet, hvor k er højden på træet:
 2^0 + 2^1 + 2^2 + 2^3 + 2^4 + 2^5 + ... + 2^k = N
@@ -20,7 +19,6 @@ De første to led giver:  2^0 + 2^1 = 2^2 - 1
 Plus det tredje led: 2^2 + 2^2 - 1 = 2^3 - 1
 Plus det fjerde led: 2^3 + 2^3 - 1 = 2^4 - 1
 Til sidst:           2^k + 2^k - 1 = 2^(k+1) - 1
-
 
 N = 2^(k+1) -1 <=> log2(N-1) = (k+1)*log2(2) <=> log2(N-1)-1 = k
 
