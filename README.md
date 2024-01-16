@@ -30,14 +30,13 @@ Mvh underviseren selv Anders J.R. Petersen
 |                                 | [TEST NR.2](test2/test2.md)                                                                          |         | 48              |       |
 | **SOP**                         | 10 skrivedage til sop                                                                                |         | 49-50           |       |
 | **Algoritmer**                  | [forløb 13 - algoritmer](forlob13_algoritmer/forlob13.md)						 | 8       | 51+2+3          | dec/jan |
-|                                 |                                                                                                      |         |                 |       |
-|                                 | TEST NR.3                                                                                            |         | 5               |       |
-| **Eksamensprojektet**           | intro og projektvalg                                                                                 | 6       | 7-8             |       |
+|                                 | TEST NR.3                                                                                            |         | 6               |       |
+| **Eksamensprojektet**           | intro og projektvalg                                                                                 | 3       | 8               |       |
 |                                 | projektarbejde                                                                                       | 20      | 9-15            | mar   |
 |                                 | aflevering fredag d.12 april                                                                         |         | 15              | apr   |
-| **Algoritmer/Rekursion?**       |                                                                                                      | ?       | 16-17           | maj   |
+| **Algoritmer/Rekursion?**       |                                                                                                      | ?       | 16-17           |       |
 |                                 | TEST NR.4                                                                                            |         | 17              |       |
-| **Afsluttende årskarakter**     | gives - ikke offentliggjort, onsdag d.1 maj                                                          |         | 18              |       |
+| **Afsluttende årskarakter**     | gives - ikke offentliggjort, onsdag d.1 maj                                                          |         | 18              | maj   |
 | **Eksamenstræning**             |                                                                                                      | ?       | 19-20           |       |
 |                                 |                                                                                                      |         |                 |       |
 | sidste skoledag onsdag d.22 maj |                                                                                                      |         | 21              |       |
