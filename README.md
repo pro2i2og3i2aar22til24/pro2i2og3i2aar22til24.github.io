@@ -29,10 +29,11 @@ Mvh underviseren selv Anders J.R. Petersen
 |                                 | [forløb 12 - js](forlob12_js/forlob12.md)                                                            | 9       | 46-48           |       |
 |                                 | [TEST NR.2](test2/test2.md)                                                                          |         | 48              |       |
 | **SOP**                         | 10 skrivedage til sop                                                                                |         | 49-50           |       |
-| **Algoritmer**                  | [forløb 13 - algoritmer](forlob13_algoritmer/forlob13.md)						 | 8       | 51+2+3          | dec/jan |
-|                                 | TEST NR.3                                                                                            |         | 6               |       |
-| **Eksamensprojektet**           | intro og projektvalg                                                                                 | 3       | 8               |       |
-|                                 | projektarbejde                                                                                       | 20      | 9-15            | mar   |
+| **Algoritmer**                  | [forløb 13 - algoritmer](forlob13_algoritmer/forlob13.md)						                     | 8       | 51+2+3          | dec/jan |
+| **Eksamensprojektet**           | [forløb 14 - Eksamensprojektet](forlob14_eksamensprojektet/forlob15.md)                              | 3       | 6+8             | feb   |
+|                                 | intro og projektvalg                                                                                 | 3       | 6+8             | feb   |
+|                                 | TEST NR.3                                                                                            | 1       | 9               | mar   |
+|                                 | projektarbejde                                                                                       | 20      | 9-15            |       |
 |                                 | aflevering fredag d.12 april                                                                         |         | 15              | apr   |
 | **Algoritmer/Rekursion?**       |                                                                                                      | ?       | 16-17           |       |
 |                                 | TEST NR.4                                                                                            |         | 17              |       |
