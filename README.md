@@ -31,11 +31,11 @@ Mvh underviseren selv Anders J.R. Petersen
 | **SOP**                         | 10 skrivedage til sop                                                                                |         | 49-50           |       |
 | **Algoritmer**                  | [forløb 13 - algoritmer](forlob13_algoritmer/forlob13.md)						                     | 8       | 51+2+3          | dec/jan |
 | **Eksamensprojektet**           | [forløb 14 - Eksamensprojektet](forlob14_eksamensprojektet/forlob14.md)                              |         |                 |       |
-|                                 | intro og projektvalg                                                                                 | 3       | 6               | feb   |
-|                                 | aflevering projektbeskrivelse, senest fredag d.23 feb.                                               |         |                 |       |
-|                                 | TEST NR.3                                                                                            | 1       | 8               | mar   |
-|                                 | projektarbejde                                                                                       | 20      | 8-15            |       |
-|                                 | **aflevering fredag d.12 april**                                                                     |         | 15              | apr   |
+|                                 | intro, projektvalg og projektbeskrivelse                                                             | 3       | 6               | feb   |
+|                                 | **aflevering projekt-besk., senest fredag d.23 feb.**                                                |         | 8               |       |
+|                                 | TEST NR.3                                                                                            | 1       | 9               |       |
+|                                 | projektarbejde                                                                                       | 20      | 8-15            | mar/apr |
+|                                 | **aflevering eksmanesprojekt, fredag d.12 april**                                                    |         | 15              |       |
 | **Algoritmer/Rekursion?**       |                                                                                                      | ?       | 16-17           |       |
 |                                 | TEST NR.4                                                                                            |         | 17              |       |
 | **Afsluttende årskarakter**     | gives - ikke offentliggjort, onsdag d.1 maj                                                          |         | 18              | maj   |
