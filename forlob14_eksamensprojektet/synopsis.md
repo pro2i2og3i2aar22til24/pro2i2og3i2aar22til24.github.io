@@ -1,0 +1,29 @@
+# Synopsens indhold
+# Eksamensprojekt programmering niveau B
+
+Nedenstående er kopieret fra undervisningsministeriets vejledning.
+
+- Forblad
+- Kort abstract (censor kan herved orientere sig om opgavens indhold)
+- Problemformulering
+- Funktionsbeskrivelse (skærmlayout, indtastningsmuligheder, funktionalitet – alt efter hvad det er for et program)
+- Dokumentation af selve programmet (overordnet beskrivelse af programmet, detaljeret dokumentation af dele af programmet (flowchart, pseudokode), variabler, objekter, events, igen meget afhængigt af hvad det er for et program)
+- Test af programmet
+- Konklusion 
+- Bilag (det er godt at få koden placeret i bilag, da den muligvis ikke ville kunne indeholdes indenfor synopsens 5-8 sider). 
+
+
+### Funktionsbeskrivelse og dokumentation af selve programmet
+
+Generelt udgør dette tilsammen en fuldsrændig beskrivelse af hele jeres program. Dette er den vigtigste del af synopsen og jeg har derfor skrevet en dokument om emnet i kan læse : [her](progdok.pdf).
+
+### Test af programmet
+
+I skal i dette afsnit "bevise" at jeres program virker efter hensigten. Derfor skal i teste det. Man skal skrive forskellige test-cases, der som minimum dækker porgrammets krav. Her en lille oversigt de korrekte fagudtryk for forskellige typer test:
+
+- White Box Testning: Testcasene udvikles med viden om koden og dens implementation for at sikre, at alle kodegrene og stier testes grundigt.
+- Black Box Testning: Testcasene oprettes ud fra kravspecifikationer og forventede resultater uden at tage hensyn til, hvordan programmet fungerer bag kulisserne.
+- Acceptance Testning: Acceptance testning evaluerer, om softwaren opfylder de krav, der er fastsat af kunden eller brugerne.
+- Performance Testning: Performance testning evaluerer softwarens ydeevne under forskellige forhold, såsom belastning, stress og skalerbarhed.
+- Security Testning: Security testning fokuserer på at identificere sårbarheder og sikre, at softwaren er beskyttet mod potentielle trusler og angreb.
+

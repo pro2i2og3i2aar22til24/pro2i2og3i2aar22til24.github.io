@@ -16,6 +16,7 @@ Med udgangspunkt i det valgte emne udarbejdes en projektbeskrivelse, der skal in
 - Problemformulering.
 - Projektafgrænsning.
 - Kravspecifikation og designspecifikation.
+- Samarbjeds-metode - hvordan i anvender f.eks. github.
 - Projekttidsplan (valgfri).
 - Projektgodkendelse: Skolen (Læreren) godkender projektbeskrivelsen, når beskrivelsen er fagligt og niveaumæssigt relevant.
 
@@ -25,6 +26,10 @@ Programmet skal kunne kompilere i et miljø efter eget valg inden for de sprog v
 ### Produkt
 Produkt kan udarbejdes i grupper på 2-3 personer eller som enkeltperson.
 Koden til produktet lægges som bilag til synopsen.
+
+### Gruppearbejde
+Hvis man vælger at arbejde i grupper skal man anvende et versionsstyringssystem som GitHub (krav fra undervisningsmenisteriet).   
+Underviseren hjælper, hvis det er nødvendigt.
 
 ### Synopsis
 Synopsen udarbejdes individuelt.     
