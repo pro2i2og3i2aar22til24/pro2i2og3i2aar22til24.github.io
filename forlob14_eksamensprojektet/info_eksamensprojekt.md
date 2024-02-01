@@ -6,8 +6,6 @@
 ### Stikprøver
 
 Jeg vil løbende lave "stikprøver", hvor i skal gennemgå kode i har skrevet, for at teste ejerskab, progression og standpunkt.
-...
--------------------------------------------------------------------------------------------------
 
 ### Projekt/emne valg
 Emnet for jeres eksamensprojekt er frit, dog bør jeres projekt indeholde de grundlæggende programmeringsteknikker fra kernestoffet, såsom: programmeringssprog og elementer i programmers opbygning, herunder variabler, typer, udtryk, kontrolstrukturer,
@@ -26,13 +24,11 @@ Programmet skal kunne kompilere i et miljø efter eget valg inden for de sprog v
 
 ### Produkt
 Produkt kan udarbejdes i grupper på 2-3 personer eller som enkeltperson.
-Koden til produktet lægges som bilag til journalen
-journalen og produktet afleveres desuden som en pakket fil på Lectio
+Koden til produktet lægges som bilag til synopsen.
 
-### Journalen:
-Journalen udarbejdes individuelt
-Journalen skal beskrive udviklingen af det færdige produkt. Den må højst have et
-omfang af 10 sider
+### Synopsis
+Synopsen udarbejdes individuelt
+Synopsen skal beskrive udviklingen af det færdige produkt. Den må have et omfang på cirka 8 sider.
 
 Det skal klart fremgå, hvilke dele af produktet eleven selv har fremstillet, og hvornår der er tale om
 andres arbejde, eller en viderebearbejdning af dette. Oprindelsen bør fremgå af rapporten, og eleven skal dokumentere, hvordan det er konstrueret og anvendes.

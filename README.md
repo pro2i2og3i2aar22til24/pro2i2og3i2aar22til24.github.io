@@ -35,7 +35,7 @@ Mvh underviseren selv Anders J.R. Petersen
 |                                 | **aflevering projekt-besk., senest fredag d.23 feb.**                                                |         | 8               |       |
 |                                 | TEST NR.3                                                                                            | 1       | 9               |       |
 |                                 | projektarbejde                                                                                       | 20      | 8-15            | mar/apr |
-|                                 | **aflevering eksmanesprojekt, fredag d.12 april**                                                    |         | 15              |       |
+|                                 | **aflevering eksamensprojekt, fredag d.12 april**                                                    |         | 15              |       |
 | **Algoritmer/Rekursion?**       |                                                                                                      | ?       | 16-17           |       |
 |                                 | TEST NR.4                                                                                            |         | 17              |       |
 | **Afsluttende årskarakter**     | gives - ikke offentliggjort, onsdag d.1 maj                                                          |         | 18              | maj   |
