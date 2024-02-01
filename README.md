@@ -30,7 +30,7 @@ Mvh underviseren selv Anders J.R. Petersen
 |                                 | [TEST NR.2](test2/test2.md)                                                                          |         | 48              |       |
 | **SOP**                         | 10 skrivedage til sop                                                                                |         | 49-50           |       |
 | **Algoritmer**                  | [forløb 13 - algoritmer](forlob13_algoritmer/forlob13.md)						                     | 8       | 51+2+3          | dec/jan |
-| **Eksamensprojektet**           | [forløb 14 - Eksamensprojektet](forlob14_eksamensprojektet/forlob15.md)                              | 3       | 6+8             | feb   |
+| **Eksamensprojektet**           | [forløb 14 - Eksamensprojektet](forlob14_eksamensprojektet/forlob14.md)                              | 3       | 6+8             | feb   |
 |                                 | intro og projektvalg                                                                                 | 3       | 6+8             | feb   |
 |                                 | TEST NR.3                                                                                            | 1       | 9               | mar   |
 |                                 | projektarbejde                                                                                       | 20      | 9-15            |       |
