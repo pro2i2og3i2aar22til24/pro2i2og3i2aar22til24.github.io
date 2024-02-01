@@ -27,7 +27,7 @@ Produkt kan udarbejdes i grupper på 2-3 personer eller som enkeltperson.
 Koden til produktet lægges som bilag til synopsen.
 
 ### Synopsis
-Synopsen udarbejdes individuelt
+Synopsen udarbejdes individuelt.     
 Synopsen skal beskrive udviklingen af det færdige produkt. Den må have et omfang på cirka 8 sider.
 
 Det skal klart fremgå, hvilke dele af produktet eleven selv har fremstillet, og hvornår der er tale om
