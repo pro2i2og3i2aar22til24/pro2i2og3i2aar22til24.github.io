@@ -16,11 +16,11 @@ Nedenstående er kopieret fra undervisningsministeriets vejledning.
 
 ### Funktionsbeskrivelse og dokumentation af selve programmet
 
-Generelt udgør dette tilsammen en fuldsrændig beskrivelse af hele jeres program. Dette er den vigtigste del af synopsen og jeg har derfor skrevet en dokument om emnet i kan læse : [her](del5_progdok.pdf).
+Denne del er den vigtigste del af synopsen og jeg har derfor skrevet et ekstra dokument om emnet i kan læse her : [Hvordan skriver man om sit program?](del5_progdok.pdf).
 
 ### Test af programmet
 
-I skal i dette afsnit "bevise" at jeres program virker efter hensigten. Derfor skal i teste det. Man skal skrive forskellige test-cases, der som minimum dækker porgrammets krav. Her en lille oversigt de korrekte fagudtryk for forskellige typer test:
+I skal i dette afsnit "bevise" at jeres program virker efter hensigten. Derfor skal i teste det. Man skal skrive forskellige test-cases, der som minimum dækker porgrammets krav. Her en lille oversigt over de korrekte fagudtryk for forskellige typer test:
 
 - White Box Testning: Testcasene udvikles med viden om koden og dens implementation for at sikre, at alle kodegrene og stier testes grundigt.
 - Black Box Testning: Testcasene oprettes ud fra kravspecifikationer og forventede resultater uden at tage hensyn til, hvordan programmet fungerer bag kulisserne.
