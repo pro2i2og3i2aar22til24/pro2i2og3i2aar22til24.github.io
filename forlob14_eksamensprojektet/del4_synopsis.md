@@ -3,15 +3,16 @@
 
 Nedenstående er kopieret fra undervisningsministeriets vejledning.
 
-- Forblad
-- Kort abstract (censor kan herved orientere sig om opgavens indhold)
-- Problemformulering
-- Funktionsbeskrivelse (skærmlayout, indtastningsmuligheder, funktionalitet – alt efter hvad det er for et program)
-- Dokumentation af selve programmet (overordnet beskrivelse af programmet, detaljeret dokumentation af dele af programmet (flowchart, pseudokode), variabler, objekter, events, igen meget afhængigt af hvad det er for et program)
-- Test af programmet
-- Konklusion 
-- Bilag (det er godt at få koden placeret i bilag, da den muligvis ikke ville kunne indeholdes indenfor synopsens 5-8 sider). 
-
+<ul style="background:lightgray">
+  <li>Forblad</li>
+  <li>Kort abstract (censor kan herved orientere sig om opgavens indhold)</li>
+  <li>Problemformulering</li>
+  <li>Funktionsbeskrivelse (skærmlayout, indtastningsmuligheder, funktionalitet – alt efter hvad det er for et program)</li>
+  <li>Dokumentation af selve programmet (overordnet beskrivelse af programmet, detaljeret dokumentation af dele af programmet (flowchart, pseudokode), variabler, objekter, events, igen meget afhængigt af hvad det er for et program)</li>
+  <li>Test af programmet</li>
+  <li>Konklusion</li>
+  <li>Bilag (det er godt at få koden placeret i bilag, da den muligvis ikke ville kunne indeholdes indenfor synopsens 5-8 sider).</li>
+</ul>
 
 ### Funktionsbeskrivelse og dokumentation af selve programmet
 
