@@ -1,7 +1,6 @@
 # Eksamensprojektet
 
-- [forløb 14 - Afleveringsfrister](deadlines.md)     
-- [forløb 14 - Info om eksamensprojektet](info_eksamensprojekt.md)   
-- [forløb 14 - Projekt valg](projektforslag.md)   
-- [forløb 14 - Aflevering : synopsis & program](aflevering.md)
-- [forløb 14 - Synopsens indhold](synopsis.md)  
+- [Aflevering og afleveringsfrister](del1_aflevering_og_deadlines.md)     
+- [Info om eksamensprojektet](del2_info_eksamensprojekt.md)   
+- [Projekt valg](del3_projektforslag.md)   
+- [Synopsens indhold](del4_synopsis.md)  

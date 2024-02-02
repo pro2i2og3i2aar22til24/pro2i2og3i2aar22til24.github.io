@@ -15,7 +15,7 @@ Nedenstående er kopieret fra undervisningsministeriets vejledning.
 
 ### Funktionsbeskrivelse og dokumentation af selve programmet
 
-Generelt udgør dette tilsammen en fuldsrændig beskrivelse af hele jeres program. Dette er den vigtigste del af synopsen og jeg har derfor skrevet en dokument om emnet i kan læse : [her](progdok.pdf).
+Generelt udgør dette tilsammen en fuldsrændig beskrivelse af hele jeres program. Dette er den vigtigste del af synopsen og jeg har derfor skrevet en dokument om emnet i kan læse : [her](del5_progdok.pdf).
 
 ### Test af programmet
 
