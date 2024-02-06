@@ -13,12 +13,14 @@ parametrisering/abstraktionsmekanismer, rekursion, polymorfi (oop) og algoritmem
 
 ### Projektbeskrivelse
 Med udgangspunkt i det valgte emne udarbejdes en projektbeskrivelse, der skal indeholde følgende:
-- Problemformulering.
-- Projektafgrænsning.
-- Kravspecifikation og designspecifikation.
-- Samarbjeds-metode - hvordan i anvender f.eks. github.
-- Projekttidsplan (valgfri).
-- Projektgodkendelse: Skolen (Læreren) godkender projektbeskrivelsen, når beskrivelsen er fagligt og niveaumæssigt relevant.
+<ul style="background : lightgray">
+  <li>Problemformulering.</li>
+  <li>Projektafgrænsning.</li>
+  <li>Kravspecifikation og designspecifikation.</li>
+  <li>Samarbjeds-metode - hvordan i anvender f.eks. github.</li>
+  <li>Projekttidsplan (valgfri).</li>
+  <li>Projektgodkendelse: Skolen (Læreren) godkender projektbeskrivelsen, når beskrivelsen er fagligt og niveaumæssigt relevant.</li>
+</ul>
 
 ### Sprog/miljø valg
 Programmet skal kunne kompilere i et miljø efter eget valg inden for de sprog vi har brugt i undervisningen. Brugeren kan umiddelbart bruge programmet med de instruktioner der er på startbilledet. Læseren af koden kan programmere, så kildekommentarerne skal tilpasses læseren. Der lægges vægt på clean-code, dvs at undgå gentagelser, sigende variabelnavne og generelt en ’pæn’ og læsevenlig kode.

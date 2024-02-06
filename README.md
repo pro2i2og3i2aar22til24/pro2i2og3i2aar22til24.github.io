@@ -30,12 +30,14 @@ Mvh underviseren selv Anders J.R. Petersen
 |                                 | [TEST NR.2](test2/test2.md)                                                                          |         | 48              |       |
 | **SOP**                         | 10 skrivedage til sop                                                                                |         | 49-50           |       |
 | **Algoritmer**                  | [forløb 13 - algoritmer](forlob13_algoritmer/forlob13.md)						                     | 8       | 51+2+3          | dec/jan |
-| **Eksamensprojektet**           | **[LÆS ALT OM EKSAMENSPROJEKTET HER!!!!!!!](forlob14_eksamensprojektet/forlob14.md)**                |         |                 |       |
-|                                 | intro, projektvalg og projektbeskrivelse                                                             | 3       | 6               | feb   |
-|                                 | **aflevering projekt-besk., senest fredag d.23 feb.**                                                |         | 8               |       |
+|                                 |                                                                                                      |         |                 |       |
+| **Eksamensprojektet**           | **[Læs vigtig info om eksamensprojekt her](forlob14_eksamensprojektet/forlob14.md)**                 |         |                 |       |
+|                                 | Del 1 : arbejd på projektbeskrivelse                                                                 | 6       | 6-8             | feb   |
+|                                 | Del 2 : aflever projektbeskrivelse fredag d.23/2                                                     |         | 8               |       |
+|                                 | Del 3 : arbejd på eksamensprojektet                                                                  | 20      | 8-15            | mar/apr |
 |                                 | TEST NR.3                                                                                            | 1       | 9               |       |
-|                                 | projektarbejde                                                                                       | 20      | 8-15            | mar/apr |
-|                                 | **aflevering eksamensprojekt, fredag d.12 april**                                                    |         | 15              |       |
+|                                 | Del 4 : aflever eksamensprojekt, fredag d.12/4                                                       |         | 15              |       |
+|                                 |                                                                                                      |         |                 |       |
 | **Algoritmer/Rekursion?**       |                                                                                                      | ?       | 16-17           |       |
 |                                 | TEST NR.4                                                                                            |         | 17              |       |
 | **Afsluttende årskarakter**     | gives - ikke offentliggjort, onsdag d.1 maj                                                          |         | 18              | maj   |
