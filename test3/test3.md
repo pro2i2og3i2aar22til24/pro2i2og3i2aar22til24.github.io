@@ -1,14 +1,14 @@
 # Test 3
 
-Denne tester alle emner indtil nu,- med mest vægt på algoritmer.
+Denne tester alle emner indtil nu. Men halvdelen af spørgsmålene er i algoritmer :-)
 
-- **processing** : 2 spørgsmål
+- **processing**
     - grundlæggende programmering i processing
-- **javascript og html** : 2 spørgsmål
+- **javascript og html** :
     - funktionskald med events 
-- **oop principerne** : 2 spørgsmål
+- **oop principerne** :
     - komposition og nedarvning
-- **algoritmer** : 5 spørgsmål
+- **algoritmer** :
     - vurdering af kørselstider og kørselstidsfunktioner for forskellige stykker kode
     - vurderinger af worst-case, best-case og average
     - binær søgning
