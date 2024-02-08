@@ -27,7 +27,7 @@ Med udgangspunkt i det valgte emne udarbejdes en projektbeskrivelse, der skal in
 En af fagets formål er at løse problemer vha. programmering.
 I skal derfor formulere et problem i gerne vil løse og skrive det ind som en problemformulering
 
-### Sprog/miljø valg
+### Tekniske valg - sprog/miljø
 Programmet skal kunne kompilere i et miljø efter eget valg inden for de sprog vi har brugt i undervisningen. Brugeren kan umiddelbart bruge programmet med de instruktioner der er på startbilledet. Læseren af koden kan programmere, så kildekommentarerne skal tilpasses læseren. Der lægges vægt på clean-code, dvs at undgå gentagelser, sigende variabelnavne og generelt en ’pæn’ og læsevenlig kode.
 
 ### Produkt
