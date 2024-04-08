@@ -1,4 +1,12 @@
 # Test 1
+Denne test indeholder spørgsmål i følgende emner, repetition af processing 2.g:
+- variabler
+- løkker
+- arrays
+- if-statements
+- reference-typer og delte objekter
+- klasser og objekter
+- klasse diagrammer
 
 [se testen her](test1.pdf)
 

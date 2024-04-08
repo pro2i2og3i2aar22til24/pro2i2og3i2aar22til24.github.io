@@ -1,4 +1,12 @@
 # Test 2
+Denne test indeholder spørgsmål i følgende emner:
+- **javascript og html** :
+    - funktionskald med events
+- **processing**
+    - grundlæggende programmering i processing
+- **oop principerne** :
+    - komposition og nedarvning
+
 
 [se testen her](test2.pdf)
 

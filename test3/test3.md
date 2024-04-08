@@ -1,7 +1,5 @@
 # Test 3
-
 Denne tester alle emner indtil nu. Men halvdelen af spørgsmålene er i algoritmer :-)
-
 - **processing**
     - grundlæggende programmering i processing
 - **javascript og html** :
