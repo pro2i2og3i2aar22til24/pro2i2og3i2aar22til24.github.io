@@ -38,7 +38,7 @@ Mvh underviseren selv Anders J.R. Petersen
 |                                 | [TEST NR.3](/test3/test3.md)                                                                         | 1       | 9               |       |
 |                                 | Del 4 : aflever eksamensprojekt, fredag d.12/4                                                       |         | 15              |       |
 |                                 |                                                                                                      |         |                 |       |
-|                                 | TEST NR.4 - Sidste test afgørende for årskarakter                                                    |         | 17              |       |
+|                                 | [TEST NR.4 - Sidste test afgørende for årskarakter](/test3/test3.md)                                 |         | 17              |       |
 | **Afsluttende årskarakter**     | gives - ikke offentliggjort, onsdag d.1 maj                                                          |         | 18              | maj   |
 | **Eksamenstræning & Rekursion** |                                                                                                      | ?       | 19-20           |       |
 |                                 |                                                                                                      |         |                 |       |
