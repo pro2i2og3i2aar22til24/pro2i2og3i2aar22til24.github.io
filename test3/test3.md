@@ -14,6 +14,10 @@ Denne tester alle emner indtil nu. Men halvdelen af spørgsmålene er i algoritm
     - binær søgning
     - binært søgetræ 
 
+[se testen her](test2.pdf)
+
+[se tekst løsning her](test2_solution.pdf)
+
 
 | point opnået        | vurdering                                                     | karakter  |
 |---------------------|---------------------------------------------------------------|-----------|
