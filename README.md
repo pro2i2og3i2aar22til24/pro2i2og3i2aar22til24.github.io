@@ -37,11 +37,11 @@ Mvh underviseren selv Anders J.R. Petersen
 |                                 | Del 3 : arbejd på eksamensprojektet                                                                  | 20      | 8-15            | mar/apr |
 |                                 | [TEST NR.3](/test3/test3.md)                                                                         | 1       | 9               |       |
 |                                 | Del 4 : aflever eksamensprojekt, fredag d.12/4                                                       |         | 15              |       |
-| **Algoritmer/Rekursion?**       | [forlob 15 - Binært-træ med rekursion](/forlob15_rekursion/forlob15.md)                              |         | 17              |       |
+| **Algoritmer/Rekursion?**       | [forlob 15 - Binært-træ med rekursion](/forlob15_rekursion/forlob15.md)                              | 3       | 17              |       |
 |                                 |                                                                                                      |         |                 |       |
-|                                 | TEST NR.4 - Sidste test afgørende for årskarakter                                                    |         | 18              | maj   |
-| **Afsluttende årskarakter**     | gives - ikke offentliggjort, onsdag d.13 maj                                                         |         | 20              |       |
-| **Eksamenstræning**             |                                                                                                      | ?       | 19-21           |       |
+| **Afsluttende årskarakter**     | TEST NR.4 - Sidste test afgørende for årskarakter                                                    |         | 18              | maj   |
+|                                 | afsluttende årskarakter gives - ikke offentliggjort, onsdag d.13 maj                                 |         |                 |       |
+| **Eksamenstræning**             |                                                                                                      |         | 19-21           |       |
 |                                 |                                                                                                      |         |                 |       |
 | sidste skoledag onsdag d.22 maj |                                                                                                      |         | 21              |       |
 
