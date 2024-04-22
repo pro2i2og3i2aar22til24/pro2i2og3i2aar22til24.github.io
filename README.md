@@ -38,7 +38,7 @@ Mvh underviseren selv Anders J.R. Petersen
 |                                 | [TEST NR.3](/test3/test3.md)                                                                         | 1       | 9               |       |
 |                                 | Del 4 : aflever eksamensprojekt, fredag d.12/4                                                       |         | 15              |       |
 |                                 |                                                                                                      |         |                 |       |
-| **Algoritmer/Rekursion?**       |                                                                                                      | ?       | 16-17           |       |
+| **Algoritmer/Rekursion?**       | [forlob 15 - Binært-træ med rekursion](/forlob15_rekursion/forlob15.md)                              | ?       | 16-17           |       |
 |                                 | TEST NR.4 - Sidste test afgørende for årskarakter                                                    |         | 17              |       |
 | **Afsluttende årskarakter**     | gives - ikke offentliggjort, onsdag d.1 maj                                                          |         | 18              | maj   |
 | **Eksamenstræning**             |                                                                                                      | ?       | 19-20           |       |
