@@ -8,7 +8,9 @@ Programmet skal anvende "rekursive implementationer af funktionerne "insert" og 
 ### Hvad er en rekursiv funktion?
 
 En rekursiv funktion er en funktion, der kalder sig selv.
-Se eksempler her: [https://users.cs.utah.edu/~germain/PPS/Topics/recursion.html](https://users.cs.utah.edu/~germain/PPS/Topics/recursion.html)
+Se eksempler her:  
+[https://users.cs.utah.edu/~germain/PPS/Topics/recursion.html](https://users.cs.utah.edu/~germain/PPS/Topics/recursion.html)
+
 
 Vigtigt: Husk at funktionen skal stoppe med at "kalde" sig selv når den når base-case. Ellers kan man få en "***stack-overflow exception***"
 
@@ -16,4 +18,5 @@ Vigtigt: Husk at funktionen skal stoppe med at "kalde" sig selv når den når ba
 
 Videoen her viser hvordan applikationen skal fungere:
 
-Source-koden findes her:
+Source-koden findes her:   
+[processing kode](./BinaryVisual.md)
