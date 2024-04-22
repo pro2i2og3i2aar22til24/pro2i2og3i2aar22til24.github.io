@@ -5,9 +5,9 @@ I dette lille forløb (3 eller måske 4 moduler) skal vi (læs I) bygge en visue
 
 Programmet skal anvende "rekursive implementationer af funktionerne "insert" og "find" eventuelt også andre....
 
-### Hvad er en rekursiv funktion?
+### Rekursiv funktion
 
-En rekursiv funktion er en funktion, der kalder sig selv.
+En rekursiv funktison er en funktion, der kalder sig selv.
 Se eksempler her:  
 [https://users.cs.utah.edu/~germain/PPS/Topics/recursion.html](https://users.cs.utah.edu/~germain/PPS/Topics/recursion.html)
 
