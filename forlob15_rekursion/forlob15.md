@@ -7,8 +7,12 @@ Programmet skal anvende "rekursive implementationer af funktionerne "insert" og 
 
 ### Rekursiv funktion
 
-En rekursiv funktison er en funktion, der kalder sig selv.
-Se eksempler her:  
+En rekursiv funktion er en funktion, der kalder sig selv.
+Et klassisk eksempel er fibonacci-tallene der matematisk kan beskrives således:
+
+> F(n) = F(n-1) + F(n-2) for n>1, F(0) = 0, F(1) = 1 og n tilhører Z
+
+Flere eksempler her:  
 [https://users.cs.utah.edu/~germain/PPS/Topics/recursion.html](https://users.cs.utah.edu/~germain/PPS/Topics/recursion.html)
 
 
