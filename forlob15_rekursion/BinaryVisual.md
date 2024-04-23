@@ -56,12 +56,11 @@ void keyPressed(){
 void add(int value){
     value = Integer.parseInt(""+key);
     //ADVARSEL- IMPLEMENTATION ER FORKERT ( KUN TIL TEST)
-    if(root == null){   
-        root = new Node(value);
-    }else{              
-        root.left = new Node(value);
-        root.right= new Node(value);    
-    }
+    root = new Node(value);
+    root.left  = new Node(value);
+    root.right = new Node(value); 
+    root.left.left  = new Node(value);
+    root.left.right = new Node(value);    
 }
 
 void find(int value){
