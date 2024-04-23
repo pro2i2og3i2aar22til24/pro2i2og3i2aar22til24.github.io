@@ -1,5 +1,5 @@
-# Forløb 13 
-## Introduktion til algoritmer og kørselstiden
+# Forløb 13 Algoritmer
+## Del 1 :  Introduktion til algoritmer og kørselstiden
 
 #### Om algoritmer
 Algoritmemønstre: definerede procedurer til at løse et problem.
@@ -19,7 +19,7 @@ En algoritme vokser på en specifik måde i forhold til forbrug af tid og rum/me
 Man vil ofte gerne kunne definere en øvre grænse for en algoritmes forbrug – hvor slemt kan det blive, hvis man benytter denne algoritme?    
 Vi skal prøve at bygge et lille website, der beregner kørselstider for forskellige algoritmer: 
 
-![](runtime.png)
+![](pic_times.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ A2. Kig på source-koden og vurder hvorfor kørselsfunktionen ser ud som den gø
 B3. Implementer sorterings-metoden bubble-sort eller en anden sorteringsalgoritme (brug gerne en kopi af maaling.html).   
 Vælg meningsfulde input-arrays. Se animationen nedenfor: 
 
-![](BubbleSort_Avg_case.gif)
+![](pic_bsort.gif)
 
 
 B4. Hvilken kørselsfunktion ligger tættest på de data i ser ?
@@ -64,7 +64,7 @@ Men man kender ikke nogen af de værdier arrayet indeholder!
 C6. Forklar hvordan binær-søgning virker ved at kigge på animationen, imodsætning til lineær-søgning. 
 (søg eventuelt på nettet)
 
-![](binary_search.gif)
+![](pic_bsearch.gif)
 
 C7. Implementer input data, der består af tilfældige sorterede tal i tiltrækkelig store mængder 
 

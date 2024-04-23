@@ -29,18 +29,22 @@ Mvh underviseren selv Anders J.R. Petersen
 |                                 | [forløb 12 - js](forlob12_js/forlob12.md)                                                            | 9       | 46-48           |       |
 |                                 | [TEST NR.2](test2/test2.md)                                                                          |         | 48              |       |
 | **SOP**                         | 10 skrivedage til sop                                                                                |         | 49-50           |       |
-| **Algoritmer**                  | [forløb 13 - intro til algoritmer](forlob13_algoritmer/forlob13.md)                                  | 3       | 51              | dec   |
-|                                 |                                                                                                      | 15      | 2-5             | feb   |
-|                                 | TEST NR.3                                                                                            |         | 5               |       |
-| **Eksamensprojektet**           | intro og projektvalg                                                                                 | 6       | 7-8             |       |
-|                                 | projektarbejde                                                                                       | 20      | 9-15            | mar   |
-|                                 | aflevering fredag d.12 april                                                                         |         | 15              | apr   |
-| **Algoritmer/Rekursion?**       |                                                                                                      | ?       | 16-17           | maj   |
-|                                 | TEST NR.4                                                                                            |         | 17              |       |
-| **Afsluttende årskarakter**     | gives - ikke offentliggjort, onsdag d.1 maj                                                          |         | 18              |       |
-| **Eksamenstræning**             |                                                                                                      | ?       | 19-20           |       |
+| **Algoritmer**                  | [forløb 13 - algoritmer](forlob13_algoritmer/forlob13.md)						                     | 8       | 51+2+3          | dec/jan |
 |                                 |                                                                                                      |         |                 |       |
-| sidste skoledag onsdag d.22 maj |                                                                                                      |         | 21              |       |
+| **Eksamensprojektet**           | **[Læs vigtig info om eksamensprojekt her](forlob14_eksamensprojektet/forlob14.md)**                 |         |                 |       |
+|                                 | Del 1 : arbejd på projektbeskrivelse                                                                 | 6       | 6-8             | feb   |
+|                                 | Del 2 : aflever projektbeskrivelse fredag d.23/2                                                     |         | 8               |       |
+|                                 | Del 3 : arbejd på eksamensprojektet                                                                  | 20      | 8-15            | mar/apr |
+|                                 | [TEST NR.3](/test3/test3.md)                                                                         | 1       | 9               |       |
+|                                 | Del 4 : aflever eksamensprojekt, fredag d.12/4                                                       |         | 15              |       |
+|                                 |                                                                                                      |         |                 |       |
+| **Algoritmer/Rekursion?**       | [forlob 15 - Binært-træ med rekursion](/forlob15_rekursion/forlob15.md)                              | 3       | 17              |       |
+|                                 |                                                                                                      |         |                 |       |
+| **Afsluttende årskarakter**     | TEST NR.4 - Sidste test afgørende for årskarakter                                                    | 4       | 18              | maj   |
+|                                 | karakter gives - ikke offentliggjort, onsdag d.13 maj                                                |         |                 |       |
+| **Eksamenstræning**             |                                                                                                      | 7       | 19-21           |       |
+|                                 |                                                                                                      |         |                 |       |
+| sidste skoledag onsdag d.22 maj |                                                                                                      | 2       | 21              |       |
 
 [^1]: metoder og konventioner i programmering er meget relevante ifm. sop
 [^2]: teknikfagsuge er uge 38
