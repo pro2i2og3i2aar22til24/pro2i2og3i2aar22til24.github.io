@@ -1,5 +1,6 @@
 # Byg videre på denne processing kode
 ```java
+
 // root er en variabel der peger på roden af træet
 Node root;
 
@@ -14,8 +15,12 @@ class Node{
     }
 }
 
-// insert er en variabel der bestemmer om vi er i insert mode eller find mode
+// "insert" er en variabel, der bestemmer om vi er i insert mode eller find mode
 boolean insert = true;
+
+// "findTal" er tallet man søger, "found" er true hvis tallet er fundet ellers false
+char findTal = '0';
+boolean found = false;
 
 void setup() {
     size(512, 512);
@@ -24,7 +29,7 @@ void setup() {
 void draw() {
     background(0);
     // Draw tree
-    drawTree(root, 256, 100,50);
+    drawTree(root, 256, 200,100);
     textSize(20);
     fill(255);
     text("Tryk på tasten 'f' for at finde et tal", 10, 20);  
@@ -32,7 +37,7 @@ void draw() {
     text("Insert mode: " + insert, 10, 60);    
     if(insert == false){
         text("Tryk på tal der skal findes", 10, 100);
-        text("Hvis tallet findes, skrives det her:...", 10, 120);
+        text("Er tallet " + findTal + " i træet : " + found, 10, 120);
     }
 }
 
@@ -46,14 +51,16 @@ void keyPressed(){
             break;
         default:
             if(insert){ 
-                add(key);
+                add(key, root);
             } else {
-                find(key);
+                findTal = key;
+                found = find(key, root);
             } 
     }
 }
 
-void add(int value){
+
+void add(int value, Node node){
     value = Integer.parseInt(""+key);
     //ADVARSEL- IMPLEMENTATION ER FORKERT ( KUN TIL TEST)
     root = new Node(value);
@@ -63,8 +70,9 @@ void add(int value){
     root.left.right = new Node(value);    
 }
 
-void find(int value){
+boolean find(int value, Node node){
     // IMPLEMENTATION MANGLER
+    return false;
 }
 
 void drawTree(Node node, int x, int y, int dx){
