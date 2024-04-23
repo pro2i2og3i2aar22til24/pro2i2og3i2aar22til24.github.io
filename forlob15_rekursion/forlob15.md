@@ -24,7 +24,7 @@ Koden i skal bygge videre på findes her:
 [processing kode](./BinaryVisual.md)
 
 1. Funktionen "drawTree" er ikke færdigimplementeret. Byg den færdig - så den både tegner venstre og højre node vha. rekursion
-2. Funktionen "add" er ikke færdigimplementeret. Byg den færdig så den afsøger træet rekursivt, og indsætter tallet på den rigtige plads hvis det er muligt
-3. Funktionen "find" er ikke færdigimplementeret. Byg den således træet afsøges og der vises en text i "draw", der fortæller om tallet er fundet eller ej 
-4. Lav eventuelt en slette metode...
-5. Hvis du af en eller anden grund allerede har lavet hele opgaven ( husk alt skal bygges rekursivt ). Kan du prøve at implementere et "balanceret træ"
+2. Funktionen "add" er ikke færdigimplementeret. Byg den færdig så den afsøger træet rekursivt, og indsætter tallet på den rigtige plads
+3. Funktionen "find" er ikke færdigimplementeret. Byg den således træet afsæges rekursivt og funktionen returnerer true hvis den finder tallet ellers false
+4. EKSTRA: Lav eventuelt en slette metode ...
+5. EKSTRA: Hvis du af en eller anden grund allerede har lavet hele opgaven ( husk alt skal bygges rekursivt ). Kan du prøve at implementere et "balanceret træ"
