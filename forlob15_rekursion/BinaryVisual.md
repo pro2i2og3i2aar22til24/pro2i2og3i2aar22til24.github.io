@@ -1,4 +1,4 @@
-# Forslag til kode-implementation i processing
+# Byg videre på denne processing kode
 ```java
 // root er en variabel der peger på roden af træet
 Node root;
