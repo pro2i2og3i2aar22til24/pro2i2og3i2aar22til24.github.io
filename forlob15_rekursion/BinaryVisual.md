@@ -55,9 +55,13 @@ void keyPressed(){
 
 void add(int value){
     value = Integer.parseInt(""+key);
-    //ADVARSEL- IMPLEMENTATION MEGET MANGELFULD
-    if(root == null){   root = new Node(value);}
-    else{              root.left = new Node(value);}
+    //ADVARSEL- IMPLEMENTATION ER FORKERT ( KUN TIL TEST)
+    if(root == null){   
+        root = new Node(value);
+    }else{              
+        root.left = new Node(value);
+        root.right= new Node(value);    
+    }
 }
 
 void find(int value){
@@ -74,11 +78,11 @@ void drawTree(Node node, int x, int y, int dx){
     text(node.value, x-5, y+5);
     if(node.left != null){
         // Tegn linje til venstre barn
-        // Tegn venstre barn
+        // Tegn venstre barn ved at kalde drawTree igen!
     }
     if(node.right != null){
         // Tegn linje til højre barn
-        // Tegn højre barn
+        // Tegn højre barn ved at kalde drawTree igen!
     }
 }
 
