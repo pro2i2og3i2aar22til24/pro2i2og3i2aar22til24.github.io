@@ -3,7 +3,7 @@
 
 I dette lille forløb (3 eller måske 4 moduler) skal vi (dvs. I) bygge en visuel implementation af datastrukturen "binært-træ".
 
-Programmet skal anvende "rekursive implementationer af funktionerne "insert" og "find" eventuelt andre....
+Programmet skal anvende "rekursion" til at "tegne træet", "indsætte tal" og "finde tal" og eventuelt andre ting....
 
 ### Rekursiv funktion
 
