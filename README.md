@@ -45,6 +45,7 @@ Mvh underviseren selv Anders J.R. Petersen
 | **Eksamenstræning**             |                                                                                                      | 7       | 19-21           |       |
 |                                 |                                                                                                      |         |                 |       |
 | sidste skoledag onsdag d.22 maj |                                                                                                      |         | 21              |       |
+| **Eksamen**                     | [Info om selve eksamen  : d.17, 18 og 19 juni](/forlob16_eksamen/eksamen.md)                         |         | 25              | juni  | 
 
 [^1]: metoder og konventioner i programmering er meget relevante ifm. sop
 [^2]: teknikfagsuge er uge 38
