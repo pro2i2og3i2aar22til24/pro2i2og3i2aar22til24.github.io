@@ -12,9 +12,9 @@
 - Webudvikling med dom api
 
 ## Eksamensformen:
-1) Trækker ukendt opgave
-2) Forbredelse 60 minutter til at forberede en præsentation af opgaven og eksamensprojektet.
-3) Eksamination er 30 min inklusiv votering. 
+- 1 Trækker ukendt opgave
+- 2 Forbredelse 60 minutter til at forberede en præsentation af opgaven og eksamensprojektet.
+- 3 Eksamination er 30 min inklusiv votering. 
 
 Der er ingen eksakte regler for fordelingen af eksaminationstiden, men der står det er hensigtsmæssigt at fordele tiden nogenlunde ligeligt mellem de to opgaver, med efterfølgende mulighed for spørgsmål.
 Mit bedste bud på en fordeling af tiden er:
